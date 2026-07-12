@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lohn und Gehalt - Test</title>
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+</head>
+<body class="bg-gray-100 text-gray-900 min-h-screen flex flex-col items-center p-4">
+
+    <div class="w-full max-w-md bg-white rounded-2xl shadow-xl p-6 mt-4 flex-1 flex flex-col justify-between">
+
+        <div>
+            <div class="flex justify-between text-sm text-gray-500 mb-2">
+                <span id="topic" class="font-bold text-indigo-600">Topic</span>
+                <span>Frage: <span id="current-number">1</span> / <span id="total-questions">0</span></span>
+            </div>
+            <div class="w-full bg-gray-200 h-2 rounded-full mb-6">
+                <div id="progress-bar" class="bg-indigo-600 h-2 rounded-full transition-all duration-300" style="width: 0%"></div>
+            </div>
+
+            <h2 id="question-text" class="text-lg font-semibold mb-6">Frage text hier...</h2>
+
+            <div id="options-container" class="space-y-3">
+                </div>
+        </div>
+
+        <div id="explanation-container" class="hidden mt-6 p-4 bg-blue-50 border-l-4 border-blue-500 rounded-r-lg">
+            <p class="text-sm font-bold text-blue-800 mb-1">Erklärung:</p>
+            <p id="explanation-text" class="text-sm text-blue-950"></p>
+            <button id="next-btn" class="w-full mt-4 bg-indigo-600 text-white font-bold py-3 px-4 rounded-xl shadow-md hover:bg-indigo-700 active:scale-95 transition">
+                Nächste Frage
+            </button>
+        </div>
+
+    </div>
+
+    <script src="questions.js"></script>
+    <script>
+        let currentIdx = 0;
+        let hasAnswered = false;
+
+        const topicEl = document.getElementById('topic');
+        const currentNumEl = document.getElementById('current-number');
+        const totalQuestionsEl = document.getElementById('total-questions');
+        const progressBar = document.getElementById('progress-bar');
+        const questionText = document.getElementById('question-text');
+        const optionsContainer = document.getElementById('options-container');
+        const explanationContainer = document.getElementById('explanation-container');
+        const explanationText = document.getElementById('explanation-text');
+        const nextBtn = document.getElementById('next-btn');
+
+        totalQuestionsEl.innerText = questions.length;
+
+        function loadQuestion() {
+            hasAnswered = false;
+            explanationContainer.classList.add('hidden');
+            optionsContainer.innerHTML = '';
+
+            const q = questions[currentIdx];
+            topicEl.innerText = `Frage ${q.id}`;
+            currentNumEl.innerText = currentIdx + 1;
+            questionText.innerText = q.question;
+
+            // Оновлення прогрес-бару
+            progressBar.style.width = `${((currentIdx + 1) / questions.length) * 100}%`;
+
+            q.options.forEach(opt => {
+                const letter = opt.charAt(0); // Отримуємо 'A', 'B', 'C' або 'D'
+                const btn = document.createElement('button');
+                btn.className = "w-full text-left p-4 rounded-xl border-2 border-gray-200 hover:border-indigo-500 bg-gray-50 active:bg-gray-100 transition font-medium flex items-center";
+                btn.innerText = opt;
+                btn.onclick = () => checkAnswer(letter, btn, q.correct_letter);
+                optionsContainer.appendChild(btn);
+            });
+        }
+
+        function checkAnswer(selectedLetter, selectedBtn, correctLetter) {
+            if (hasAnswered) return;
+            hasAnswered = true;
+
+            const buttons = optionsContainer.querySelectorAll('button');
+            buttons.forEach(btn => {
+                const btnLetter = btn.innerText.charAt(0);
+                if (btnLetter === correctLetter) {
+                    btn.className = "w-full text-left p-4 rounded-xl border-2 border-green-500 bg-green-50 text-green-900 font-bold flex items-center";
+                } else if (btnLetter === selectedLetter) {
+                    btn.className = "w-full text-left p-4 rounded-xl border-2 border-red-500 bg-red-50 text-red-900 font-bold flex items-center";
+                } else {
+                    btn.className = "w-full text-left p-4 rounded-xl border-2 border-gray-100 bg-gray-50 text-gray-400 flex items-center opacity-60";
+                }
+            });
+
+            // Показуємо німецьке пояснення
+            explanationText.innerText = questions[currentIdx].explanation;
+            explanationContainer.classList.remove('hidden');
+        }
+
+        nextBtn.onclick = () => {
+            if (currentIdx < questions.length - 1) {
+                currentIdx++;
+                loadQuestion();
+            } else {
+                alert("Herzlichen Glückwunsch! Sie haben alle Fragen beantwortet.");
+                currentIdx = 0;
+                loadQuestion();
+            }
+        };
+
+        // Старт
+        loadQuestion();
+    </script>
+</body>
+</html>
