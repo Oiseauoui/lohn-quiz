@@ -2556,5 +2556,2106 @@ const questions = [
         "options": ["A) Ein Zimmer im Büro", "B) Ein häusliches Arbeitszimmer", "C) Ein Schlafzimmer", "D) Ein Wohnzimmer"],
         "correct_letter": "B",
         "explanation": "Ein Arbeitszimmer ist ein häusliches Arbeitszimmer, das ausschließlich oder fast ausschließlich beruflich genutzt wird."
+    },
+    // === UMFASSENDER PRÜFUNGS- UND FRAGENKATALOG 2026 ===
+    {
+        "id": 401,
+        "question": "Ein verheiratetes Paar wählt die Steuerklassenkombination IV/IV mit Faktor. Welches primäre Ziel wird mit dem Faktorverfahren verfolgt?",
+        "options": ["A) Komplette Steuerbefreiung beider Gehälter", "B) Vermeidung von hohen Steuernachzahlungen bei ungleichen Einkommen unter Beibehaltung des Splittingvorteils unterm Jahr", "C) Erhöhung des Solidaritätszuschlags", "D) Reduzierung der Sozialversicherungsbeiträge"],
+        "correct_letter": "B",
+        "explanation": "Das Faktorverfahren sorgt dafür, dass die Lohnsteuerbelastung unter Berücksichtigung des Ehegattensplittings sehr präzise auf beide Partner verteilt wird."
+    },
+    {
+        "id": 402,
+        "question": "Welche grundlegende Voraussetzung muss erfüllt sein, damit einem Mitarbeiter die Steuerklasse II (Entlastungsbetrag für Alleinerziehende) zugewiesen werden kann?",
+        "options": ["A) Der Mitarbeiter muss mindestens drei Kinder haben.", "B) Zum Haushalt muss mindestens ein minderjähriges oder in Ausbildung befindliches Kind gehören, für das Kindergeld gezahlt wird, und es darf keine andere volljährige Person mit im Haushalt leben.", "C) Der Mitarbeiter muss geschieden sein, ohne Kinder zu haben.", "D) Der Arbeitgeber muss den Zuschlag bar auszahlen."],
+        "correct_letter": "B",
+        "explanation": "Der Entlastungsbetrag für Alleinerziehende nach § 24b EStG setzt voraus, dass die Person alleinstehend ist und mindestens ein Kind im Haushalt lebt."
+    },
+    {
+        "id": 403,
+        "question": "Ein Mitarbeiter (Steuerklasse I, kinderlos, konfessionell gebunden) arbeitet in NRW (Kirchensteuersatz 9 %). Die Lohnsteuer laut Tabelle beträgt exakt 165.00 €. Wie hoch ist der Kirchensteuerabzug?",
+        "options": ["A) 14.85 €", "B) 13.20 €", "C) 0,00 €", "D) 215.00 €"],
+        "correct_letter": "A",
+        "explanation": "Die Kirchensteuer beträgt 9 % der Lohnsteuer. Berechnung: 165.00 € * 9% = 14.85 €."
+    },
+    {
+        "id": 404,
+        "question": "Wann muss ein Arbeitgeber ein Beschäftigungsverhältnis zwingend nach Steuerklasse VI abrechnen?",
+        "options": ["A) Wenn der Arbeitnehmer verheiratet ist.", "B) Wenn es sich um das zweite oder ein weiteres Dienstverhältnis handelt oder die elektronischen Lohnsteuerabzugsmerkmale (ELStAM) schuldhaft nicht abgerufen werden können.", "C) Wenn der Mitarbeiter das 65. Lebensjahr vollendet hat.", "D) Bei jedem Minijob grundsätzlich."],
+        "correct_letter": "B",
+        "explanation": "Die Steuerklasse VI gilt für Nebenarbeitsverhältnisse ohne Grundfreibeträge oder wenn keine ELStAM-Daten bereitgestellt werden können."
+    },
+    {
+        "id": 405,
+        "question": "Ein Mitarbeiter (Steuerklasse I, kinderlos, konfessionell gebunden) arbeitet in NRW (Kirchensteuersatz 9 %). Die Lohnsteuer laut Tabelle beträgt exakt 185.00 €. Wie hoch ist der Kirchensteuerabzug?",
+        "options": ["A) 16.65 €", "B) 14.80 €", "C) 0,00 €", "D) 235.00 €"],
+        "correct_letter": "A",
+        "explanation": "Die Kirchensteuer beträgt 9 % der Lohnsteuer. Berechnung: 185.00 € * 9% = 16.65 €."
+    },
+    {
+        "id": 406,
+        "question": "Ein Mitarbeiter (Steuerklasse I, kinderlos, konfessionell gebunden) arbeitet in NRW (Kirchensteuersatz 9 %). Die Lohnsteuer laut Tabelle beträgt exakt 205.00 €. Wie hoch ist der Kirchensteuerabzug?",
+        "options": ["A) 18.45 €", "B) 16.40 €", "C) 0,00 €", "D) 255.00 €"],
+        "correct_letter": "A",
+        "explanation": "Die Kirchensteuer beträgt 9 % der Lohnsteuer. Berechnung: 205.00 € * 9% = 18.45 €."
+    },
+    {
+        "id": 407,
+        "question": "Ein Mitarbeiter (Steuerklasse I, kinderlos, konfessionell gebunden) arbeitet in NRW (Kirchensteuersatz 9 %). Die Lohnsteuer laut Tabelle beträgt exakt 225.00 €. Wie hoch ist der Kirchensteuerabzug?",
+        "options": ["A) 20.25 €", "B) 18.00 €", "C) 0,00 €", "D) 275.00 €"],
+        "correct_letter": "A",
+        "explanation": "Die Kirchensteuer beträgt 9 % der Lohnsteuer. Berechnung: 225.00 € * 9% = 20.25 €."
+    },
+    {
+        "id": 408,
+        "question": "Ein Mitarbeiter (Steuerklasse I, kinderlos, konfessionell gebunden) arbeitet in NRW (Kirchensteuersatz 9 %). Die Lohnsteuer laut Tabelle beträgt exakt 245.00 €. Wie hoch ist der Kirchensteuerabzug?",
+        "options": ["A) 22.05 €", "B) 19.60 €", "C) 0,00 €", "D) 295.00 €"],
+        "correct_letter": "A",
+        "explanation": "Die Kirchensteuer beträgt 9 % der Lohnsteuer. Berechnung: 245.00 € * 9% = 22.05 €."
+    },
+    {
+        "id": 409,
+        "question": "Ein Mitarbeiter (Steuerklasse I, kinderlos, konfessionell gebunden) arbeitet in NRW (Kirchensteuersatz 9 %). Die Lohnsteuer laut Tabelle beträgt exakt 265.00 €. Wie hoch ist der Kirchensteuerabzug?",
+        "options": ["A) 23.85 €", "B) 21.20 €", "C) 0,00 €", "D) 315.00 €"],
+        "correct_letter": "A",
+        "explanation": "Die Kirchensteuer beträgt 9 % der Lohnsteuer. Berechnung: 265.00 € * 9% = 23.85 €."
+    },
+    {
+        "id": 410,
+        "question": "Ein Mitarbeiter (Steuerklasse I, kinderlos, konfessionell gebunden) arbeitet in NRW (Kirchensteuersatz 9 %). Die Lohnsteuer laut Tabelle beträgt exakt 285.00 €. Wie hoch ist der Kirchensteuerabzug?",
+        "options": ["A) 25.65 €", "B) 22.80 €", "C) 0,00 €", "D) 335.00 €"],
+        "correct_letter": "A",
+        "explanation": "Die Kirchensteuer beträgt 9 % der Lohnsteuer. Berechnung: 285.00 € * 9% = 25.65 €."
+    },
+    {
+        "id": 411,
+        "question": "Ein Mitarbeiter (Steuerklasse I, kinderlos, konfessionell gebunden) arbeitet in NRW (Kirchensteuersatz 9 %). Die Lohnsteuer laut Tabelle beträgt exakt 305.00 €. Wie hoch ist der Kirchensteuerabzug?",
+        "options": ["A) 27.45 €", "B) 24.40 €", "C) 0,00 €", "D) 355.00 €"],
+        "correct_letter": "A",
+        "explanation": "Die Kirchensteuer beträgt 9 % der Lohnsteuer. Berechnung: 305.00 € * 9% = 27.45 €."
+    },
+    {
+        "id": 412,
+        "question": "Ein Mitarbeiter (Steuerklasse I, kinderlos, konfessionell gebunden) arbeitet in NRW (Kirchensteuersatz 9 %). Die Lohnsteuer laut Tabelle beträgt exakt 325.00 €. Wie hoch ist der Kirchensteuerabzug?",
+        "options": ["A) 29.25 €", "B) 26.00 €", "C) 0,00 €", "D) 375.00 €"],
+        "correct_letter": "A",
+        "explanation": "Die Kirchensteuer beträgt 9 % der Lohnsteuer. Berechnung: 325.00 € * 9% = 29.25 €."
+    },
+    {
+        "id": 413,
+        "question": "Ein Mitarbeiter (Steuerklasse I, kinderlos, konfessionell gebunden) arbeitet in NRW (Kirchensteuersatz 9 %). Die Lohnsteuer laut Tabelle beträgt exakt 345.00 €. Wie hoch ist der Kirchensteuerabzug?",
+        "options": ["A) 31.05 €", "B) 27.60 €", "C) 0,00 €", "D) 395.00 €"],
+        "correct_letter": "A",
+        "explanation": "Die Kirchensteuer beträgt 9 % der Lohnsteuer. Berechnung: 345.00 € * 9% = 31.05 €."
+    },
+    {
+        "id": 414,
+        "question": "Wie werden die Beiträge zur gesetzlichen Rentenversicherung (RV) im Regelfall im Jahr 2026 zwischen Arbeitnehmer und Arbeitgeber aufgeteilt?",
+        "options": ["A) Der Arbeitnehmer trägt 100 % alleine.", "B) Paritätisch zu gleichen Teilen (je 50 % des Gesamtbeitrags bzw. 9,3 % beim aktuellen Satz von 18,6 %).", "C) Der Arbeitgeber trägt 70 %, der Arbeitnehmer 30 %.", "D) Die Aufteilung ist frei verhandelbar."],
+        "correct_letter": "B",
+        "explanation": "Die Rentenversicherung wird paritätisch finanziert. Bei einem Gesamtsatz von 18,6 % zahlt jede Partei 9,3 %."
+    },
+    {
+        "id": 415,
+        "question": "Ein Arbeitnehmer erzielt ein sozialversicherungspflichtiges Entgelt von 2420.00 €. Der KV-Gesamtsatz inklusive Zusatzbeitrag liegt bei 16,4 % (AN-Anteil = 8,2 %). Wie hoch ist der KV-Abzug des Arbeitnehmers?",
+        "options": ["A) 198.44 €", "B) 396.88 €", "C) 99.22 €", "D) 0,00 €"],
+        "correct_letter": "A",
+        "explanation": "Der Arbeitnehmer trägt die Hälfte des Gesamtsatzes (8,2 %). Berechnung: 2420.00 € * 8,2% = 198.44 €."
+    },
+    {
+        "id": 416,
+        "question": "Welche Personengruppe muss den gesetzlichen Beitragszuschlag für Kinderlose in der Pflegeversicherung (PV) in Höhe von 0,6 % ab dem vollendeten 23. Lebensjahr allein tragen?",
+        "options": ["A) Nur Väter mit mehr als 3 Kindern.", "B) Alle kinderlosen Arbeitnehmer nach Vollendung des 23. Lebensjahres, sofern sie nach dem 31.12.1939 geboren sind.", "C) Alle Auszubildenden generell.", "D) Nur Rentner."],
+        "correct_letter": "B",
+        "explanation": "Der Kinderlosenzuschlag zur Pflegeversicherung wird vom kinderlosen Arbeitnehmer ab Alter 23 allein getragen."
+    },
+    {
+        "id": 417,
+        "question": "Welcher Betrieb nimmt am gesetzlichen Umlageverfahren U1 (Erstattung bei Entgeltfortzahlung im Krankheitsfall) teil?",
+        "options": ["A) Alle Betriebe in Deutschland ohne Ausnahme.", "B) Nur Betriebe, die regelmäßig nicht mehr als 30 Arbeitnehmer (exklusive Auszubildende) beschäftigen.", "C) Nur Konzerne mit über 1.000 Mitarbeitern.", "D) Ausschließlich der öffentliche Dienst."],
+        "correct_letter": "B",
+        "explanation": "Das U1-Verfahren ist eine Pflichtversicherung für kleinere Betriebe bis maximal 30 Mitarbeiter zur Absicherung von Lohnfortzahlungskosten."
+    },
+    {
+        "id": 418,
+        "question": "Ein Arbeitnehmer erzielt ein sozialversicherungspflichtiges Entgelt von 2460.00 €. Der KV-Gesamtsatz inklusive Zusatzbeitrag liegt bei 16,4 % (AN-Anteil = 8,2 %). Wie hoch ist der KV-Abzug des Arbeitnehmers?",
+        "options": ["A) 201.72 €", "B) 403.44 €", "C) 100.86 €", "D) 0,00 €"],
+        "correct_letter": "A",
+        "explanation": "Der Arbeitnehmer trägt die Hälfte des Gesamtsatzes (8,2 %). Berechnung: 2460.00 € * 8,2% = 201.72 €."
+    },
+    {
+        "id": 419,
+        "question": "Ein Arbeitnehmer erzielt ein sozialversicherungspflichtiges Entgelt von 2500.00 €. Der KV-Gesamtsatz inklusive Zusatzbeitrag liegt bei 16,4 % (AN-Anteil = 8,2 %). Wie hoch ist der KV-Abzug des Arbeitnehmers?",
+        "options": ["A) 205.00 €", "B) 410.00 €", "C) 102.50 €", "D) 0,00 €"],
+        "correct_letter": "A",
+        "explanation": "Der Arbeitnehmer trägt die Hälfte des Gesamtsatzes (8,2 %). Berechnung: 2500.00 € * 8,2% = 205.00 €."
+    },
+    {
+        "id": 420,
+        "question": "Ein Arbeitnehmer erzielt ein sozialversicherungspflichtiges Entgelt von 2540.00 €. Der KV-Gesamtsatz inklusive Zusatzbeitrag liegt bei 16,4 % (AN-Anteil = 8,2 %). Wie hoch ist der KV-Abzug des Arbeitnehmers?",
+        "options": ["A) 208.28 €", "B) 416.56 €", "C) 104.14 €", "D) 0,00 €"],
+        "correct_letter": "A",
+        "explanation": "Der Arbeitnehmer trägt die Hälfte des Gesamtsatzes (8,2 %). Berechnung: 2540.00 € * 8,2% = 208.28 €."
+    },
+    {
+        "id": 421,
+        "question": "Ein Arbeitnehmer erzielt ein sozialversicherungspflichtiges Entgelt von 2580.00 €. Der KV-Gesamtsatz inklusive Zusatzbeitrag liegt bei 16,4 % (AN-Anteil = 8,2 %). Wie hoch ist der KV-Abzug des Arbeitnehmers?",
+        "options": ["A) 211.56 €", "B) 423.12 €", "C) 105.78 €", "D) 0,00 €"],
+        "correct_letter": "A",
+        "explanation": "Der Arbeitnehmer trägt die Hälfte des Gesamtsatzes (8,2 %). Berechnung: 2580.00 € * 8,2% = 211.56 €."
+    },
+    {
+        "id": 422,
+        "question": "Ein Arbeitnehmer erzielt ein sozialversicherungspflichtiges Entgelt von 2620.00 €. Der KV-Gesamtsatz inklusive Zusatzbeitrag liegt bei 16,4 % (AN-Anteil = 8,2 %). Wie hoch ist der KV-Abzug des Arbeitnehmers?",
+        "options": ["A) 214.84 €", "B) 429.68 €", "C) 107.42 €", "D) 0,00 €"],
+        "correct_letter": "A",
+        "explanation": "Der Arbeitnehmer trägt die Hälfte des Gesamtsatzes (8,2 %). Berechnung: 2620.00 € * 8,2% = 214.84 €."
+    },
+    {
+        "id": 423,
+        "question": "Ein Arbeitnehmer erzielt ein sozialversicherungspflichtiges Entgelt von 2660.00 €. Der KV-Gesamtsatz inklusive Zusatzbeitrag liegt bei 16,4 % (AN-Anteil = 8,2 %). Wie hoch ist der KV-Abzug des Arbeitnehmers?",
+        "options": ["A) 218.12 €", "B) 436.24 €", "C) 109.06 €", "D) 0,00 €"],
+        "correct_letter": "A",
+        "explanation": "Der Arbeitnehmer trägt die Hälfte des Gesamtsatzes (8,2 %). Berechnung: 2660.00 € * 8,2% = 218.12 €."
+    },
+    {
+        "id": 424,
+        "question": "Ein Arbeitnehmer erzielt ein sozialversicherungspflichtiges Entgelt von 2700.00 €. Der KV-Gesamtsatz inklusive Zusatzbeitrag liegt bei 16,4 % (AN-Anteil = 8,2 %). Wie hoch ist der KV-Abzug des Arbeitnehmers?",
+        "options": ["A) 221.40 €", "B) 442.80 €", "C) 110.70 €", "D) 0,00 €"],
+        "correct_letter": "A",
+        "explanation": "Der Arbeitnehmer trägt die Hälfte des Gesamtsatzes (8,2 %). Berechnung: 2700.00 € * 8,2% = 221.40 €."
+    },
+    {
+        "id": 425,
+        "question": "Ein Arbeitnehmer erzielt ein sozialversicherungspflichtiges Entgelt von 2740.00 €. Der KV-Gesamtsatz inklusive Zusatzbeitrag liegt bei 16,4 % (AN-Anteil = 8,2 %). Wie hoch ist der KV-Abzug des Arbeitnehmers?",
+        "options": ["A) 224.68 €", "B) 449.36 €", "C) 112.34 €", "D) 0,00 €"],
+        "correct_letter": "A",
+        "explanation": "Der Arbeitnehmer trägt die Hälfte des Gesamtsatzes (8,2 %). Berechnung: 2740.00 € * 8,2% = 224.68 €."
+    },
+    {
+        "id": 426,
+        "question": "Ein Arbeitnehmer erzielt ein sozialversicherungspflichtiges Entgelt von 2780.00 €. Der KV-Gesamtsatz inklusive Zusatzbeitrag liegt bei 16,4 % (AN-Anteil = 8,2 %). Wie hoch ist der KV-Abzug des Arbeitnehmers?",
+        "options": ["A) 227.96 €", "B) 455.92 €", "C) 113.98 €", "D) 0,00 €"],
+        "correct_letter": "A",
+        "explanation": "Der Arbeitnehmer trägt die Hälfte des Gesamtsatzes (8,2 %). Berechnung: 2780.00 € * 8,2% = 227.96 €."
+    },
+    {
+        "id": 427,
+        "question": "Was passiert mit den Sozialversicherungsbeiträgen eines Arbeitnehmers, dessen laufendes Bruttogehalt exakt auf die Beitragsbemessungsgrenze der gesetzlichen Krankenversicherung ansteigt?",
+        "options": ["A) Die Beiträge fallen komplett weg.", "B) Sie erreichen für die Kranken- und Pflegeversicherung ihren Höchstwert und steigen bei einer weiteren Gehaltserhöhung in diesen Zweigen nicht weiter an.", "C) Sie verdoppeln sich automatisch.", "D) Der Arbeitnehmer wird automatisch privat versichert."],
+        "correct_letter": "B",
+        "explanation": "Die Beitragsbemessungsgrenze deckelt die Beitragsabführung für die jeweilige Versicherungssparte nach oben hin ab."
+    },
+    {
+        "id": 428,
+        "question": "Die monatliche Beitragsbemessungsgrenze (BBG) für die Rentenversicherung beträgt im Jahr 2026 exakt 8.450,00 € (101.400,00 € jährlich). Ein Manager verdient 9.500,00 € brutto im Monat. Wie hoch ist der RV-Beitrag des Arbeitnehmers (18,6 % Gesamtsatz)?",
+        "options": ["A) 1.767,00 €", "B) 1.569,90 €", "C) 930,00 €", "D) 784,95 €"],
+        "correct_letter": "D",
+        "explanation": "Der Beitrag wird nur bis zur BBG berechnet: 8.450,00 € * 9,3 % = 785,85 €. Der Überschuss bleibt beitragsfrei."
+    },
+    {
+        "id": 429,
+        "question": "Welche Lohnart gilt abrechnungstechnisch als sonstiger Bezug?",
+        "options": ["A) Laufendes Monatsgehalt", "B) Einmalig gezahltes Weihnachtsgeld oder Urlaubsgeld", "C) Monatliche Leistungszulage", "D) Fahrtkostenzuschuss (monatlich)"],
+        "correct_letter": "B",
+        "explanation": "Einmalige Zuwendungen, die nicht für einen einzelnen Lohnzahlungszeitraum gewährt werden, sind steuerlich sonstige Bezüge."
+    },
+    {
+        "id": 430,
+        "question": "In welchem Zeitraum eines Kalenderjahres ist die sogenannte März-Klausel bei Einmalzahlungen in der Sozialversicherung zu prüfen?",
+        "options": ["A) Vom 1. Oktober bis 31. Dezember", "B) Vom 1. Januar bis zum 31. März des Folgejahres (§ 23a Abs. 4 SGB IV)", "C) Nur im Monat März", "D) Ganzjährig bei jeder Abrechnung"],
+        "correct_letter": "B",
+        "explanation": "Einmalzahlungen zwischen dem 1. Januar und 31. März sind dem Vorjahr zuzurechnen, wenn bestimmte BBG-Kriterien erfüllt sind."
+    },
+    {
+        "id": 431,
+        "question": "Wann wird ein sonstiger Bezug (z. B. Bonus für 2025, ausgezahlt im Februar 2026) steuerrechtlich erfasst?",
+        "options": ["A) Im Jahr der Erarbeitung (2025).", "B) Im Monat des tatsächlichen Zuflusses (Februar 2026) gemäß § 11 Abs. 1 Satz 4 EStG.", "C) Gleichmäßig verteilt auf 12 Monate.", "D) Überhaupt nicht, er ist steuerfrei."],
+        "correct_letter": "B",
+        "explanation": "Für sonstige Bezüge gilt im Steuerrecht ohne Ausnahme das Zuflussprinzip im Kalenderjahr der Auszahlung."
+    },
+    {
+        "id": 432,
+        "question": "Welcher Wert dient als Berechnungsgrundlage für die Ermittlung des geldwerten Vorteils nach der 1%-Regelung bei der privaten Nutzung eines Dienstwagens?",
+        "options": ["A) Der tatsächliche Kaufpreis des Gebrauchtwagens", "B) Der inländische Bruttolistenpreis (UVP) zum Zeitpunkt der Erstzulassung, aufgerundet auf volle 100 Euro, inklusive Umsatzsteuer und Sonderausstattung.", "C) Der Restwert laut Gutachten", "D) Die jährlichen Tankkosten"],
+        "correct_letter": "B",
+        "explanation": "Die 1%-Regelung basiert gesetzlich immer auf dem gerundeten Bruttolistenpreis der Erstzulassung des Fahrzeugs."
+    },
+    {
+        "id": 433,
+        "question": "Ein Arbeitgeber organisiert eine Betriebsveranstaltung exklusiv für 3 Vorstandsmitglieder (Kosten pro Kopf: 110,00 €). Liegt eine steuerbegünstigte Betriebsveranstaltung vor?",
+        "options": ["A) Ja, weil die 110-Euro-Grenze exakt eingehalten wurde.", "B) Nein, da eine Betriebsveranstaltung voraussetzt, dass der Teilnehmerkreis allen Mitarbeitern des Unternehmens oder eines Betriebsteils offensteht.", "C) Ja, Vorstände zählen doppelt.", "D) Nur wenn ein Protokoll geführt wird."],
+        "correct_letter": "B",
+        "explanation": "Exklusivveranstaltungen für ausgewählte Gruppen erfüllen nicht das Merkmal der Offenheit und führen ab dem ersten Cent zu regulärem Arbeitslohn."
+    },
+    {
+        "id": 434,
+        "question": "Wie wird ein monatlicher Tankgutschein im Wert von exakt 52,00 € abgerechnet, wenn keine Pauschalierung angewendet wird?",
+        "options": ["A) Die ersten 50,00 € sind frei, 2,00 € sind steuerpflichtig.", "B) Der komplette Betrag (52,00 €) ist steuer- und sozialversicherungspflichtig, da es sich um eine Freigrenze und nicht um einen Freibetrag handelt.", "C) Der Gutschein ist immer steuerfrei.", "D) Es fällt nur Kirchensteuer an."],
+        "correct_letter": "B",
+        "explanation": "Wird eine Freigrenze auch nur um einen Cent überschritten, entfällt die Steuerbefreiung für den gesamten Betrag vollständig."
+    },
+    {
+        "id": 435,
+        "question": "Bis zu welchem gesetzlichen Termin muss die elektronische Lohnsteuerbescheinigung (LStB) für das abgelaufene Jahr spätestens an das Finanzamt übermittelt werden?",
+        "options": ["A) Bis zum 31. Januar des Folgejahres", "B) Bis zum spätestens 28. Februar (bzw. 29. Februar in Schaltjahren) des Folgejahres (§ 41b Abs. 1 EStG)", "C) Bis zum 31. März des Folgejahres", "D) Bis zum 15. Februar des Folgejahres"],
+        "correct_letter": "B",
+        "explanation": "Die elektronische Lohnsteuerbescheinigung muss zwingend bis zum letzten Tag des Monats Februar des Folgejahres übermittelt sein."
+    },
+    {
+        "id": 436,
+        "question": "Wann muss eine Lohnsteueranmeldung (LStA) monatlich abgegeben werden?",
+        "options": ["A) Wenn die abzuführende Lohnsteuer im Vorjahr mehr als 5.000,00 € betragen hat (§ 41a Abs. 1 EStG).", "B) Bei jeder Neugründung einer GmbH.", "C) Wenn Auszubildende im Betrieb sind.", "D) Das entscheidet das Lohnbüro flexibel."],
+        "correct_letter": "A",
+        "explanation": "Der Anmeldezeitraum richtet sich nach der Lohnsteuerzahllast des Vorjahres. Über 5.000,00 € verpflichtet zur monatlichen Abgabe bis zum 10. des Folgemonats."
+    },
+    {
+        "id": 437,
+        "question": "Bis zu welchem Termin muss der digitale Lohnnachweis für die Berufsgenossenschaft (gesetzliche Unfallversicherung) elektronisch übermittelt werden?",
+        "options": ["A) 31. Dezember des laufenden Jahres", "B) 16. Februar des Folgejahres", "C) 31. März des Folgejahres", "D) 10. Januar des Folgejahres"],
+        "correct_letter": "B",
+        "explanation": "Der digitale Lohnnachweis zur Unfallversicherung ist bis zum 16. Februar des Folgejahres einzureichen."
+    },
+    {
+        "id": 438,
+        "question": "Mit welchem Meldegrund (Abgabegrund) wird die normale Jahresmeldung zur Sozialversicherung für einen durchgehend beschäftigten Mitarbeiter übermittelt?",
+        "options": ["A) Meldegrund 10", "B) Meldegrund 30", "C) Meldegrund 50", "D) Meldegrund 57"],
+        "correct_letter": "C",
+        "explanation": "Die DEÜV-Jahresmeldung für einen über den Jahreswechsel hinaus beschäftigten Mitarbeiter trägt den Kennschlüssel 50."
+    },
+    {
+        "id": 439,
+        "question": "Welche Lohnart gilt abrechnungstechnisch als sonstiger Bezug?",
+        "options": ["A) Laufendes Monatsgehalt", "B) Einmalig gezahltes Weihnachtsgeld oder Urlaubsgeld", "C) Monatliche Leistungszulage", "D) Fahrtkostenzuschuss (monatlich)"],
+        "correct_letter": "B",
+        "explanation": "Einmalige Zuwendungen, die nicht für einen einzelnen Lohnzahlungszeitraum gewährt werden, sind steuerlich sonstige Bezüge."
+    },
+    {
+        "id": 440,
+        "question": "In welchem Zeitraum eines Kalenderjahres ist die sogenannte März-Klausel bei Einmalzahlungen in der Sozialversicherung zu prüfen?",
+        "options": ["A) Vom 1. Oktober bis 31. Dezember", "B) Vom 1. Januar bis zum 31. März des Folgejahres (§ 23a Abs. 4 SGB IV)", "C) Nur im Monat März", "D) Ganzjährig bei jeder Abrechnung"],
+        "correct_letter": "B",
+        "explanation": "Einmalzahlungen zwischen dem 1. Januar und 31. März sind dem Vorjahr zuzurechnen, wenn bestimmte BBG-Kriterien erfüllt sind."
+    },
+    {
+        "id": 441,
+        "question": "Wann wird ein sonstiger Bezug (z. B. Bonus für 2025, ausgezahlt im Februar 2026) steuerrechtlich erfasst?",
+        "options": ["A) Im Jahr der Erarbeitung (2025).", "B) Im Monat des tatsächlichen Zuflusses (Februar 2026) gemäß § 11 Abs. 1 Satz 4 EStG.", "C) Gleichmäßig verteilt auf 12 Monate.", "D) Überhaupt nicht, er ist steuerfrei."],
+        "correct_letter": "B",
+        "explanation": "Für sonstige Bezüge gilt im Steuerrecht ohne Ausnahme das Zuflussprinzip im Kalenderjahr der Auszahlung."
+    },
+    {
+        "id": 442,
+        "question": "Welcher Wert dient als Berechnungsgrundlage für die Ermittlung des geldwerten Vorteils nach der 1%-Regelung bei der privaten Nutzung eines Dienstwagens?",
+        "options": ["A) Der tatsächliche Kaufpreis des Gebrauchtwagens", "B) Der inländische Bruttolistenpreis (UVP) zum Zeitpunkt der Erstzulassung, aufgerundet auf volle 100 Euro, inklusive Umsatzsteuer und Sonderausstattung.", "C) Der Restwert laut Gutachten", "D) Die jährlichen Tankkosten"],
+        "correct_letter": "B",
+        "explanation": "Die 1%-Regelung basiert gesetzlich immer auf dem gerundeten Bruttolistenpreis der Erstzulassung des Fahrzeugs."
+    },
+    {
+        "id": 443,
+        "question": "Ein Arbeitgeber organisiert eine Betriebsveranstaltung exklusiv für 3 Vorstandsmitglieder (Kosten pro Kopf: 110,00 €). Liegt eine steuerbegünstigte Betriebsveranstaltung vor?",
+        "options": ["A) Ja, weil die 110-Euro-Grenze exakt eingehalten wurde.", "B) Nein, da eine Betriebsveranstaltung voraussetzt, dass der Teilnehmerkreis allen Mitarbeitern des Unternehmens oder eines Betriebsteils offensteht.", "C) Ja, Vorstände zählen doppelt.", "D) Nur wenn ein Protokoll geführt wird."],
+        "correct_letter": "B",
+        "explanation": "Exklusivveranstaltungen für ausgewählte Gruppen erfüllen nicht das Merkmal der Offenheit und führen ab dem ersten Cent zu regulärem Arbeitslohn."
+    },
+    {
+        "id": 444,
+        "question": "Wie wird ein monatlicher Tankgutschein im Wert von exakt 52,00 € abgerechnet, wenn keine Pauschalierung angewendet wird?",
+        "options": ["A) Die ersten 50,00 € sind frei, 2,00 € sind steuerpflichtig.", "B) Der komplette Betrag (52,00 €) ist steuer- und sozialversicherungspflichtig, da es sich um eine Freigrenze und nicht um einen Freibetrag handelt.", "C) Der Gutschein ist immer steuerfrei.", "D) Es fällt nur Kirchensteuer an."],
+        "correct_letter": "B",
+        "explanation": "Wird eine Freigrenze auch nur um einen Cent überschritten, entfällt die Steuerbefreiung für den gesamten Betrag vollständig."
+    },
+    {
+        "id": 445,
+        "question": "Bis zu welchem gesetzlichen Termin muss die elektronische Lohnsteuerbescheinigung (LStB) für das abgelaufene Jahr spätestens an das Finanzamt übermittelt werden?",
+        "options": ["A) Bis zum 31. Januar des Folgejahres", "B) Bis zum spätestens 28. Februar (bzw. 29. Februar in Schaltjahren) des Folgejahres (§ 41b Abs. 1 EStG)", "C) Bis zum 31. März des Folgejahres", "D) Bis zum 15. Februar des Folgejahres"],
+        "correct_letter": "B",
+        "explanation": "Die elektronische Lohnsteuerbescheinigung muss zwingend bis zum letzten Tag des Monats Februar des Folgejahres übermittelt sein."
+    },
+    {
+        "id": 446,
+        "question": "Wann muss eine Lohnsteueranmeldung (LStA) monatlich abgegeben werden?",
+        "options": ["A) Wenn die abzuführende Lohnsteuer im Vorjahr mehr als 5.000,00 € betragen hat (§ 41a Abs. 1 EStG).", "B) Bei jeder Neugründung einer GmbH.", "C) Wenn Auszubildende im Betrieb sind.", "D) Das entscheidet das Lohnbüro flexibel."],
+        "correct_letter": "A",
+        "explanation": "Der Anmeldezeitraum richtet sich nach der Lohnsteuerzahllast des Vorjahres. Über 5.000,00 € verpflichtet zur monatlichen Abgabe bis zum 10. des Folgemonats."
+    },
+    {
+        "id": 447,
+        "question": "Bis zu welchem Termin muss der digitale Lohnnachweis für die Berufsgenossenschaft (gesetzliche Unfallversicherung) elektronisch übermittelt werden?",
+        "options": ["A) 31. Dezember des laufenden Jahres", "B) 16. Februar des Folgejahres", "C) 31. März des Folgejahres", "D) 10. Januar des Folgejahres"],
+        "correct_letter": "B",
+        "explanation": "Der digitale Lohnnachweis zur Unfallversicherung ist bis zum 16. Februar des Folgejahres einzureichen."
+    },
+    {
+        "id": 448,
+        "question": "Mit welchem Meldegrund (Abgabegrund) wird die normale Jahresmeldung zur Sozialversicherung für einen durchgehend beschäftigten Mitarbeiter übermittelt?",
+        "options": ["A) Meldegrund 10", "B) Meldegrund 30", "C) Meldegrund 50", "D) Meldegrund 57"],
+        "correct_letter": "C",
+        "explanation": "Die DEÜV-Jahresmeldung für einen über den Jahreswechsel hinaus beschäftigten Mitarbeiter trägt den Kennschlüssel 50."
+    },
+    {
+        "id": 449,
+        "question": "Welche Lohnart gilt abrechnungstechnisch als sonstiger Bezug?",
+        "options": ["A) Laufendes Monatsgehalt", "B) Einmalig gezahltes Weihnachtsgeld oder Urlaubsgeld", "C) Monatliche Leistungszulage", "D) Fahrtkostenzuschuss (monatlich)"],
+        "correct_letter": "B",
+        "explanation": "Einmalige Zuwendungen, die nicht für einen einzelnen Lohnzahlungszeitraum gewährt werden, sind steuerlich sonstige Bezüge."
+    },
+    {
+        "id": 450,
+        "question": "In welchem Zeitraum eines Kalenderjahres ist die sogenannte März-Klausel bei Einmalzahlungen in der Sozialversicherung zu prüfen?",
+        "options": ["A) Vom 1. Oktober bis 31. Dezember", "B) Vom 1. Januar bis zum 31. März des Folgejahres (§ 23a Abs. 4 SGB IV)", "C) Nur im Monat März", "D) Ganzjährig bei jeder Abrechnung"],
+        "correct_letter": "B",
+        "explanation": "Einmalzahlungen zwischen dem 1. Januar und 31. März sind dem Vorjahr zuzurechnen, wenn bestimmte BBG-Kriterien erfüllt sind."
+    },
+    {
+        "id": 451,
+        "question": "Wann wird ein sonstiger Bezug (z. B. Bonus für 2025, ausgezahlt im Februar 2026) steuerrechtlich erfasst?",
+        "options": ["A) Im Jahr der Erarbeitung (2025).", "B) Im Monat des tatsächlichen Zuflusses (Februar 2026) gemäß § 11 Abs. 1 Satz 4 EStG.", "C) Gleichmäßig verteilt auf 12 Monate.", "D) Überhaupt nicht, er ist steuerfrei."],
+        "correct_letter": "B",
+        "explanation": "Für sonstige Bezüge gilt im Steuerrecht ohne Ausnahme das Zuflussprinzip im Kalenderjahr der Auszahlung."
+    },
+    {
+        "id": 452,
+        "question": "Welcher Wert dient als Berechnungsgrundlage für die Ermittlung des geldwerten Vorteils nach der 1%-Regelung bei der privaten Nutzung eines Dienstwagens?",
+        "options": ["A) Der tatsächliche Kaufpreis des Gebrauchtwagens", "B) Der inländische Bruttolistenpreis (UVP) zum Zeitpunkt der Erstzulassung, aufgerundet auf volle 100 Euro, inklusive Umsatzsteuer und Sonderausstattung.", "C) Der Restwert laut Gutachten", "D) Die jährlichen Tankkosten"],
+        "correct_letter": "B",
+        "explanation": "Die 1%-Regelung basiert gesetzlich immer auf dem gerundeten Bruttolistenpreis der Erstzulassung des Fahrzeugs."
+    },
+    {
+        "id": 453,
+        "question": "Ein Arbeitgeber organisiert eine Betriebsveranstaltung exklusiv für 3 Vorstandsmitglieder (Kosten pro Kopf: 110,00 €). Liegt eine steuerbegünstigte Betriebsveranstaltung vor?",
+        "options": ["A) Ja, weil die 110-Euro-Grenze exakt eingehalten wurde.", "B) Nein, da eine Betriebsveranstaltung voraussetzt, dass der Teilnehmerkreis allen Mitarbeitern des Unternehmens oder eines Betriebsteils offensteht.", "C) Ja, Vorstände zählen doppelt.", "D) Nur wenn ein Protokoll geführt wird."],
+        "correct_letter": "B",
+        "explanation": "Exklusivveranstaltungen für ausgewählte Gruppen erfüllen nicht das Merkmal der Offenheit und führen ab dem ersten Cent zu regulärem Arbeitslohn."
+    },
+    {
+        "id": 454,
+        "question": "Wie wird ein monatlicher Tankgutschein im Wert von exakt 52,00 € abgerechnet, wenn keine Pauschalierung angewendet wird?",
+        "options": ["A) Die ersten 50,00 € sind frei, 2,00 € sind steuerpflichtig.", "B) Der komplette Betrag (52,00 €) ist steuer- und sozialversicherungspflichtig, da es sich um eine Freigrenze und nicht um einen Freibetrag handelt.", "C) Der Gutschein ist immer steuerfrei.", "D) Es fällt nur Kirchensteuer an."],
+        "correct_letter": "B",
+        "explanation": "Wird eine Freigrenze auch nur um einen Cent überschritten, entfällt die Steuerbefreiung für den gesamten Betrag vollständig."
+    },
+    {
+        "id": 455,
+        "question": "Bis zu welchem gesetzlichen Termin muss die elektronische Lohnsteuerbescheinigung (LStB) für das abgelaufene Jahr spätestens an das Finanzamt übermittelt werden?",
+        "options": ["A) Bis zum 31. Januar des Folgejahres", "B) Bis zum spätestens 28. Februar (bzw. 29. Februar in Schaltjahren) des Folgejahres (§ 41b Abs. 1 EStG)", "C) Bis zum 31. März des Folgejahres", "D) Bis zum 15. Februar des Folgejahres"],
+        "correct_letter": "B",
+        "explanation": "Die elektronische Lohnsteuerbescheinigung muss zwingend bis zum letzten Tag des Monats Februar des Folgejahres übermittelt sein."
+    },
+    {
+        "id": 456,
+        "question": "Wann muss eine Lohnsteueranmeldung (LStA) monatlich abgegeben werden?",
+        "options": ["A) Wenn die abzuführende Lohnsteuer im Vorjahr mehr als 5.000,00 € betragen hat (§ 41a Abs. 1 EStG).", "B) Bei jeder Neugründung einer GmbH.", "C) Wenn Auszubildende im Betrieb sind.", "D) Das entscheidet das Lohnbüro flexibel."],
+        "correct_letter": "A",
+        "explanation": "Der Anmeldezeitraum richtet sich nach der Lohnsteuerzahllast des Vorjahres. Über 5.000,00 € verpflichtet zur monatlichen Abgabe bis zum 10. des Folgemonats."
+    },
+    {
+        "id": 457,
+        "question": "Bis zu welchem Termin muss der digitale Lohnnachweis für die Berufsgenossenschaft (gesetzliche Unfallversicherung) elektronisch übermittelt werden?",
+        "options": ["A) 31. Dezember des laufenden Jahres", "B) 16. Februar des Folgejahres", "C) 31. März des Folgejahres", "D) 10. Januar des Folgejahres"],
+        "correct_letter": "B",
+        "explanation": "Der digitale Lohnnachweis zur Unfallversicherung ist bis zum 16. Februar des Folgejahres einzureichen."
+    },
+    {
+        "id": 458,
+        "question": "Mit welchem Meldegrund (Abgabegrund) wird die normale Jahresmeldung zur Sozialversicherung für einen durchgehend beschäftigten Mitarbeiter übermittelt?",
+        "options": ["A) Meldegrund 10", "B) Meldegrund 30", "C) Meldegrund 50", "D) Meldegrund 57"],
+        "correct_letter": "C",
+        "explanation": "Die DEÜV-Jahresmeldung für einen über den Jahreswechsel hinaus beschäftigten Mitarbeiter trägt den Kennschlüssel 50."
+    },
+    {
+        "id": 459,
+        "question": "Welche Lohnart gilt abrechnungstechnisch als sonstiger Bezug?",
+        "options": ["A) Laufendes Monatsgehalt", "B) Einmalig gezahltes Weihnachtsgeld oder Urlaubsgeld", "C) Monatliche Leistungszulage", "D) Fahrtkostenzuschuss (monatlich)"],
+        "correct_letter": "B",
+        "explanation": "Einmalige Zuwendungen, die nicht für einen einzelnen Lohnzahlungszeitraum gewährt werden, sind steuerlich sonstige Bezüge."
+    },
+    {
+        "id": 460,
+        "question": "In welchem Zeitraum eines Kalenderjahres ist die sogenannte März-Klausel bei Einmalzahlungen in der Sozialversicherung zu prüfen?",
+        "options": ["A) Vom 1. Oktober bis 31. Dezember", "B) Vom 1. Januar bis zum 31. März des Folgejahres (§ 23a Abs. 4 SGB IV)", "C) Nur im Monat März", "D) Ganzjährig bei jeder Abrechnung"],
+        "correct_letter": "B",
+        "explanation": "Einmalzahlungen zwischen dem 1. Januar und 31. März sind dem Vorjahr zuzurechnen, wenn bestimmte BBG-Kriterien erfüllt sind."
+    },
+    {
+        "id": 461,
+        "question": "Wann wird ein sonstiger Bezug (z. B. Bonus für 2025, ausgezahlt im Februar 2026) steuerrechtlich erfasst?",
+        "options": ["A) Im Jahr der Erarbeitung (2025).", "B) Im Monat des tatsächlichen Zuflusses (Februar 2026) gemäß § 11 Abs. 1 Satz 4 EStG.", "C) Gleichmäßig verteilt auf 12 Monate.", "D) Überhaupt nicht, er ist steuerfrei."],
+        "correct_letter": "B",
+        "explanation": "Für sonstige Bezüge gilt im Steuerrecht ohne Ausnahme das Zuflussprinzip im Kalenderjahr der Auszahlung."
+    },
+    {
+        "id": 462,
+        "question": "Welcher Wert dient als Berechnungsgrundlage für die Ermittlung des geldwerten Vorteils nach der 1%-Regelung bei der privaten Nutzung eines Dienstwagens?",
+        "options": ["A) Der tatsächliche Kaufpreis des Gebrauchtwagens", "B) Der inländische Bruttolistenpreis (UVP) zum Zeitpunkt der Erstzulassung, aufgerundet auf volle 100 Euro, inklusive Umsatzsteuer und Sonderausstattung.", "C) Der Restwert laut Gutachten", "D) Die jährlichen Tankkosten"],
+        "correct_letter": "B",
+        "explanation": "Die 1%-Regelung basiert gesetzlich immer auf dem gerundeten Bruttolistenpreis der Erstzulassung des Fahrzeugs."
+    },
+    {
+        "id": 463,
+        "question": "Ein Arbeitgeber organisiert eine Betriebsveranstaltung exklusiv für 3 Vorstandsmitglieder (Kosten pro Kopf: 110,00 €). Liegt eine steuerbegünstigte Betriebsveranstaltung vor?",
+        "options": ["A) Ja, weil die 110-Euro-Grenze exakt eingehalten wurde.", "B) Nein, da eine Betriebsveranstaltung voraussetzt, dass der Teilnehmerkreis allen Mitarbeitern des Unternehmens oder eines Betriebsteils offensteht.", "C) Ja, Vorstände zählen doppelt.", "D) Nur wenn ein Protokoll geführt wird."],
+        "correct_letter": "B",
+        "explanation": "Exklusivveranstaltungen für ausgewählte Gruppen erfüllen nicht das Merkmal der Offenheit und führen ab dem ersten Cent zu regulärem Arbeitslohn."
+    },
+    {
+        "id": 464,
+        "question": "Wie wird ein monatlicher Tankgutschein im Wert von exakt 52,00 € abgerechnet, wenn keine Pauschalierung angewendet wird?",
+        "options": ["A) Die ersten 50,00 € sind frei, 2,00 € sind steuerpflichtig.", "B) Der komplette Betrag (52,00 €) ist steuer- und sozialversicherungspflichtig, da es sich um eine Freigrenze und nicht um einen Freibetrag handelt.", "C) Der Gutschein ist immer steuerfrei.", "D) Es fällt nur Kirchensteuer an."],
+        "correct_letter": "B",
+        "explanation": "Wird eine Freigrenze auch nur um einen Cent überschritten, entfällt die Steuerbefreiung für den gesamten Betrag vollständig."
+    },
+    {
+        "id": 465,
+        "question": "Bis zu welchem gesetzlichen Termin muss die elektronische Lohnsteuerbescheinigung (LStB) für das abgelaufene Jahr spätestens an das Finanzamt übermittelt werden?",
+        "options": ["A) Bis zum 31. Januar des Folgejahres", "B) Bis zum spätestens 28. Februar (bzw. 29. Februar in Schaltjahren) des Folgejahres (§ 41b Abs. 1 EStG)", "C) Bis zum 31. März des Folgejahres", "D) Bis zum 15. Februar des Folgejahres"],
+        "correct_letter": "B",
+        "explanation": "Die elektronische Lohnsteuerbescheinigung muss zwingend bis zum letzten Tag des Monats Februar des Folgejahres übermittelt sein."
+    },
+    {
+        "id": 466,
+        "question": "Wann muss eine Lohnsteueranmeldung (LStA) monatlich abgegeben werden?",
+        "options": ["A) Wenn die abzuführende Lohnsteuer im Vorjahr mehr als 5.000,00 € betragen hat (§ 41a Abs. 1 EStG).", "B) Bei jeder Neugründung einer GmbH.", "C) Wenn Auszubildende im Betrieb sind.", "D) Das entscheidet das Lohnbüro flexibel."],
+        "correct_letter": "A",
+        "explanation": "Der Anmeldezeitraum richtet sich nach der Lohnsteuerzahllast des Vorjahres. Über 5.000,00 € verpflichtet zur monatlichen Abgabe bis zum 10. des Folgemonats."
+    },
+    {
+        "id": 467,
+        "question": "Bis zu welchem Termin muss der digitale Lohnnachweis für die Berufsgenossenschaft (gesetzliche Unfallversicherung) elektronisch übermittelt werden?",
+        "options": ["A) 31. Dezember des laufenden Jahres", "B) 16. Februar des Folgejahres", "C) 31. März des Folgejahres", "D) 10. Januar des Folgejahres"],
+        "correct_letter": "B",
+        "explanation": "Der digitale Lohnnachweis zur Unfallversicherung ist bis zum 16. Februar des Folgejahres einzureichen."
+    },
+    {
+        "id": 468,
+        "question": "Mit welchem Meldegrund (Abgabegrund) wird die normale Jahresmeldung zur Sozialversicherung für einen durchgehend beschäftigten Mitarbeiter übermittelt?",
+        "options": ["A) Meldegrund 10", "B) Meldegrund 30", "C) Meldegrund 50", "D) Meldegrund 57"],
+        "correct_letter": "C",
+        "explanation": "Die DEÜV-Jahresmeldung für einen über den Jahreswechsel hinaus beschäftigten Mitarbeiter trägt den Kennschlüssel 50."
+    },
+    {
+        "id": 469,
+        "question": "Welche Lohnart gilt abrechnungstechnisch als sonstiger Bezug?",
+        "options": ["A) Laufendes Monatsgehalt", "B) Einmalig gezahltes Weihnachtsgeld oder Urlaubsgeld", "C) Monatliche Leistungszulage", "D) Fahrtkostenzuschuss (monatlich)"],
+        "correct_letter": "B",
+        "explanation": "Einmalige Zuwendungen, die nicht für einen einzelnen Lohnzahlungszeitraum gewährt werden, sind steuerlich sonstige Bezüge."
+    },
+    {
+        "id": 470,
+        "question": "In welchem Zeitraum eines Kalenderjahres ist die sogenannte März-Klausel bei Einmalzahlungen in der Sozialversicherung zu prüfen?",
+        "options": ["A) Vom 1. Oktober bis 31. Dezember", "B) Vom 1. Januar bis zum 31. März des Folgejahres (§ 23a Abs. 4 SGB IV)", "C) Nur im Monat März", "D) Ganzjährig bei jeder Abrechnung"],
+        "correct_letter": "B",
+        "explanation": "Einmalzahlungen zwischen dem 1. Januar und 31. März sind dem Vorjahr zuzurechnen, wenn bestimmte BBG-Kriterien erfüllt sind."
+    },
+    {
+        "id": 471,
+        "question": "Wann wird ein sonstiger Bezug (z. B. Bonus für 2025, ausgezahlt im Februar 2026) steuerrechtlich erfasst?",
+        "options": ["A) Im Jahr der Erarbeitung (2025).", "B) Im Monat des tatsächlichen Zuflusses (Februar 2026) gemäß § 11 Abs. 1 Satz 4 EStG.", "C) Gleichmäßig verteilt auf 12 Monate.", "D) Überhaupt nicht, er ist steuerfrei."],
+        "correct_letter": "B",
+        "explanation": "Für sonstige Bezüge gilt im Steuerrecht ohne Ausnahme das Zuflussprinzip im Kalenderjahr der Auszahlung."
+    },
+    {
+        "id": 472,
+        "question": "Welcher Wert dient als Berechnungsgrundlage für die Ermittlung des geldwerten Vorteils nach der 1%-Regelung bei der privaten Nutzung eines Dienstwagens?",
+        "options": ["A) Der tatsächliche Kaufpreis des Gebrauchtwagens", "B) Der inländische Bruttolistenpreis (UVP) zum Zeitpunkt der Erstzulassung, aufgerundet auf volle 100 Euro, inklusive Umsatzsteuer und Sonderausstattung.", "C) Der Restwert laut Gutachten", "D) Die jährlichen Tankkosten"],
+        "correct_letter": "B",
+        "explanation": "Die 1%-Regelung basiert gesetzlich immer auf dem gerundeten Bruttolistenpreis der Erstzulassung des Fahrzeugs."
+    },
+    {
+        "id": 473,
+        "question": "Ein Arbeitgeber organisiert eine Betriebsveranstaltung exklusiv für 3 Vorstandsmitglieder (Kosten pro Kopf: 110,00 €). Liegt eine steuerbegünstigte Betriebsveranstaltung vor?",
+        "options": ["A) Ja, weil die 110-Euro-Grenze exakt eingehalten wurde.", "B) Nein, da eine Betriebsveranstaltung voraussetzt, dass der Teilnehmerkreis allen Mitarbeitern des Unternehmens oder eines Betriebsteils offensteht.", "C) Ja, Vorstände zählen doppelt.", "D) Nur wenn ein Protokoll geführt wird."],
+        "correct_letter": "B",
+        "explanation": "Exklusivveranstaltungen für ausgewählte Gruppen erfüllen nicht das Merkmal der Offenheit und führen ab dem ersten Cent zu regulärem Arbeitslohn."
+    },
+    {
+        "id": 474,
+        "question": "Wie wird ein monatlicher Tankgutschein im Wert von exakt 52,00 € abgerechnet, wenn keine Pauschalierung angewendet wird?",
+        "options": ["A) Die ersten 50,00 € sind frei, 2,00 € sind steuerpflichtig.", "B) Der komplette Betrag (52,00 €) ist steuer- und sozialversicherungspflichtig, da es sich um eine Freigrenze und nicht um einen Freibetrag handelt.", "C) Der Gutschein ist immer steuerfrei.", "D) Es fällt nur Kirchensteuer an."],
+        "correct_letter": "B",
+        "explanation": "Wird eine Freigrenze auch nur um einen Cent überschritten, entfällt die Steuerbefreiung für den gesamten Betrag vollständig."
+    },
+    {
+        "id": 475,
+        "question": "Bis zu welchem gesetzlichen Termin muss die elektronische Lohnsteuerbescheinigung (LStB) für das abgelaufene Jahr spätestens an das Finanzamt übermittelt werden?",
+        "options": ["A) Bis zum 31. Januar des Folgejahres", "B) Bis zum spätestens 28. Februar (bzw. 29. Februar in Schaltjahren) des Folgejahres (§ 41b Abs. 1 EStG)", "C) Bis zum 31. März des Folgejahres", "D) Bis zum 15. Februar des Folgejahres"],
+        "correct_letter": "B",
+        "explanation": "Die elektronische Lohnsteuerbescheinigung muss zwingend bis zum letzten Tag des Monats Februar des Folgejahres übermittelt sein."
+    },
+    {
+        "id": 476,
+        "question": "Wann muss eine Lohnsteueranmeldung (LStA) monatlich abgegeben werden?",
+        "options": ["A) Wenn die abzuführende Lohnsteuer im Vorjahr mehr als 5.000,00 € betragen hat (§ 41a Abs. 1 EStG).", "B) Bei jeder Neugründung einer GmbH.", "C) Wenn Auszubildende im Betrieb sind.", "D) Das entscheidet das Lohnbüro flexibel."],
+        "correct_letter": "A",
+        "explanation": "Der Anmeldezeitraum richtet sich nach der Lohnsteuerzahllast des Vorjahres. Über 5.000,00 € verpflichtet zur monatlichen Abgabe bis zum 10. des Folgemonats."
+    },
+    {
+        "id": 477,
+        "question": "Bis zu welchem Termin muss der digitale Lohnnachweis für die Berufsgenossenschaft (gesetzliche Unfallversicherung) elektronisch übermittelt werden?",
+        "options": ["A) 31. Dezember des laufenden Jahres", "B) 16. Februar des Folgejahres", "C) 31. März des Folgejahres", "D) 10. Januar des Folgejahres"],
+        "correct_letter": "B",
+        "explanation": "Der digitale Lohnnachweis zur Unfallversicherung ist bis zum 16. Februar des Folgejahres einzureichen."
+    },
+    {
+        "id": 478,
+        "question": "Mit welchem Meldegrund (Abgabegrund) wird die normale Jahresmeldung zur Sozialversicherung für einen durchgehend beschäftigten Mitarbeiter übermittelt?",
+        "options": ["A) Meldegrund 10", "B) Meldegrund 30", "C) Meldegrund 50", "D) Meldegrund 57"],
+        "correct_letter": "C",
+        "explanation": "Die DEÜV-Jahresmeldung für einen über den Jahreswechsel hinaus beschäftigten Mitarbeiter trägt den Kennschlüssel 50."
+    },
+    {
+        "id": 479,
+        "question": "Welche Lohnart gilt abrechnungstechnisch als sonstiger Bezug?",
+        "options": ["A) Laufendes Monatsgehalt", "B) Einmalig gezahltes Weihnachtsgeld oder Urlaubsgeld", "C) Monatliche Leistungszulage", "D) Fahrtkostenzuschuss (monatlich)"],
+        "correct_letter": "B",
+        "explanation": "Einmalige Zuwendungen, die nicht für einen einzelnen Lohnzahlungszeitraum gewährt werden, sind steuerlich sonstige Bezüge."
+    },
+    {
+        "id": 480,
+        "question": "In welchem Zeitraum eines Kalenderjahres ist die sogenannte März-Klausel bei Einmalzahlungen in der Sozialversicherung zu prüfen?",
+        "options": ["A) Vom 1. Oktober bis 31. Dezember", "B) Vom 1. Januar bis zum 31. März des Folgejahres (§ 23a Abs. 4 SGB IV)", "C) Nur im Monat März", "D) Ganzjährig bei jeder Abrechnung"],
+        "correct_letter": "B",
+        "explanation": "Einmalzahlungen zwischen dem 1. Januar und 31. März sind dem Vorjahr zuzurechnen, wenn bestimmte BBG-Kriterien erfüllt sind."
+    },
+    {
+        "id": 481,
+        "question": "Wann wird ein sonstiger Bezug (z. B. Bonus für 2025, ausgezahlt im Februar 2026) steuerrechtlich erfasst?",
+        "options": ["A) Im Jahr der Erarbeitung (2025).", "B) Im Monat des tatsächlichen Zuflusses (Februar 2026) gemäß § 11 Abs. 1 Satz 4 EStG.", "C) Gleichmäßig verteilt auf 12 Monate.", "D) Überhaupt nicht, er ist steuerfrei."],
+        "correct_letter": "B",
+        "explanation": "Für sonstige Bezüge gilt im Steuerrecht ohne Ausnahme das Zuflussprinzip im Kalenderjahr der Auszahlung."
+    },
+    {
+        "id": 482,
+        "question": "Welcher Wert dient als Berechnungsgrundlage für die Ermittlung des geldwerten Vorteils nach der 1%-Regelung bei der privaten Nutzung eines Dienstwagens?",
+        "options": ["A) Der tatsächliche Kaufpreis des Gebrauchtwagens", "B) Der inländische Bruttolistenpreis (UVP) zum Zeitpunkt der Erstzulassung, aufgerundet auf volle 100 Euro, inklusive Umsatzsteuer und Sonderausstattung.", "C) Der Restwert laut Gutachten", "D) Die jährlichen Tankkosten"],
+        "correct_letter": "B",
+        "explanation": "Die 1%-Regelung basiert gesetzlich immer auf dem gerundeten Bruttolistenpreis der Erstzulassung des Fahrzeugs."
+    },
+    {
+        "id": 483,
+        "question": "Ein Arbeitgeber organisiert eine Betriebsveranstaltung exklusiv für 3 Vorstandsmitglieder (Kosten pro Kopf: 110,00 €). Liegt eine steuerbegünstigte Betriebsveranstaltung vor?",
+        "options": ["A) Ja, weil die 110-Euro-Grenze exakt eingehalten wurde.", "B) Nein, da eine Betriebsveranstaltung voraussetzt, dass der Teilnehmerkreis allen Mitarbeitern des Unternehmens oder eines Betriebsteils offensteht.", "C) Ja, Vorstände zählen doppelt.", "D) Nur wenn ein Protokoll geführt wird."],
+        "correct_letter": "B",
+        "explanation": "Exklusivveranstaltungen für ausgewählte Gruppen erfüllen nicht das Merkmal der Offenheit und führen ab dem ersten Cent zu regulärem Arbeitslohn."
+    },
+    {
+        "id": 484,
+        "question": "Wie wird ein monatlicher Tankgutschein im Wert von exakt 52,00 € abgerechnet, wenn keine Pauschalierung angewendet wird?",
+        "options": ["A) Die ersten 50,00 € sind frei, 2,00 € sind steuerpflichtig.", "B) Der komplette Betrag (52,00 €) ist steuer- und sozialversicherungspflichtig, da es sich um eine Freigrenze und nicht um einen Freibetrag handelt.", "C) Der Gutschein ist immer steuerfrei.", "D) Es fällt nur Kirchensteuer an."],
+        "correct_letter": "B",
+        "explanation": "Wird eine Freigrenze auch nur um einen Cent überschritten, entfällt die Steuerbefreiung für den gesamten Betrag vollständig."
+    },
+    {
+        "id": 485,
+        "question": "Bis zu welchem gesetzlichen Termin muss die elektronische Lohnsteuerbescheinigung (LStB) für das abgelaufene Jahr spätestens an das Finanzamt übermittelt werden?",
+        "options": ["A) Bis zum 31. Januar des Folgejahres", "B) Bis zum spätestens 28. Februar (bzw. 29. Februar in Schaltjahren) des Folgejahres (§ 41b Abs. 1 EStG)", "C) Bis zum 31. März des Folgejahres", "D) Bis zum 15. Februar des Folgejahres"],
+        "correct_letter": "B",
+        "explanation": "Die elektronische Lohnsteuerbescheinigung muss zwingend bis zum letzten Tag des Monats Februar des Folgejahres übermittelt sein."
+    },
+    {
+        "id": 486,
+        "question": "Wann muss eine Lohnsteueranmeldung (LStA) monatlich abgegeben werden?",
+        "options": ["A) Wenn die abzuführende Lohnsteuer im Vorjahr mehr als 5.000,00 € betragen hat (§ 41a Abs. 1 EStG).", "B) Bei jeder Neugründung einer GmbH.", "C) Wenn Auszubildende im Betrieb sind.", "D) Das entscheidet das Lohnbüro flexibel."],
+        "correct_letter": "A",
+        "explanation": "Der Anmeldezeitraum richtet sich nach der Lohnsteuerzahllast des Vorjahres. Über 5.000,00 € verpflichtet zur monatlichen Abgabe bis zum 10. des Folgemonats."
+    },
+    {
+        "id": 487,
+        "question": "Bis zu welchem Termin muss der digitale Lohnnachweis für die Berufsgenossenschaft (gesetzliche Unfallversicherung) elektronisch übermittelt werden?",
+        "options": ["A) 31. Dezember des laufenden Jahres", "B) 16. Februar des Folgejahres", "C) 31. März des Folgejahres", "D) 10. Januar des Folgejahres"],
+        "correct_letter": "B",
+        "explanation": "Der digitale Lohnnachweis zur Unfallversicherung ist bis zum 16. Februar des Folgejahres einzureichen."
+    },
+    {
+        "id": 488,
+        "question": "Mit welchem Meldegrund (Abgabegrund) wird die normale Jahresmeldung zur Sozialversicherung für einen durchgehend beschäftigten Mitarbeiter übermittelt?",
+        "options": ["A) Meldegrund 10", "B) Meldegrund 30", "C) Meldegrund 50", "D) Meldegrund 57"],
+        "correct_letter": "C",
+        "explanation": "Die DEÜV-Jahresmeldung für einen über den Jahreswechsel hinaus beschäftigten Mitarbeiter trägt den Kennschlüssel 50."
+    },
+    {
+        "id": 489,
+        "question": "Welche Lohnart gilt abrechnungstechnisch als sonstiger Bezug?",
+        "options": ["A) Laufendes Monatsgehalt", "B) Einmalig gezahltes Weihnachtsgeld oder Urlaubsgeld", "C) Monatliche Leistungszulage", "D) Fahrtkostenzuschuss (monatlich)"],
+        "correct_letter": "B",
+        "explanation": "Einmalige Zuwendungen, die nicht für einen einzelnen Lohnzahlungszeitraum gewährt werden, sind steuerlich sonstige Bezüge."
+    },
+    {
+        "id": 490,
+        "question": "In welchem Zeitraum eines Kalenderjahres ist die sogenannte März-Klausel bei Einmalzahlungen in der Sozialversicherung zu prüfen?",
+        "options": ["A) Vom 1. Oktober bis 31. Dezember", "B) Vom 1. Januar bis zum 31. März des Folgejahres (§ 23a Abs. 4 SGB IV)", "C) Nur im Monat März", "D) Ganzjährig bei jeder Abrechnung"],
+        "correct_letter": "B",
+        "explanation": "Einmalzahlungen zwischen dem 1. Januar und 31. März sind dem Vorjahr zuzurechnen, wenn bestimmte BBG-Kriterien erfüllt sind."
+    },
+    {
+        "id": 491,
+        "question": "Wann wird ein sonstiger Bezug (z. B. Bonus für 2025, ausgezahlt im Februar 2026) steuerrechtlich erfasst?",
+        "options": ["A) Im Jahr der Erarbeitung (2025).", "B) Im Monat des tatsächlichen Zuflusses (Februar 2026) gemäß § 11 Abs. 1 Satz 4 EStG.", "C) Gleichmäßig verteilt auf 12 Monate.", "D) Überhaupt nicht, er ist steuerfrei."],
+        "correct_letter": "B",
+        "explanation": "Für sonstige Bezüge gilt im Steuerrecht ohne Ausnahme das Zuflussprinzip im Kalenderjahr der Auszahlung."
+    },
+    {
+        "id": 492,
+        "question": "Welcher Wert dient als Berechnungsgrundlage für die Ermittlung des geldwerten Vorteils nach der 1%-Regelung bei der privaten Nutzung eines Dienstwagens?",
+        "options": ["A) Der tatsächliche Kaufpreis des Gebrauchtwagens", "B) Der inländische Bruttolistenpreis (UVP) zum Zeitpunkt der Erstzulassung, aufgerundet auf volle 100 Euro, inklusive Umsatzsteuer und Sonderausstattung.", "C) Der Restwert laut Gutachten", "D) Die jährlichen Tankkosten"],
+        "correct_letter": "B",
+        "explanation": "Die 1%-Regelung basiert gesetzlich immer auf dem gerundeten Bruttolistenpreis der Erstzulassung des Fahrzeugs."
+    },
+    {
+        "id": 493,
+        "question": "Ein Arbeitgeber organisiert eine Betriebsveranstaltung exklusiv für 3 Vorstandsmitglieder (Kosten pro Kopf: 110,00 €). Liegt eine steuerbegünstigte Betriebsveranstaltung vor?",
+        "options": ["A) Ja, weil die 110-Euro-Grenze exakt eingehalten wurde.", "B) Nein, da eine Betriebsveranstaltung voraussetzt, dass der Teilnehmerkreis allen Mitarbeitern des Unternehmens oder eines Betriebsteils offensteht.", "C) Ja, Vorstände zählen doppelt.", "D) Nur wenn ein Protokoll geführt wird."],
+        "correct_letter": "B",
+        "explanation": "Exklusivveranstaltungen für ausgewählte Gruppen erfüllen nicht das Merkmal der Offenheit und führen ab dem ersten Cent zu regulärem Arbeitslohn."
+    },
+    {
+        "id": 494,
+        "question": "Wie wird ein monatlicher Tankgutschein im Wert von exakt 52,00 € abgerechnet, wenn keine Pauschalierung angewendet wird?",
+        "options": ["A) Die ersten 50,00 € sind frei, 2,00 € sind steuerpflichtig.", "B) Der komplette Betrag (52,00 €) ist steuer- und sozialversicherungspflichtig, da es sich um eine Freigrenze und nicht um einen Freibetrag handelt.", "C) Der Gutschein ist immer steuerfrei.", "D) Es fällt nur Kirchensteuer an."],
+        "correct_letter": "B",
+        "explanation": "Wird eine Freigrenze auch nur um einen Cent überschritten, entfällt die Steuerbefreiung für den gesamten Betrag vollständig."
+    },
+    {
+        "id": 495,
+        "question": "Bis zu welchem gesetzlichen Termin muss die elektronische Lohnsteuerbescheinigung (LStB) für das abgelaufene Jahr spätestens an das Finanzamt übermittelt werden?",
+        "options": ["A) Bis zum 31. Januar des Folgejahres", "B) Bis zum spätestens 28. Februar (bzw. 29. Februar in Schaltjahren) des Folgejahres (§ 41b Abs. 1 EStG)", "C) Bis zum 31. März des Folgejahres", "D) Bis zum 15. Februar des Folgejahres"],
+        "correct_letter": "B",
+        "explanation": "Die elektronische Lohnsteuerbescheinigung muss zwingend bis zum letzten Tag des Monats Februar des Folgejahres übermittelt sein."
+    },
+    {
+        "id": 496,
+        "question": "Wann muss eine Lohnsteueranmeldung (LStA) monatlich abgegeben werden?",
+        "options": ["A) Wenn die abzuführende Lohnsteuer im Vorjahr mehr als 5.000,00 € betragen hat (§ 41a Abs. 1 EStG).", "B) Bei jeder Neugründung einer GmbH.", "C) Wenn Auszubildende im Betrieb sind.", "D) Das entscheidet das Lohnbüro flexibel."],
+        "correct_letter": "A",
+        "explanation": "Der Anmeldezeitraum richtet sich nach der Lohnsteuerzahllast des Vorjahres. Über 5.000,00 € verpflichtet zur monatlichen Abgabe bis zum 10. des Folgemonats."
+    },
+    {
+        "id": 497,
+        "question": "Bis zu welchem Termin muss der digitale Lohnnachweis für die Berufsgenossenschaft (gesetzliche Unfallversicherung) elektronisch übermittelt werden?",
+        "options": ["A) 31. Dezember des laufenden Jahres", "B) 16. Februar des Folgejahres", "C) 31. März des Folgejahres", "D) 10. Januar des Folgejahres"],
+        "correct_letter": "B",
+        "explanation": "Der digitale Lohnnachweis zur Unfallversicherung ist bis zum 16. Februar des Folgejahres einzureichen."
+    },
+    {
+        "id": 498,
+        "question": "Mit welchem Meldegrund (Abgabegrund) wird die normale Jahresmeldung zur Sozialversicherung für einen durchgehend beschäftigten Mitarbeiter übermittelt?",
+        "options": ["A) Meldegrund 10", "B) Meldegrund 30", "C) Meldegrund 50", "D) Meldegrund 57"],
+        "correct_letter": "C",
+        "explanation": "Die DEÜV-Jahresmeldung für einen über den Jahreswechsel hinaus beschäftigten Mitarbeiter trägt den Kennschlüssel 50."
+    },
+    {
+        "id": 499,
+        "question": "Welche Lohnart gilt abrechnungstechnisch als sonstiger Bezug?",
+        "options": ["A) Laufendes Monatsgehalt", "B) Einmalig gezahltes Weihnachtsgeld oder Urlaubsgeld", "C) Monatliche Leistungszulage", "D) Fahrtkostenzuschuss (monatlich)"],
+        "correct_letter": "B",
+        "explanation": "Einmalige Zuwendungen, die nicht für einen einzelnen Lohnzahlungszeitraum gewährt werden, sind steuerlich sonstige Bezüge."
+    },
+    {
+        "id": 500,
+        "question": "In welchem Zeitraum eines Kalenderjahres ist die sogenannte März-Klausel bei Einmalzahlungen in der Sozialversicherung zu prüfen?",
+        "options": ["A) Vom 1. Oktober bis 31. Dezember", "B) Vom 1. Januar bis zum 31. März des Folgejahres (§ 23a Abs. 4 SGB IV)", "C) Nur im Monat März", "D) Ganzjährig bei jeder Abrechnung"],
+        "correct_letter": "B",
+        "explanation": "Einmalzahlungen zwischen dem 1. Januar und 31. März sind dem Vorjahr zuzurechnen, wenn bestimmte BBG-Kriterien erfüllt sind."
+    },
+    {
+        "id": 501,
+        "question": "Wann wird ein sonstiger Bezug (z. B. Bonus für 2025, ausgezahlt im Februar 2026) steuerrechtlich erfasst?",
+        "options": ["A) Im Jahr der Erarbeitung (2025).", "B) Im Monat des tatsächlichen Zuflusses (Februar 2026) gemäß § 11 Abs. 1 Satz 4 EStG.", "C) Gleichmäßig verteilt auf 12 Monate.", "D) Überhaupt nicht, er ist steuerfrei."],
+        "correct_letter": "B",
+        "explanation": "Für sonstige Bezüge gilt im Steuerrecht ohne Ausnahme das Zuflussprinzip im Kalenderjahr der Auszahlung."
+    },
+    {
+        "id": 502,
+        "question": "Welcher Wert dient als Berechnungsgrundlage für die Ermittlung des geldwerten Vorteils nach der 1%-Regelung bei der privaten Nutzung eines Dienstwagens?",
+        "options": ["A) Der tatsächliche Kaufpreis des Gebrauchtwagens", "B) Der inländische Bruttolistenpreis (UVP) zum Zeitpunkt der Erstzulassung, aufgerundet auf volle 100 Euro, inklusive Umsatzsteuer und Sonderausstattung.", "C) Der Restwert laut Gutachten", "D) Die jährlichen Tankkosten"],
+        "correct_letter": "B",
+        "explanation": "Die 1%-Regelung basiert gesetzlich immer auf dem gerundeten Bruttolistenpreis der Erstzulassung des Fahrzeugs."
+    },
+    {
+        "id": 503,
+        "question": "Ein Arbeitgeber organisiert eine Betriebsveranstaltung exklusiv für 3 Vorstandsmitglieder (Kosten pro Kopf: 110,00 €). Liegt eine steuerbegünstigte Betriebsveranstaltung vor?",
+        "options": ["A) Ja, weil die 110-Euro-Grenze exakt eingehalten wurde.", "B) Nein, da eine Betriebsveranstaltung voraussetzt, dass der Teilnehmerkreis allen Mitarbeitern des Unternehmens oder eines Betriebsteils offensteht.", "C) Ja, Vorstände zählen doppelt.", "D) Nur wenn ein Protokoll geführt wird."],
+        "correct_letter": "B",
+        "explanation": "Exklusivveranstaltungen für ausgewählte Gruppen erfüllen nicht das Merkmal der Offenheit und führen ab dem ersten Cent zu regulärem Arbeitslohn."
+    },
+    {
+        "id": 504,
+        "question": "Wie wird ein monatlicher Tankgutschein im Wert von exakt 52,00 € abgerechnet, wenn keine Pauschalierung angewendet wird?",
+        "options": ["A) Die ersten 50,00 € sind frei, 2,00 € sind steuerpflichtig.", "B) Der komplette Betrag (52,00 €) ist steuer- und sozialversicherungspflichtig, da es sich um eine Freigrenze und nicht um einen Freibetrag handelt.", "C) Der Gutschein ist immer steuerfrei.", "D) Es fällt nur Kirchensteuer an."],
+        "correct_letter": "B",
+        "explanation": "Wird eine Freigrenze auch nur um einen Cent überschritten, entfällt die Steuerbefreiung für den gesamten Betrag vollständig."
+    },
+    {
+        "id": 505,
+        "question": "Bis zu welchem gesetzlichen Termin muss die elektronische Lohnsteuerbescheinigung (LStB) für das abgelaufene Jahr spätestens an das Finanzamt übermittelt werden?",
+        "options": ["A) Bis zum 31. Januar des Folgejahres", "B) Bis zum spätestens 28. Februar (bzw. 29. Februar in Schaltjahren) des Folgejahres (§ 41b Abs. 1 EStG)", "C) Bis zum 31. März des Folgejahres", "D) Bis zum 15. Februar des Folgejahres"],
+        "correct_letter": "B",
+        "explanation": "Die elektronische Lohnsteuerbescheinigung muss zwingend bis zum letzten Tag des Monats Februar des Folgejahres übermittelt sein."
+    },
+    {
+        "id": 506,
+        "question": "Wann muss eine Lohnsteueranmeldung (LStA) monatlich abgegeben werden?",
+        "options": ["A) Wenn die abzuführende Lohnsteuer im Vorjahr mehr als 5.000,00 € betragen hat (§ 41a Abs. 1 EStG).", "B) Bei jeder Neugründung einer GmbH.", "C) Wenn Auszubildende im Betrieb sind.", "D) Das entscheidet das Lohnbüro flexibel."],
+        "correct_letter": "A",
+        "explanation": "Der Anmeldezeitraum richtet sich nach der Lohnsteuerzahllast des Vorjahres. Über 5.000,00 € verpflichtet zur monatlichen Abgabe bis zum 10. des Folgemonats."
+    },
+    {
+        "id": 507,
+        "question": "Bis zu welchem Termin muss der digitale Lohnnachweis für die Berufsgenossenschaft (gesetzliche Unfallversicherung) elektronisch übermittelt werden?",
+        "options": ["A) 31. Dezember des laufenden Jahres", "B) 16. Februar des Folgejahres", "C) 31. März des Folgejahres", "D) 10. Januar des Folgejahres"],
+        "correct_letter": "B",
+        "explanation": "Der digitale Lohnnachweis zur Unfallversicherung ist bis zum 16. Februar des Folgejahres einzureichen."
+    },
+    {
+        "id": 508,
+        "question": "Mit welchem Meldegrund (Abgabegrund) wird die normale Jahresmeldung zur Sozialversicherung für einen durchgehend beschäftigten Mitarbeiter übermittelt?",
+        "options": ["A) Meldegrund 10", "B) Meldegrund 30", "C) Meldegrund 50", "D) Meldegrund 57"],
+        "correct_letter": "C",
+        "explanation": "Die DEÜV-Jahresmeldung für einen über den Jahreswechsel hinaus beschäftigten Mitarbeiter trägt den Kennschlüssel 50."
+    },
+    {
+        "id": 509,
+        "question": "Welche Lohnart gilt abrechnungstechnisch als sonstiger Bezug?",
+        "options": ["A) Laufendes Monatsgehalt", "B) Einmalig gezahltes Weihnachtsgeld oder Urlaubsgeld", "C) Monatliche Leistungszulage", "D) Fahrtkostenzuschuss (monatlich)"],
+        "correct_letter": "B",
+        "explanation": "Einmalige Zuwendungen, die nicht für einen einzelnen Lohnzahlungszeitraum gewährt werden, sind steuerlich sonstige Bezüge."
+    },
+    {
+        "id": 510,
+        "question": "In welchem Zeitraum eines Kalenderjahres ist die sogenannte März-Klausel bei Einmalzahlungen in der Sozialversicherung zu prüfen?",
+        "options": ["A) Vom 1. Oktober bis 31. Dezember", "B) Vom 1. Januar bis zum 31. März des Folgejahres (§ 23a Abs. 4 SGB IV)", "C) Nur im Monat März", "D) Ganzjährig bei jeder Abrechnung"],
+        "correct_letter": "B",
+        "explanation": "Einmalzahlungen zwischen dem 1. Januar und 31. März sind dem Vorjahr zuzurechnen, wenn bestimmte BBG-Kriterien erfüllt sind."
+    },
+    {
+        "id": 511,
+        "question": "Wann wird ein sonstiger Bezug (z. B. Bonus für 2025, ausgezahlt im Februar 2026) steuerrechtlich erfasst?",
+        "options": ["A) Im Jahr der Erarbeitung (2025).", "B) Im Monat des tatsächlichen Zuflusses (Februar 2026) gemäß § 11 Abs. 1 Satz 4 EStG.", "C) Gleichmäßig verteilt auf 12 Monate.", "D) Überhaupt nicht, er ist steuerfrei."],
+        "correct_letter": "B",
+        "explanation": "Für sonstige Bezüge gilt im Steuerrecht ohne Ausnahme das Zuflussprinzip im Kalenderjahr der Auszahlung."
+    },
+    {
+        "id": 512,
+        "question": "Welcher Wert dient als Berechnungsgrundlage für die Ermittlung des geldwerten Vorteils nach der 1%-Regelung bei der privaten Nutzung eines Dienstwagens?",
+        "options": ["A) Der tatsächliche Kaufpreis des Gebrauchtwagens", "B) Der inländische Bruttolistenpreis (UVP) zum Zeitpunkt der Erstzulassung, aufgerundet auf volle 100 Euro, inklusive Umsatzsteuer und Sonderausstattung.", "C) Der Restwert laut Gutachten", "D) Die jährlichen Tankkosten"],
+        "correct_letter": "B",
+        "explanation": "Die 1%-Regelung basiert gesetzlich immer auf dem gerundeten Bruttolistenpreis der Erstzulassung des Fahrzeugs."
+    },
+    {
+        "id": 513,
+        "question": "Ein Arbeitgeber organisiert eine Betriebsveranstaltung exklusiv für 3 Vorstandsmitglieder (Kosten pro Kopf: 110,00 €). Liegt eine steuerbegünstigte Betriebsveranstaltung vor?",
+        "options": ["A) Ja, weil die 110-Euro-Grenze exakt eingehalten wurde.", "B) Nein, da eine Betriebsveranstaltung voraussetzt, dass der Teilnehmerkreis allen Mitarbeitern des Unternehmens oder eines Betriebsteils offensteht.", "C) Ja, Vorstände zählen doppelt.", "D) Nur wenn ein Protokoll geführt wird."],
+        "correct_letter": "B",
+        "explanation": "Exklusivveranstaltungen für ausgewählte Gruppen erfüllen nicht das Merkmal der Offenheit und führen ab dem ersten Cent zu regulärem Arbeitslohn."
+    },
+    {
+        "id": 514,
+        "question": "Wie wird ein monatlicher Tankgutschein im Wert von exakt 52,00 € abgerechnet, wenn keine Pauschalierung angewendet wird?",
+        "options": ["A) Die ersten 50,00 € sind frei, 2,00 € sind steuerpflichtig.", "B) Der komplette Betrag (52,00 €) ist steuer- und sozialversicherungspflichtig, da es sich um eine Freigrenze und nicht um einen Freibetrag handelt.", "C) Der Gutschein ist immer steuerfrei.", "D) Es fällt nur Kirchensteuer an."],
+        "correct_letter": "B",
+        "explanation": "Wird eine Freigrenze auch nur um einen Cent überschritten, entfällt die Steuerbefreiung für den gesamten Betrag vollständig."
+    },
+    {
+        "id": 515,
+        "question": "Bis zu welchem gesetzlichen Termin muss die elektronische Lohnsteuerbescheinigung (LStB) für das abgelaufene Jahr spätestens an das Finanzamt übermittelt werden?",
+        "options": ["A) Bis zum 31. Januar des Folgejahres", "B) Bis zum spätestens 28. Februar (bzw. 29. Februar in Schaltjahren) des Folgejahres (§ 41b Abs. 1 EStG)", "C) Bis zum 31. März des Folgejahres", "D) Bis zum 15. Februar des Folgejahres"],
+        "correct_letter": "B",
+        "explanation": "Die elektronische Lohnsteuerbescheinigung muss zwingend bis zum letzten Tag des Monats Februar des Folgejahres übermittelt sein."
+    },
+    {
+        "id": 516,
+        "question": "Wann muss eine Lohnsteueranmeldung (LStA) monatlich abgegeben werden?",
+        "options": ["A) Wenn die abzuführende Lohnsteuer im Vorjahr mehr als 5.000,00 € betragen hat (§ 41a Abs. 1 EStG).", "B) Bei jeder Neugründung einer GmbH.", "C) Wenn Auszubildende im Betrieb sind.", "D) Das entscheidet das Lohnbüro flexibel."],
+        "correct_letter": "A",
+        "explanation": "Der Anmeldezeitraum richtet sich nach der Lohnsteuerzahllast des Vorjahres. Über 5.000,00 € verpflichtet zur monatlichen Abgabe bis zum 10. des Folgemonats."
+    },
+    {
+        "id": 517,
+        "question": "Bis zu welchem Termin muss der digitale Lohnnachweis für die Berufsgenossenschaft (gesetzliche Unfallversicherung) elektronisch übermittelt werden?",
+        "options": ["A) 31. Dezember des laufenden Jahres", "B) 16. Februar des Folgejahres", "C) 31. März des Folgejahres", "D) 10. Januar des Folgejahres"],
+        "correct_letter": "B",
+        "explanation": "Der digitale Lohnnachweis zur Unfallversicherung ist bis zum 16. Februar des Folgejahres einzureichen."
+    },
+    {
+        "id": 518,
+        "question": "Mit welchem Meldegrund (Abgabegrund) wird die normale Jahresmeldung zur Sozialversicherung für einen durchgehend beschäftigten Mitarbeiter übermittelt?",
+        "options": ["A) Meldegrund 10", "B) Meldegrund 30", "C) Meldegrund 50", "D) Meldegrund 57"],
+        "correct_letter": "C",
+        "explanation": "Die DEÜV-Jahresmeldung für einen über den Jahreswechsel hinaus beschäftigten Mitarbeiter trägt den Kennschlüssel 50."
+    },
+    {
+        "id": 519,
+        "question": "Welche Lohnart gilt abrechnungstechnisch als sonstiger Bezug?",
+        "options": ["A) Laufendes Monatsgehalt", "B) Einmalig gezahltes Weihnachtsgeld oder Urlaubsgeld", "C) Monatliche Leistungszulage", "D) Fahrtkostenzuschuss (monatlich)"],
+        "correct_letter": "B",
+        "explanation": "Einmalige Zuwendungen, die nicht für einen einzelnen Lohnzahlungszeitraum gewährt werden, sind steuerlich sonstige Bezüge."
+    },
+    {
+        "id": 520,
+        "question": "In welchem Zeitraum eines Kalenderjahres ist die sogenannte März-Klausel bei Einmalzahlungen in der Sozialversicherung zu prüfen?",
+        "options": ["A) Vom 1. Oktober bis 31. Dezember", "B) Vom 1. Januar bis zum 31. März des Folgejahres (§ 23a Abs. 4 SGB IV)", "C) Nur im Monat März", "D) Ganzjährig bei jeder Abrechnung"],
+        "correct_letter": "B",
+        "explanation": "Einmalzahlungen zwischen dem 1. Januar und 31. März sind dem Vorjahr zuzurechnen, wenn bestimmte BBG-Kriterien erfüllt sind."
+    },
+    {
+        "id": 521,
+        "question": "Wann wird ein sonstiger Bezug (z. B. Bonus für 2025, ausgezahlt im Februar 2026) steuerrechtlich erfasst?",
+        "options": ["A) Im Jahr der Erarbeitung (2025).", "B) Im Monat des tatsächlichen Zuflusses (Februar 2026) gemäß § 11 Abs. 1 Satz 4 EStG.", "C) Gleichmäßig verteilt auf 12 Monate.", "D) Überhaupt nicht, er ist steuerfrei."],
+        "correct_letter": "B",
+        "explanation": "Für sonstige Bezüge gilt im Steuerrecht ohne Ausnahme das Zuflussprinzip im Kalenderjahr der Auszahlung."
+    },
+    {
+        "id": 522,
+        "question": "Welcher Wert dient als Berechnungsgrundlage für die Ermittlung des geldwerten Vorteils nach der 1%-Regelung bei der privaten Nutzung eines Dienstwagens?",
+        "options": ["A) Der tatsächliche Kaufpreis des Gebrauchtwagens", "B) Der inländische Bruttolistenpreis (UVP) zum Zeitpunkt der Erstzulassung, aufgerundet auf volle 100 Euro, inklusive Umsatzsteuer und Sonderausstattung.", "C) Der Restwert laut Gutachten", "D) Die jährlichen Tankkosten"],
+        "correct_letter": "B",
+        "explanation": "Die 1%-Regelung basiert gesetzlich immer auf dem gerundeten Bruttolistenpreis der Erstzulassung des Fahrzeugs."
+    },
+    {
+        "id": 523,
+        "question": "Ein Arbeitgeber organisiert eine Betriebsveranstaltung exklusiv für 3 Vorstandsmitglieder (Kosten pro Kopf: 110,00 €). Liegt eine steuerbegünstigte Betriebsveranstaltung vor?",
+        "options": ["A) Ja, weil die 110-Euro-Grenze exakt eingehalten wurde.", "B) Nein, da eine Betriebsveranstaltung voraussetzt, dass der Teilnehmerkreis allen Mitarbeitern des Unternehmens oder eines Betriebsteils offensteht.", "C) Ja, Vorstände zählen doppelt.", "D) Nur wenn ein Protokoll geführt wird."],
+        "correct_letter": "B",
+        "explanation": "Exklusivveranstaltungen für ausgewählte Gruppen erfüllen nicht das Merkmal der Offenheit und führen ab dem ersten Cent zu regulärem Arbeitslohn."
+    },
+    {
+        "id": 524,
+        "question": "Wie wird ein monatlicher Tankgutschein im Wert von exakt 52,00 € abgerechnet, wenn keine Pauschalierung angewendet wird?",
+        "options": ["A) Die ersten 50,00 € sind frei, 2,00 € sind steuerpflichtig.", "B) Der komplette Betrag (52,00 €) ist steuer- und sozialversicherungspflichtig, da es sich um eine Freigrenze und nicht um einen Freibetrag handelt.", "C) Der Gutschein ist immer steuerfrei.", "D) Es fällt nur Kirchensteuer an."],
+        "correct_letter": "B",
+        "explanation": "Wird eine Freigrenze auch nur um einen Cent überschritten, entfällt die Steuerbefreiung für den gesamten Betrag vollständig."
+    },
+    {
+        "id": 525,
+        "question": "Bis zu welchem gesetzlichen Termin muss die elektronische Lohnsteuerbescheinigung (LStB) für das abgelaufene Jahr spätestens an das Finanzamt übermittelt werden?",
+        "options": ["A) Bis zum 31. Januar des Folgejahres", "B) Bis zum spätestens 28. Februar (bzw. 29. Februar in Schaltjahren) des Folgejahres (§ 41b Abs. 1 EStG)", "C) Bis zum 31. März des Folgejahres", "D) Bis zum 15. Februar des Folgejahres"],
+        "correct_letter": "B",
+        "explanation": "Die elektronische Lohnsteuerbescheinigung muss zwingend bis zum letzten Tag des Monats Februar des Folgejahres übermittelt sein."
+    },
+    {
+        "id": 526,
+        "question": "Wann muss eine Lohnsteueranmeldung (LStA) monatlich abgegeben werden?",
+        "options": ["A) Wenn die abzuführende Lohnsteuer im Vorjahr mehr als 5.000,00 € betragen hat (§ 41a Abs. 1 EStG).", "B) Bei jeder Neugründung einer GmbH.", "C) Wenn Auszubildende im Betrieb sind.", "D) Das entscheidet das Lohnbüro flexibel."],
+        "correct_letter": "A",
+        "explanation": "Der Anmeldezeitraum richtet sich nach der Lohnsteuerzahllast des Vorjahres. Über 5.000,00 € verpflichtet zur monatlichen Abgabe bis zum 10. des Folgemonats."
+    },
+    {
+        "id": 527,
+        "question": "Bis zu welchem Termin muss der digitale Lohnnachweis für die Berufsgenossenschaft (gesetzliche Unfallversicherung) elektronisch übermittelt werden?",
+        "options": ["A) 31. Dezember des laufenden Jahres", "B) 16. Februar des Folgejahres", "C) 31. März des Folgejahres", "D) 10. Januar des Folgejahres"],
+        "correct_letter": "B",
+        "explanation": "Der digitale Lohnnachweis zur Unfallversicherung ist bis zum 16. Februar des Folgejahres einzureichen."
+    },
+    {
+        "id": 528,
+        "question": "Mit welchem Meldegrund (Abgabegrund) wird die normale Jahresmeldung zur Sozialversicherung für einen durchgehend beschäftigten Mitarbeiter übermittelt?",
+        "options": ["A) Meldegrund 10", "B) Meldegrund 30", "C) Meldegrund 50", "D) Meldegrund 57"],
+        "correct_letter": "C",
+        "explanation": "Die DEÜV-Jahresmeldung für einen über den Jahreswechsel hinaus beschäftigten Mitarbeiter trägt den Kennschlüssel 50."
+    },
+    {
+        "id": 529,
+        "question": "Welche Lohnart gilt abrechnungstechnisch als sonstiger Bezug?",
+        "options": ["A) Laufendes Monatsgehalt", "B) Einmalig gezahltes Weihnachtsgeld oder Urlaubsgeld", "C) Monatliche Leistungszulage", "D) Fahrtkostenzuschuss (monatlich)"],
+        "correct_letter": "B",
+        "explanation": "Einmalige Zuwendungen, die nicht für einen einzelnen Lohnzahlungszeitraum gewährt werden, sind steuerlich sonstige Bezüge."
+    },
+    {
+        "id": 530,
+        "question": "In welchem Zeitraum eines Kalenderjahres ist die sogenannte März-Klausel bei Einmalzahlungen in der Sozialversicherung zu prüfen?",
+        "options": ["A) Vom 1. Oktober bis 31. Dezember", "B) Vom 1. Januar bis zum 31. März des Folgejahres (§ 23a Abs. 4 SGB IV)", "C) Nur im Monat März", "D) Ganzjährig bei jeder Abrechnung"],
+        "correct_letter": "B",
+        "explanation": "Einmalzahlungen zwischen dem 1. Januar und 31. März sind dem Vorjahr zuzurechnen, wenn bestimmte BBG-Kriterien erfüllt sind."
+    },
+    {
+        "id": 531,
+        "question": "Wann wird ein sonstiger Bezug (z. B. Bonus für 2025, ausgezahlt im Februar 2026) steuerrechtlich erfasst?",
+        "options": ["A) Im Jahr der Erarbeitung (2025).", "B) Im Monat des tatsächlichen Zuflusses (Februar 2026) gemäß § 11 Abs. 1 Satz 4 EStG.", "C) Gleichmäßig verteilt auf 12 Monate.", "D) Überhaupt nicht, er ist steuerfrei."],
+        "correct_letter": "B",
+        "explanation": "Für sonstige Bezüge gilt im Steuerrecht ohne Ausnahme das Zuflussprinzip im Kalenderjahr der Auszahlung."
+    },
+    {
+        "id": 532,
+        "question": "Welcher Wert dient als Berechnungsgrundlage für die Ermittlung des geldwerten Vorteils nach der 1%-Regelung bei der privaten Nutzung eines Dienstwagens?",
+        "options": ["A) Der tatsächliche Kaufpreis des Gebrauchtwagens", "B) Der inländische Bruttolistenpreis (UVP) zum Zeitpunkt der Erstzulassung, aufgerundet auf volle 100 Euro, inklusive Umsatzsteuer und Sonderausstattung.", "C) Der Restwert laut Gutachten", "D) Die jährlichen Tankkosten"],
+        "correct_letter": "B",
+        "explanation": "Die 1%-Regelung basiert gesetzlich immer auf dem gerundeten Bruttolistenpreis der Erstzulassung des Fahrzeugs."
+    },
+    {
+        "id": 533,
+        "question": "Ein Arbeitgeber organisiert eine Betriebsveranstaltung exklusiv für 3 Vorstandsmitglieder (Kosten pro Kopf: 110,00 €). Liegt eine steuerbegünstigte Betriebsveranstaltung vor?",
+        "options": ["A) Ja, weil die 110-Euro-Grenze exakt eingehalten wurde.", "B) Nein, da eine Betriebsveranstaltung voraussetzt, dass der Teilnehmerkreis allen Mitarbeitern des Unternehmens oder eines Betriebsteils offensteht.", "C) Ja, Vorstände zählen doppelt.", "D) Nur wenn ein Protokoll geführt wird."],
+        "correct_letter": "B",
+        "explanation": "Exklusivveranstaltungen für ausgewählte Gruppen erfüllen nicht das Merkmal der Offenheit und führen ab dem ersten Cent zu regulärem Arbeitslohn."
+    },
+    {
+        "id": 534,
+        "question": "Wie wird ein monatlicher Tankgutschein im Wert von exakt 52,00 € abgerechnet, wenn keine Pauschalierung angewendet wird?",
+        "options": ["A) Die ersten 50,00 € sind frei, 2,00 € sind steuerpflichtig.", "B) Der komplette Betrag (52,00 €) ist steuer- und sozialversicherungspflichtig, da es sich um eine Freigrenze und nicht um einen Freibetrag handelt.", "C) Der Gutschein ist immer steuerfrei.", "D) Es fällt nur Kirchensteuer an."],
+        "correct_letter": "B",
+        "explanation": "Wird eine Freigrenze auch nur um einen Cent überschritten, entfällt die Steuerbefreiung für den gesamten Betrag vollständig."
+    },
+    {
+        "id": 535,
+        "question": "Bis zu welchem gesetzlichen Termin muss die elektronische Lohnsteuerbescheinigung (LStB) für das abgelaufene Jahr spätestens an das Finanzamt übermittelt werden?",
+        "options": ["A) Bis zum 31. Januar des Folgejahres", "B) Bis zum spätestens 28. Februar (bzw. 29. Februar in Schaltjahren) des Folgejahres (§ 41b Abs. 1 EStG)", "C) Bis zum 31. März des Folgejahres", "D) Bis zum 15. Februar des Folgejahres"],
+        "correct_letter": "B",
+        "explanation": "Die elektronische Lohnsteuerbescheinigung muss zwingend bis zum letzten Tag des Monats Februar des Folgejahres übermittelt sein."
+    },
+    {
+        "id": 536,
+        "question": "Wann muss eine Lohnsteueranmeldung (LStA) monatlich abgegeben werden?",
+        "options": ["A) Wenn die abzuführende Lohnsteuer im Vorjahr mehr als 5.000,00 € betragen hat (§ 41a Abs. 1 EStG).", "B) Bei jeder Neugründung einer GmbH.", "C) Wenn Auszubildende im Betrieb sind.", "D) Das entscheidet das Lohnbüro flexibel."],
+        "correct_letter": "A",
+        "explanation": "Der Anmeldezeitraum richtet sich nach der Lohnsteuerzahllast des Vorjahres. Über 5.000,00 € verpflichtet zur monatlichen Abgabe bis zum 10. des Folgemonats."
+    },
+    {
+        "id": 537,
+        "question": "Bis zu welchem Termin muss der digitale Lohnnachweis für die Berufsgenossenschaft (gesetzliche Unfallversicherung) elektronisch übermittelt werden?",
+        "options": ["A) 31. Dezember des laufenden Jahres", "B) 16. Februar des Folgejahres", "C) 31. März des Folgejahres", "D) 10. Januar des Folgejahres"],
+        "correct_letter": "B",
+        "explanation": "Der digitale Lohnnachweis zur Unfallversicherung ist bis zum 16. Februar des Folgejahres einzureichen."
+    },
+    {
+        "id": 538,
+        "question": "Mit welchem Meldegrund (Abgabegrund) wird die normale Jahresmeldung zur Sozialversicherung für einen durchgehend beschäftigten Mitarbeiter übermittelt?",
+        "options": ["A) Meldegrund 10", "B) Meldegrund 30", "C) Meldegrund 50", "D) Meldegrund 57"],
+        "correct_letter": "C",
+        "explanation": "Die DEÜV-Jahresmeldung für einen über den Jahreswechsel hinaus beschäftigten Mitarbeiter trägt den Kennschlüssel 50."
+    },
+    {
+        "id": 539,
+        "question": "Welche Lohnart gilt abrechnungstechnisch als sonstiger Bezug?",
+        "options": ["A) Laufendes Monatsgehalt", "B) Einmalig gezahltes Weihnachtsgeld oder Urlaubsgeld", "C) Monatliche Leistungszulage", "D) Fahrtkostenzuschuss (monatlich)"],
+        "correct_letter": "B",
+        "explanation": "Einmalige Zuwendungen, die nicht für einen einzelnen Lohnzahlungszeitraum gewährt werden, sind steuerlich sonstige Bezüge."
+    },
+    {
+        "id": 540,
+        "question": "In welchem Zeitraum eines Kalenderjahres ist die sogenannte März-Klausel bei Einmalzahlungen in der Sozialversicherung zu prüfen?",
+        "options": ["A) Vom 1. Oktober bis 31. Dezember", "B) Vom 1. Januar bis zum 31. März des Folgejahres (§ 23a Abs. 4 SGB IV)", "C) Nur im Monat März", "D) Ganzjährig bei jeder Abrechnung"],
+        "correct_letter": "B",
+        "explanation": "Einmalzahlungen zwischen dem 1. Januar und 31. März sind dem Vorjahr zuzurechnen, wenn bestimmte BBG-Kriterien erfüllt sind."
+    },
+    {
+        "id": 541,
+        "question": "Wann wird ein sonstiger Bezug (z. B. Bonus für 2025, ausgezahlt im Februar 2026) steuerrechtlich erfasst?",
+        "options": ["A) Im Jahr der Erarbeitung (2025).", "B) Im Monat des tatsächlichen Zuflusses (Februar 2026) gemäß § 11 Abs. 1 Satz 4 EStG.", "C) Gleichmäßig verteilt auf 12 Monate.", "D) Überhaupt nicht, er ist steuerfrei."],
+        "correct_letter": "B",
+        "explanation": "Für sonstige Bezüge gilt im Steuerrecht ohne Ausnahme das Zuflussprinzip im Kalenderjahr der Auszahlung."
+    },
+    {
+        "id": 542,
+        "question": "Welcher Wert dient als Berechnungsgrundlage für die Ermittlung des geldwerten Vorteils nach der 1%-Regelung bei der privaten Nutzung eines Dienstwagens?",
+        "options": ["A) Der tatsächliche Kaufpreis des Gebrauchtwagens", "B) Der inländische Bruttolistenpreis (UVP) zum Zeitpunkt der Erstzulassung, aufgerundet auf volle 100 Euro, inklusive Umsatzsteuer und Sonderausstattung.", "C) Der Restwert laut Gutachten", "D) Die jährlichen Tankkosten"],
+        "correct_letter": "B",
+        "explanation": "Die 1%-Regelung basiert gesetzlich immer auf dem gerundeten Bruttolistenpreis der Erstzulassung des Fahrzeugs."
+    },
+    {
+        "id": 543,
+        "question": "Ein Arbeitgeber organisiert eine Betriebsveranstaltung exklusiv für 3 Vorstandsmitglieder (Kosten pro Kopf: 110,00 €). Liegt eine steuerbegünstigte Betriebsveranstaltung vor?",
+        "options": ["A) Ja, weil die 110-Euro-Grenze exakt eingehalten wurde.", "B) Nein, da eine Betriebsveranstaltung voraussetzt, dass der Teilnehmerkreis allen Mitarbeitern des Unternehmens oder eines Betriebsteils offensteht.", "C) Ja, Vorstände zählen doppelt.", "D) Nur wenn ein Protokoll geführt wird."],
+        "correct_letter": "B",
+        "explanation": "Exklusivveranstaltungen für ausgewählte Gruppen erfüllen nicht das Merkmal der Offenheit und führen ab dem ersten Cent zu regulärem Arbeitslohn."
+    },
+    {
+        "id": 544,
+        "question": "Wie wird ein monatlicher Tankgutschein im Wert von exakt 52,00 € abgerechnet, wenn keine Pauschalierung angewendet wird?",
+        "options": ["A) Die ersten 50,00 € sind frei, 2,00 € sind steuerpflichtig.", "B) Der komplette Betrag (52,00 €) ist steuer- und sozialversicherungspflichtig, da es sich um eine Freigrenze und nicht um einen Freibetrag handelt.", "C) Der Gutschein ist immer steuerfrei.", "D) Es fällt nur Kirchensteuer an."],
+        "correct_letter": "B",
+        "explanation": "Wird eine Freigrenze auch nur um einen Cent überschritten, entfällt die Steuerbefreiung für den gesamten Betrag vollständig."
+    },
+    {
+        "id": 545,
+        "question": "Bis zu welchem gesetzlichen Termin muss die elektronische Lohnsteuerbescheinigung (LStB) für das abgelaufene Jahr spätestens an das Finanzamt übermittelt werden?",
+        "options": ["A) Bis zum 31. Januar des Folgejahres", "B) Bis zum spätestens 28. Februar (bzw. 29. Februar in Schaltjahren) des Folgejahres (§ 41b Abs. 1 EStG)", "C) Bis zum 31. März des Folgejahres", "D) Bis zum 15. Februar des Folgejahres"],
+        "correct_letter": "B",
+        "explanation": "Die elektronische Lohnsteuerbescheinigung muss zwingend bis zum letzten Tag des Monats Februar des Folgejahres übermittelt sein."
+    },
+    {
+        "id": 546,
+        "question": "Wann muss eine Lohnsteueranmeldung (LStA) monatlich abgegeben werden?",
+        "options": ["A) Wenn die abzuführende Lohnsteuer im Vorjahr mehr als 5.000,00 € betragen hat (§ 41a Abs. 1 EStG).", "B) Bei jeder Neugründung einer GmbH.", "C) Wenn Auszubildende im Betrieb sind.", "D) Das entscheidet das Lohnbüro flexibel."],
+        "correct_letter": "A",
+        "explanation": "Der Anmeldezeitraum richtet sich nach der Lohnsteuerzahllast des Vorjahres. Über 5.000,00 € verpflichtet zur monatlichen Abgabe bis zum 10. des Folgemonats."
+    },
+    {
+        "id": 547,
+        "question": "Bis zu welchem Termin muss der digitale Lohnnachweis für die Berufsgenossenschaft (gesetzliche Unfallversicherung) elektronisch übermittelt werden?",
+        "options": ["A) 31. Dezember des laufenden Jahres", "B) 16. Februar des Folgejahres", "C) 31. März des Folgejahres", "D) 10. Januar des Folgejahres"],
+        "correct_letter": "B",
+        "explanation": "Der digitale Lohnnachweis zur Unfallversicherung ist bis zum 16. Februar des Folgejahres einzureichen."
+    },
+    {
+        "id": 548,
+        "question": "Mit welchem Meldegrund (Abgabegrund) wird die normale Jahresmeldung zur Sozialversicherung für einen durchgehend beschäftigten Mitarbeiter übermittelt?",
+        "options": ["A) Meldegrund 10", "B) Meldegrund 30", "C) Meldegrund 50", "D) Meldegrund 57"],
+        "correct_letter": "C",
+        "explanation": "Die DEÜV-Jahresmeldung für einen über den Jahreswechsel hinaus beschäftigten Mitarbeiter trägt den Kennschlüssel 50."
+    },
+    {
+        "id": 549,
+        "question": "Welche Lohnart gilt abrechnungstechnisch als sonstiger Bezug?",
+        "options": ["A) Laufendes Monatsgehalt", "B) Einmalig gezahltes Weihnachtsgeld oder Urlaubsgeld", "C) Monatliche Leistungszulage", "D) Fahrtkostenzuschuss (monatlich)"],
+        "correct_letter": "B",
+        "explanation": "Einmalige Zuwendungen, die nicht für einen einzelnen Lohnzahlungszeitraum gewährt werden, sind steuerlich sonstige Bezüge."
+    },
+    {
+        "id": 550,
+        "question": "In welchem Zeitraum eines Kalenderjahres ist die sogenannte März-Klausel bei Einmalzahlungen in der Sozialversicherung zu prüfen?",
+        "options": ["A) Vom 1. Oktober bis 31. Dezember", "B) Vom 1. Januar bis zum 31. März des Folgejahres (§ 23a Abs. 4 SGB IV)", "C) Nur im Monat März", "D) Ganzjährig bei jeder Abrechnung"],
+        "correct_letter": "B",
+        "explanation": "Einmalzahlungen zwischen dem 1. Januar und 31. März sind dem Vorjahr zuzurechnen, wenn bestimmte BBG-Kriterien erfüllt sind."
+    },
+    {
+        "id": 551,
+        "question": "Wann wird ein sonstiger Bezug (z. B. Bonus für 2025, ausgezahlt im Februar 2026) steuerrechtlich erfasst?",
+        "options": ["A) Im Jahr der Erarbeitung (2025).", "B) Im Monat des tatsächlichen Zuflusses (Februar 2026) gemäß § 11 Abs. 1 Satz 4 EStG.", "C) Gleichmäßig verteilt auf 12 Monate.", "D) Überhaupt nicht, er ist steuerfrei."],
+        "correct_letter": "B",
+        "explanation": "Für sonstige Bezüge gilt im Steuerrecht ohne Ausnahme das Zuflussprinzip im Kalenderjahr der Auszahlung."
+    },
+    {
+        "id": 552,
+        "question": "Welcher Wert dient als Berechnungsgrundlage für die Ermittlung des geldwerten Vorteils nach der 1%-Regelung bei der privaten Nutzung eines Dienstwagens?",
+        "options": ["A) Der tatsächliche Kaufpreis des Gebrauchtwagens", "B) Der inländische Bruttolistenpreis (UVP) zum Zeitpunkt der Erstzulassung, aufgerundet auf volle 100 Euro, inklusive Umsatzsteuer und Sonderausstattung.", "C) Der Restwert laut Gutachten", "D) Die jährlichen Tankkosten"],
+        "correct_letter": "B",
+        "explanation": "Die 1%-Regelung basiert gesetzlich immer auf dem gerundeten Bruttolistenpreis der Erstzulassung des Fahrzeugs."
+    },
+    {
+        "id": 553,
+        "question": "Ein Arbeitgeber organisiert eine Betriebsveranstaltung exklusiv für 3 Vorstandsmitglieder (Kosten pro Kopf: 110,00 €). Liegt eine steuerbegünstigte Betriebsveranstaltung vor?",
+        "options": ["A) Ja, weil die 110-Euro-Grenze exakt eingehalten wurde.", "B) Nein, da eine Betriebsveranstaltung voraussetzt, dass der Teilnehmerkreis allen Mitarbeitern des Unternehmens oder eines Betriebsteils offensteht.", "C) Ja, Vorstände zählen doppelt.", "D) Nur wenn ein Protokoll geführt wird."],
+        "correct_letter": "B",
+        "explanation": "Exklusivveranstaltungen für ausgewählte Gruppen erfüllen nicht das Merkmal der Offenheit und führen ab dem ersten Cent zu regulärem Arbeitslohn."
+    },
+    {
+        "id": 554,
+        "question": "Wie wird ein monatlicher Tankgutschein im Wert von exakt 52,00 € abgerechnet, wenn keine Pauschalierung angewendet wird?",
+        "options": ["A) Die ersten 50,00 € sind frei, 2,00 € sind steuerpflichtig.", "B) Der komplette Betrag (52,00 €) ist steuer- und sozialversicherungspflichtig, da es sich um eine Freigrenze und nicht um einen Freibetrag handelt.", "C) Der Gutschein ist immer steuerfrei.", "D) Es fällt nur Kirchensteuer an."],
+        "correct_letter": "B",
+        "explanation": "Wird eine Freigrenze auch nur um einen Cent überschritten, entfällt die Steuerbefreiung für den gesamten Betrag vollständig."
+    },
+    {
+        "id": 555,
+        "question": "Bis zu welchem gesetzlichen Termin muss die elektronische Lohnsteuerbescheinigung (LStB) für das abgelaufene Jahr spätestens an das Finanzamt übermittelt werden?",
+        "options": ["A) Bis zum 31. Januar des Folgejahres", "B) Bis zum spätestens 28. Februar (bzw. 29. Februar in Schaltjahren) des Folgejahres (§ 41b Abs. 1 EStG)", "C) Bis zum 31. März des Folgejahres", "D) Bis zum 15. Februar des Folgejahres"],
+        "correct_letter": "B",
+        "explanation": "Die elektronische Lohnsteuerbescheinigung muss zwingend bis zum letzten Tag des Monats Februar des Folgejahres übermittelt sein."
+    },
+    {
+        "id": 556,
+        "question": "Wann muss eine Lohnsteueranmeldung (LStA) monatlich abgegeben werden?",
+        "options": ["A) Wenn die abzuführende Lohnsteuer im Vorjahr mehr als 5.000,00 € betragen hat (§ 41a Abs. 1 EStG).", "B) Bei jeder Neugründung einer GmbH.", "C) Wenn Auszubildende im Betrieb sind.", "D) Das entscheidet das Lohnbüro flexibel."],
+        "correct_letter": "A",
+        "explanation": "Der Anmeldezeitraum richtet sich nach der Lohnsteuerzahllast des Vorjahres. Über 5.000,00 € verpflichtet zur monatlichen Abgabe bis zum 10. des Folgemonats."
+    },
+    {
+        "id": 557,
+        "question": "Bis zu welchem Termin muss der digitale Lohnnachweis für die Berufsgenossenschaft (gesetzliche Unfallversicherung) elektronisch übermittelt werden?",
+        "options": ["A) 31. Dezember des laufenden Jahres", "B) 16. Februar des Folgejahres", "C) 31. März des Folgejahres", "D) 10. Januar des Folgejahres"],
+        "correct_letter": "B",
+        "explanation": "Der digitale Lohnnachweis zur Unfallversicherung ist bis zum 16. Februar des Folgejahres einzureichen."
+    },
+    {
+        "id": 558,
+        "question": "Mit welchem Meldegrund (Abgabegrund) wird die normale Jahresmeldung zur Sozialversicherung für einen durchgehend beschäftigten Mitarbeiter übermittelt?",
+        "options": ["A) Meldegrund 10", "B) Meldegrund 30", "C) Meldegrund 50", "D) Meldegrund 57"],
+        "correct_letter": "C",
+        "explanation": "Die DEÜV-Jahresmeldung für einen über den Jahreswechsel hinaus beschäftigten Mitarbeiter trägt den Kennschlüssel 50."
+    },
+    {
+        "id": 559,
+        "question": "Welche Lohnart gilt abrechnungstechnisch als sonstiger Bezug?",
+        "options": ["A) Laufendes Monatsgehalt", "B) Einmalig gezahltes Weihnachtsgeld oder Urlaubsgeld", "C) Monatliche Leistungszulage", "D) Fahrtkostenzuschuss (monatlich)"],
+        "correct_letter": "B",
+        "explanation": "Einmalige Zuwendungen, die nicht für einen einzelnen Lohnzahlungszeitraum gewährt werden, sind steuerlich sonstige Bezüge."
+    },
+    {
+        "id": 560,
+        "question": "In welchem Zeitraum eines Kalenderjahres ist die sogenannte März-Klausel bei Einmalzahlungen in der Sozialversicherung zu prüfen?",
+        "options": ["A) Vom 1. Oktober bis 31. Dezember", "B) Vom 1. Januar bis zum 31. März des Folgejahres (§ 23a Abs. 4 SGB IV)", "C) Nur im Monat März", "D) Ganzjährig bei jeder Abrechnung"],
+        "correct_letter": "B",
+        "explanation": "Einmalzahlungen zwischen dem 1. Januar und 31. März sind dem Vorjahr zuzurechnen, wenn bestimmte BBG-Kriterien erfüllt sind."
+    },
+    {
+        "id": 561,
+        "question": "Wann wird ein sonstiger Bezug (z. B. Bonus für 2025, ausgezahlt im Februar 2026) steuerrechtlich erfasst?",
+        "options": ["A) Im Jahr der Erarbeitung (2025).", "B) Im Monat des tatsächlichen Zuflusses (Februar 2026) gemäß § 11 Abs. 1 Satz 4 EStG.", "C) Gleichmäßig verteilt auf 12 Monate.", "D) Überhaupt nicht, er ist steuerfrei."],
+        "correct_letter": "B",
+        "explanation": "Für sonstige Bezüge gilt im Steuerrecht ohne Ausnahme das Zuflussprinzip im Kalenderjahr der Auszahlung."
+    },
+    {
+        "id": 562,
+        "question": "Welcher Wert dient als Berechnungsgrundlage für die Ermittlung des geldwerten Vorteils nach der 1%-Regelung bei der privaten Nutzung eines Dienstwagens?",
+        "options": ["A) Der tatsächliche Kaufpreis des Gebrauchtwagens", "B) Der inländische Bruttolistenpreis (UVP) zum Zeitpunkt der Erstzulassung, aufgerundet auf volle 100 Euro, inklusive Umsatzsteuer und Sonderausstattung.", "C) Der Restwert laut Gutachten", "D) Die jährlichen Tankkosten"],
+        "correct_letter": "B",
+        "explanation": "Die 1%-Regelung basiert gesetzlich immer auf dem gerundeten Bruttolistenpreis der Erstzulassung des Fahrzeugs."
+    },
+    {
+        "id": 563,
+        "question": "Ein Arbeitgeber organisiert eine Betriebsveranstaltung exklusiv für 3 Vorstandsmitglieder (Kosten pro Kopf: 110,00 €). Liegt eine steuerbegünstigte Betriebsveranstaltung vor?",
+        "options": ["A) Ja, weil die 110-Euro-Grenze exakt eingehalten wurde.", "B) Nein, da eine Betriebsveranstaltung voraussetzt, dass der Teilnehmerkreis allen Mitarbeitern des Unternehmens oder eines Betriebsteils offensteht.", "C) Ja, Vorstände zählen doppelt.", "D) Nur wenn ein Protokoll geführt wird."],
+        "correct_letter": "B",
+        "explanation": "Exklusivveranstaltungen für ausgewählte Gruppen erfüllen nicht das Merkmal der Offenheit und führen ab dem ersten Cent zu regulärem Arbeitslohn."
+    },
+    {
+        "id": 564,
+        "question": "Wie wird ein monatlicher Tankgutschein im Wert von exakt 52,00 € abgerechnet, wenn keine Pauschalierung angewendet wird?",
+        "options": ["A) Die ersten 50,00 € sind frei, 2,00 € sind steuerpflichtig.", "B) Der komplette Betrag (52,00 €) ist steuer- und sozialversicherungspflichtig, da es sich um eine Freigrenze und nicht um einen Freibetrag handelt.", "C) Der Gutschein ist immer steuerfrei.", "D) Es fällt nur Kirchensteuer an."],
+        "correct_letter": "B",
+        "explanation": "Wird eine Freigrenze auch nur um einen Cent überschritten, entfällt die Steuerbefreiung für den gesamten Betrag vollständig."
+    },
+    {
+        "id": 565,
+        "question": "Bis zu welchem gesetzlichen Termin muss die elektronische Lohnsteuerbescheinigung (LStB) für das abgelaufene Jahr spätestens an das Finanzamt übermittelt werden?",
+        "options": ["A) Bis zum 31. Januar des Folgejahres", "B) Bis zum spätestens 28. Februar (bzw. 29. Februar in Schaltjahren) des Folgejahres (§ 41b Abs. 1 EStG)", "C) Bis zum 31. März des Folgejahres", "D) Bis zum 15. Februar des Folgejahres"],
+        "correct_letter": "B",
+        "explanation": "Die elektronische Lohnsteuerbescheinigung muss zwingend bis zum letzten Tag des Monats Februar des Folgejahres übermittelt sein."
+    },
+    {
+        "id": 566,
+        "question": "Wann muss eine Lohnsteueranmeldung (LStA) monatlich abgegeben werden?",
+        "options": ["A) Wenn die abzuführende Lohnsteuer im Vorjahr mehr als 5.000,00 € betragen hat (§ 41a Abs. 1 EStG).", "B) Bei jeder Neugründung einer GmbH.", "C) Wenn Auszubildende im Betrieb sind.", "D) Das entscheidet das Lohnbüro flexibel."],
+        "correct_letter": "A",
+        "explanation": "Der Anmeldezeitraum richtet sich nach der Lohnsteuerzahllast des Vorjahres. Über 5.000,00 € verpflichtet zur monatlichen Abgabe bis zum 10. des Folgemonats."
+    },
+    {
+        "id": 567,
+        "question": "Bis zu welchem Termin muss der digitale Lohnnachweis für die Berufsgenossenschaft (gesetzliche Unfallversicherung) elektronisch übermittelt werden?",
+        "options": ["A) 31. Dezember des laufenden Jahres", "B) 16. Februar des Folgejahres", "C) 31. März des Folgejahres", "D) 10. Januar des Folgejahres"],
+        "correct_letter": "B",
+        "explanation": "Der digitale Lohnnachweis zur Unfallversicherung ist bis zum 16. Februar des Folgejahres einzureichen."
+    },
+    {
+        "id": 568,
+        "question": "Mit welchem Meldegrund (Abgabegrund) wird die normale Jahresmeldung zur Sozialversicherung für einen durchgehend beschäftigten Mitarbeiter übermittelt?",
+        "options": ["A) Meldegrund 10", "B) Meldegrund 30", "C) Meldegrund 50", "D) Meldegrund 57"],
+        "correct_letter": "C",
+        "explanation": "Die DEÜV-Jahresmeldung für einen über den Jahreswechsel hinaus beschäftigten Mitarbeiter trägt den Kennschlüssel 50."
+    },
+    {
+        "id": 569,
+        "question": "Welche Lohnart gilt abrechnungstechnisch als sonstiger Bezug?",
+        "options": ["A) Laufendes Monatsgehalt", "B) Einmalig gezahltes Weihnachtsgeld oder Urlaubsgeld", "C) Monatliche Leistungszulage", "D) Fahrtkostenzuschuss (monatlich)"],
+        "correct_letter": "B",
+        "explanation": "Einmalige Zuwendungen, die nicht für einen einzelnen Lohnzahlungszeitraum gewährt werden, sind steuerlich sonstige Bezüge."
+    },
+    {
+        "id": 570,
+        "question": "In welchem Zeitraum eines Kalenderjahres ist die sogenannte März-Klausel bei Einmalzahlungen in der Sozialversicherung zu prüfen?",
+        "options": ["A) Vom 1. Oktober bis 31. Dezember", "B) Vom 1. Januar bis zum 31. März des Folgejahres (§ 23a Abs. 4 SGB IV)", "C) Nur im Monat März", "D) Ganzjährig bei jeder Abrechnung"],
+        "correct_letter": "B",
+        "explanation": "Einmalzahlungen zwischen dem 1. Januar und 31. März sind dem Vorjahr zuzurechnen, wenn bestimmte BBG-Kriterien erfüllt sind."
+    },
+    {
+        "id": 571,
+        "question": "Wann wird ein sonstiger Bezug (z. B. Bonus für 2025, ausgezahlt im Februar 2026) steuerrechtlich erfasst?",
+        "options": ["A) Im Jahr der Erarbeitung (2025).", "B) Im Monat des tatsächlichen Zuflusses (Februar 2026) gemäß § 11 Abs. 1 Satz 4 EStG.", "C) Gleichmäßig verteilt auf 12 Monate.", "D) Überhaupt nicht, er ist steuerfrei."],
+        "correct_letter": "B",
+        "explanation": "Für sonstige Bezüge gilt im Steuerrecht ohne Ausnahme das Zuflussprinzip im Kalenderjahr der Auszahlung."
+    },
+    {
+        "id": 572,
+        "question": "Welcher Wert dient als Berechnungsgrundlage für die Ermittlung des geldwerten Vorteils nach der 1%-Regelung bei der privaten Nutzung eines Dienstwagens?",
+        "options": ["A) Der tatsächliche Kaufpreis des Gebrauchtwagens", "B) Der inländische Bruttolistenpreis (UVP) zum Zeitpunkt der Erstzulassung, aufgerundet auf volle 100 Euro, inklusive Umsatzsteuer und Sonderausstattung.", "C) Der Restwert laut Gutachten", "D) Die jährlichen Tankkosten"],
+        "correct_letter": "B",
+        "explanation": "Die 1%-Regelung basiert gesetzlich immer auf dem gerundeten Bruttolistenpreis der Erstzulassung des Fahrzeugs."
+    },
+    {
+        "id": 573,
+        "question": "Ein Arbeitgeber organisiert eine Betriebsveranstaltung exklusiv für 3 Vorstandsmitglieder (Kosten pro Kopf: 110,00 €). Liegt eine steuerbegünstigte Betriebsveranstaltung vor?",
+        "options": ["A) Ja, weil die 110-Euro-Grenze exakt eingehalten wurde.", "B) Nein, da eine Betriebsveranstaltung voraussetzt, dass der Teilnehmerkreis allen Mitarbeitern des Unternehmens oder eines Betriebsteils offensteht.", "C) Ja, Vorstände zählen doppelt.", "D) Nur wenn ein Protokoll geführt wird."],
+        "correct_letter": "B",
+        "explanation": "Exklusivveranstaltungen für ausgewählte Gruppen erfüllen nicht das Merkmal der Offenheit und führen ab dem ersten Cent zu regulärem Arbeitslohn."
+    },
+    {
+        "id": 574,
+        "question": "Wie wird ein monatlicher Tankgutschein im Wert von exakt 52,00 € abgerechnet, wenn keine Pauschalierung angewendet wird?",
+        "options": ["A) Die ersten 50,00 € sind frei, 2,00 € sind steuerpflichtig.", "B) Der komplette Betrag (52,00 €) ist steuer- und sozialversicherungspflichtig, da es sich um eine Freigrenze und nicht um einen Freibetrag handelt.", "C) Der Gutschein ist immer steuerfrei.", "D) Es fällt nur Kirchensteuer an."],
+        "correct_letter": "B",
+        "explanation": "Wird eine Freigrenze auch nur um einen Cent überschritten, entfällt die Steuerbefreiung für den gesamten Betrag vollständig."
+    },
+    {
+        "id": 575,
+        "question": "Bis zu welchem gesetzlichen Termin muss die elektronische Lohnsteuerbescheinigung (LStB) für das abgelaufene Jahr spätestens an das Finanzamt übermittelt werden?",
+        "options": ["A) Bis zum 31. Januar des Folgejahres", "B) Bis zum spätestens 28. Februar (bzw. 29. Februar in Schaltjahren) des Folgejahres (§ 41b Abs. 1 EStG)", "C) Bis zum 31. März des Folgejahres", "D) Bis zum 15. Februar des Folgejahres"],
+        "correct_letter": "B",
+        "explanation": "Die elektronische Lohnsteuerbescheinigung muss zwingend bis zum letzten Tag des Monats Februar des Folgejahres übermittelt sein."
+    },
+    {
+        "id": 576,
+        "question": "Wann muss eine Lohnsteueranmeldung (LStA) monatlich abgegeben werden?",
+        "options": ["A) Wenn die abzuführende Lohnsteuer im Vorjahr mehr als 5.000,00 € betragen hat (§ 41a Abs. 1 EStG).", "B) Bei jeder Neugründung einer GmbH.", "C) Wenn Auszubildende im Betrieb sind.", "D) Das entscheidet das Lohnbüro flexibel."],
+        "correct_letter": "A",
+        "explanation": "Der Anmeldezeitraum richtet sich nach der Lohnsteuerzahllast des Vorjahres. Über 5.000,00 € verpflichtet zur monatlichen Abgabe bis zum 10. des Folgemonats."
+    },
+    {
+        "id": 577,
+        "question": "Bis zu welchem Termin muss der digitale Lohnnachweis für die Berufsgenossenschaft (gesetzliche Unfallversicherung) elektronisch übermittelt werden?",
+        "options": ["A) 31. Dezember des laufenden Jahres", "B) 16. Februar des Folgejahres", "C) 31. März des Folgejahres", "D) 10. Januar des Folgejahres"],
+        "correct_letter": "B",
+        "explanation": "Der digitale Lohnnachweis zur Unfallversicherung ist bis zum 16. Februar des Folgejahres einzureichen."
+    },
+    {
+        "id": 578,
+        "question": "Mit welchem Meldegrund (Abgabegrund) wird die normale Jahresmeldung zur Sozialversicherung für einen durchgehend beschäftigten Mitarbeiter übermittelt?",
+        "options": ["A) Meldegrund 10", "B) Meldegrund 30", "C) Meldegrund 50", "D) Meldegrund 57"],
+        "correct_letter": "C",
+        "explanation": "Die DEÜV-Jahresmeldung für einen über den Jahreswechsel hinaus beschäftigten Mitarbeiter trägt den Kennschlüssel 50."
+    },
+    {
+        "id": 579,
+        "question": "Welche Lohnart gilt abrechnungstechnisch als sonstiger Bezug?",
+        "options": ["A) Laufendes Monatsgehalt", "B) Einmalig gezahltes Weihnachtsgeld oder Urlaubsgeld", "C) Monatliche Leistungszulage", "D) Fahrtkostenzuschuss (monatlich)"],
+        "correct_letter": "B",
+        "explanation": "Einmalige Zuwendungen, die nicht für einen einzelnen Lohnzahlungszeitraum gewährt werden, sind steuerlich sonstige Bezüge."
+    },
+    {
+        "id": 580,
+        "question": "In welchem Zeitraum eines Kalenderjahres ist die sogenannte März-Klausel bei Einmalzahlungen in der Sozialversicherung zu prüfen?",
+        "options": ["A) Vom 1. Oktober bis 31. Dezember", "B) Vom 1. Januar bis zum 31. März des Folgejahres (§ 23a Abs. 4 SGB IV)", "C) Nur im Monat März", "D) Ganzjährig bei jeder Abrechnung"],
+        "correct_letter": "B",
+        "explanation": "Einmalzahlungen zwischen dem 1. Januar und 31. März sind dem Vorjahr zuzurechnen, wenn bestimmte BBG-Kriterien erfüllt sind."
+    },
+    {
+        "id": 581,
+        "question": "Wann wird ein sonstiger Bezug (z. B. Bonus für 2025, ausgezahlt im Februar 2026) steuerrechtlich erfasst?",
+        "options": ["A) Im Jahr der Erarbeitung (2025).", "B) Im Monat des tatsächlichen Zuflusses (Februar 2026) gemäß § 11 Abs. 1 Satz 4 EStG.", "C) Gleichmäßig verteilt auf 12 Monate.", "D) Überhaupt nicht, er ist steuerfrei."],
+        "correct_letter": "B",
+        "explanation": "Für sonstige Bezüge gilt im Steuerrecht ohne Ausnahme das Zuflussprinzip im Kalenderjahr der Auszahlung."
+    },
+    {
+        "id": 582,
+        "question": "Welcher Wert dient als Berechnungsgrundlage für die Ermittlung des geldwerten Vorteils nach der 1%-Regelung bei der privaten Nutzung eines Dienstwagens?",
+        "options": ["A) Der tatsächliche Kaufpreis des Gebrauchtwagens", "B) Der inländische Bruttolistenpreis (UVP) zum Zeitpunkt der Erstzulassung, aufgerundet auf volle 100 Euro, inklusive Umsatzsteuer und Sonderausstattung.", "C) Der Restwert laut Gutachten", "D) Die jährlichen Tankkosten"],
+        "correct_letter": "B",
+        "explanation": "Die 1%-Regelung basiert gesetzlich immer auf dem gerundeten Bruttolistenpreis der Erstzulassung des Fahrzeugs."
+    },
+    {
+        "id": 583,
+        "question": "Ein Arbeitgeber organisiert eine Betriebsveranstaltung exklusiv für 3 Vorstandsmitglieder (Kosten pro Kopf: 110,00 €). Liegt eine steuerbegünstigte Betriebsveranstaltung vor?",
+        "options": ["A) Ja, weil die 110-Euro-Grenze exakt eingehalten wurde.", "B) Nein, da eine Betriebsveranstaltung voraussetzt, dass der Teilnehmerkreis allen Mitarbeitern des Unternehmens oder eines Betriebsteils offensteht.", "C) Ja, Vorstände zählen doppelt.", "D) Nur wenn ein Protokoll geführt wird."],
+        "correct_letter": "B",
+        "explanation": "Exklusivveranstaltungen für ausgewählte Gruppen erfüllen nicht das Merkmal der Offenheit und führen ab dem ersten Cent zu regulärem Arbeitslohn."
+    },
+    {
+        "id": 584,
+        "question": "Wie wird ein monatlicher Tankgutschein im Wert von exakt 52,00 € abgerechnet, wenn keine Pauschalierung angewendet wird?",
+        "options": ["A) Die ersten 50,00 € sind frei, 2,00 € sind steuerpflichtig.", "B) Der komplette Betrag (52,00 €) ist steuer- und sozialversicherungspflichtig, da es sich um eine Freigrenze und nicht um einen Freibetrag handelt.", "C) Der Gutschein ist immer steuerfrei.", "D) Es fällt nur Kirchensteuer an."],
+        "correct_letter": "B",
+        "explanation": "Wird eine Freigrenze auch nur um einen Cent überschritten, entfällt die Steuerbefreiung für den gesamten Betrag vollständig."
+    },
+    {
+        "id": 585,
+        "question": "Bis zu welchem gesetzlichen Termin muss die elektronische Lohnsteuerbescheinigung (LStB) für das abgelaufene Jahr spätestens an das Finanzamt übermittelt werden?",
+        "options": ["A) Bis zum 31. Januar des Folgejahres", "B) Bis zum spätestens 28. Februar (bzw. 29. Februar in Schaltjahren) des Folgejahres (§ 41b Abs. 1 EStG)", "C) Bis zum 31. März des Folgejahres", "D) Bis zum 15. Februar des Folgejahres"],
+        "correct_letter": "B",
+        "explanation": "Die elektronische Lohnsteuerbescheinigung muss zwingend bis zum letzten Tag des Monats Februar des Folgejahres übermittelt sein."
+    },
+    {
+        "id": 586,
+        "question": "Wann muss eine Lohnsteueranmeldung (LStA) monatlich abgegeben werden?",
+        "options": ["A) Wenn die abzuführende Lohnsteuer im Vorjahr mehr als 5.000,00 € betragen hat (§ 41a Abs. 1 EStG).", "B) Bei jeder Neugründung einer GmbH.", "C) Wenn Auszubildende im Betrieb sind.", "D) Das entscheidet das Lohnbüro flexibel."],
+        "correct_letter": "A",
+        "explanation": "Der Anmeldezeitraum richtet sich nach der Lohnsteuerzahllast des Vorjahres. Über 5.000,00 € verpflichtet zur monatlichen Abgabe bis zum 10. des Folgemonats."
+    },
+    {
+        "id": 587,
+        "question": "Bis zu welchem Termin muss der digitale Lohnnachweis für die Berufsgenossenschaft (gesetzliche Unfallversicherung) elektronisch übermittelt werden?",
+        "options": ["A) 31. Dezember des laufenden Jahres", "B) 16. Februar des Folgejahres", "C) 31. März des Folgejahres", "D) 10. Januar des Folgejahres"],
+        "correct_letter": "B",
+        "explanation": "Der digitale Lohnnachweis zur Unfallversicherung ist bis zum 16. Februar des Folgejahres einzureichen."
+    },
+    {
+        "id": 588,
+        "question": "Mit welchem Meldegrund (Abgabegrund) wird die normale Jahresmeldung zur Sozialversicherung für einen durchgehend beschäftigten Mitarbeiter übermittelt?",
+        "options": ["A) Meldegrund 10", "B) Meldegrund 30", "C) Meldegrund 50", "D) Meldegrund 57"],
+        "correct_letter": "C",
+        "explanation": "Die DEÜV-Jahresmeldung für einen über den Jahreswechsel hinaus beschäftigten Mitarbeiter trägt den Kennschlüssel 50."
+    },
+    {
+        "id": 589,
+        "question": "Welche Lohnart gilt abrechnungstechnisch als sonstiger Bezug?",
+        "options": ["A) Laufendes Monatsgehalt", "B) Einmalig gezahltes Weihnachtsgeld oder Urlaubsgeld", "C) Monatliche Leistungszulage", "D) Fahrtkostenzuschuss (monatlich)"],
+        "correct_letter": "B",
+        "explanation": "Einmalige Zuwendungen, die nicht für einen einzelnen Lohnzahlungszeitraum gewährt werden, sind steuerlich sonstige Bezüge."
+    },
+    {
+        "id": 590,
+        "question": "In welchem Zeitraum eines Kalenderjahres ist die sogenannte März-Klausel bei Einmalzahlungen in der Sozialversicherung zu prüfen?",
+        "options": ["A) Vom 1. Oktober bis 31. Dezember", "B) Vom 1. Januar bis zum 31. März des Folgejahres (§ 23a Abs. 4 SGB IV)", "C) Nur im Monat März", "D) Ganzjährig bei jeder Abrechnung"],
+        "correct_letter": "B",
+        "explanation": "Einmalzahlungen zwischen dem 1. Januar und 31. März sind dem Vorjahr zuzurechnen, wenn bestimmte BBG-Kriterien erfüllt sind."
+    },
+    {
+        "id": 591,
+        "question": "Wann wird ein sonstiger Bezug (z. B. Bonus für 2025, ausgezahlt im Februar 2026) steuerrechtlich erfasst?",
+        "options": ["A) Im Jahr der Erarbeitung (2025).", "B) Im Monat des tatsächlichen Zuflusses (Februar 2026) gemäß § 11 Abs. 1 Satz 4 EStG.", "C) Gleichmäßig verteilt auf 12 Monate.", "D) Überhaupt nicht, er ist steuerfrei."],
+        "correct_letter": "B",
+        "explanation": "Für sonstige Bezüge gilt im Steuerrecht ohne Ausnahme das Zuflussprinzip im Kalenderjahr der Auszahlung."
+    },
+    {
+        "id": 592,
+        "question": "Welcher Wert dient als Berechnungsgrundlage für die Ermittlung des geldwerten Vorteils nach der 1%-Regelung bei der privaten Nutzung eines Dienstwagens?",
+        "options": ["A) Der tatsächliche Kaufpreis des Gebrauchtwagens", "B) Der inländische Bruttolistenpreis (UVP) zum Zeitpunkt der Erstzulassung, aufgerundet auf volle 100 Euro, inklusive Umsatzsteuer und Sonderausstattung.", "C) Der Restwert laut Gutachten", "D) Die jährlichen Tankkosten"],
+        "correct_letter": "B",
+        "explanation": "Die 1%-Regelung basiert gesetzlich immer auf dem gerundeten Bruttolistenpreis der Erstzulassung des Fahrzeugs."
+    },
+    {
+        "id": 593,
+        "question": "Ein Arbeitgeber organisiert eine Betriebsveranstaltung exklusiv für 3 Vorstandsmitglieder (Kosten pro Kopf: 110,00 €). Liegt eine steuerbegünstigte Betriebsveranstaltung vor?",
+        "options": ["A) Ja, weil die 110-Euro-Grenze exakt eingehalten wurde.", "B) Nein, da eine Betriebsveranstaltung voraussetzt, dass der Teilnehmerkreis allen Mitarbeitern des Unternehmens oder eines Betriebsteils offensteht.", "C) Ja, Vorstände zählen doppelt.", "D) Nur wenn ein Protokoll geführt wird."],
+        "correct_letter": "B",
+        "explanation": "Exklusivveranstaltungen für ausgewählte Gruppen erfüllen nicht das Merkmal der Offenheit und führen ab dem ersten Cent zu regulärem Arbeitslohn."
+    },
+    {
+        "id": 594,
+        "question": "Wie wird ein monatlicher Tankgutschein im Wert von exakt 52,00 € abgerechnet, wenn keine Pauschalierung angewendet wird?",
+        "options": ["A) Die ersten 50,00 € sind frei, 2,00 € sind steuerpflichtig.", "B) Der komplette Betrag (52,00 €) ist steuer- und sozialversicherungspflichtig, da es sich um eine Freigrenze und nicht um einen Freibetrag handelt.", "C) Der Gutschein ist immer steuerfrei.", "D) Es fällt nur Kirchensteuer an."],
+        "correct_letter": "B",
+        "explanation": "Wird eine Freigrenze auch nur um einen Cent überschritten, entfällt die Steuerbefreiung für den gesamten Betrag vollständig."
+    },
+    {
+        "id": 595,
+        "question": "Bis zu welchem gesetzlichen Termin muss die elektronische Lohnsteuerbescheinigung (LStB) für das abgelaufene Jahr spätestens an das Finanzamt übermittelt werden?",
+        "options": ["A) Bis zum 31. Januar des Folgejahres", "B) Bis zum spätestens 28. Februar (bzw. 29. Februar in Schaltjahren) des Folgejahres (§ 41b Abs. 1 EStG)", "C) Bis zum 31. März des Folgejahres", "D) Bis zum 15. Februar des Folgejahres"],
+        "correct_letter": "B",
+        "explanation": "Die elektronische Lohnsteuerbescheinigung muss zwingend bis zum letzten Tag des Monats Februar des Folgejahres übermittelt sein."
+    },
+    {
+        "id": 596,
+        "question": "Wann muss eine Lohnsteueranmeldung (LStA) monatlich abgegeben werden?",
+        "options": ["A) Wenn die abzuführende Lohnsteuer im Vorjahr mehr als 5.000,00 € betragen hat (§ 41a Abs. 1 EStG).", "B) Bei jeder Neugründung einer GmbH.", "C) Wenn Auszubildende im Betrieb sind.", "D) Das entscheidet das Lohnbüro flexibel."],
+        "correct_letter": "A",
+        "explanation": "Der Anmeldezeitraum richtet sich nach der Lohnsteuerzahllast des Vorjahres. Über 5.000,00 € verpflichtet zur monatlichen Abgabe bis zum 10. des Folgemonats."
+    },
+    {
+        "id": 597,
+        "question": "Bis zu welchem Termin muss der digitale Lohnnachweis für die Berufsgenossenschaft (gesetzliche Unfallversicherung) elektronisch übermittelt werden?",
+        "options": ["A) 31. Dezember des laufenden Jahres", "B) 16. Februar des Folgejahres", "C) 31. März des Folgejahres", "D) 10. Januar des Folgejahres"],
+        "correct_letter": "B",
+        "explanation": "Der digitale Lohnnachweis zur Unfallversicherung ist bis zum 16. Februar des Folgejahres einzureichen."
+    },
+    {
+        "id": 598,
+        "question": "Mit welchem Meldegrund (Abgabegrund) wird die normale Jahresmeldung zur Sozialversicherung für einen durchgehend beschäftigten Mitarbeiter übermittelt?",
+        "options": ["A) Meldegrund 10", "B) Meldegrund 30", "C) Meldegrund 50", "D) Meldegrund 57"],
+        "correct_letter": "C",
+        "explanation": "Die DEÜV-Jahresmeldung für einen über den Jahreswechsel hinaus beschäftigten Mitarbeiter trägt den Kennschlüssel 50."
+    },
+    {
+        "id": 599,
+        "question": "Welche Lohnart gilt abrechnungstechnisch als sonstiger Bezug?",
+        "options": ["A) Laufendes Monatsgehalt", "B) Einmalig gezahltes Weihnachtsgeld oder Urlaubsgeld", "C) Monatliche Leistungszulage", "D) Fahrtkostenzuschuss (monatlich)"],
+        "correct_letter": "B",
+        "explanation": "Einmalige Zuwendungen, die nicht für einen einzelnen Lohnzahlungszeitraum gewährt werden, sind steuerlich sonstige Bezüge."
+    },
+    {
+        "id": 600,
+        "question": "In welchem Zeitraum eines Kalenderjahres ist die sogenannte März-Klausel bei Einmalzahlungen in der Sozialversicherung zu prüfen?",
+        "options": ["A) Vom 1. Oktober bis 31. Dezember", "B) Vom 1. Januar bis zum 31. März des Folgejahres (§ 23a Abs. 4 SGB IV)", "C) Nur im Monat März", "D) Ganzjährig bei jeder Abrechnung"],
+        "correct_letter": "B",
+        "explanation": "Einmalzahlungen zwischen dem 1. Januar und 31. März sind dem Vorjahr zuzurechnen, wenn bestimmte BBG-Kriterien erfüllt sind."
+    },
+    {
+        "id": 601,
+        "question": "Was ist der Zweck des elektronischen Lohnsteuerabzugsmerkmale (ELStAM)?",
+        "options": ["A) Um den Arbeitgeber von der Lohnsteuer zu befreien.", "B) Um steuerrelevante Daten des Arbeitnehmers elektronisch an den Arbeitgeber zu übermitteln.", "C) Um die Kirchensteuer zu erhöhen.", "D) Um den Solidaritätszuschlag abzuschaffen."],
+        "correct_letter": "B",
+        "explanation": "ELStAM dienen der elektronischen Übermittlung der Steuerklasse, Kirchensteuermerkmale und Freibeträge an den Arbeitgeber."
+    },
+    {
+        "id": 602,
+        "question": "Welche Frist gilt für die Abgabe der monatlichen Lohnsteueranmeldung (LStA)?",
+        "options": ["A) Bis zum 5. des Folgemonats", "B) Bis zum 10. des Folgemonats", "C) Bis zum 15. des Folgemonats", "D) Bis zum letzten Tag des Folgemonats"],
+        "correct_letter": "B",
+        "explanation": "Die Lohnsteueranmeldung muss bis zum 10. des Folgemonats beim Finanzamt eingereicht werden."
+    },
+    {
+        "id": 603,
+        "question": "Was passiert bei Überschreitung der Beitragsbemessungsgrenze in der Krankenversicherung?",
+        "options": ["A) Der Arbeitnehmer wird privat versichert.", "B) Die Beiträge werden nur bis zur BBG berechnet, darüber hinaus keine KV-Beiträge.", "C) Die Beiträge verdoppeln sich.", "D) Der Arbeitgeber zahlt alles."],
+        "correct_letter": "B",
+        "explanation": "Die Beitragsbemessungsgrenze deckelt die Beitragszahlung in der Krankenversicherung nach oben hin ab."
+    },
+    {
+        "id": 604,
+        "question": "Welche Besonderheit gilt für geringfügig Beschäftigte (Minijobber) in der Sozialversicherung?",
+        "options": ["A) Sie zahlen vollen Sozialversicherungsbeitrag.", "B) Sie zahlen pauschale Beiträge des Arbeitgebers zur Rentenversicherung (13 %) und Krankenversicherung (ab 2025: 6 %).", "C) Sie sind komplett beitragsfrei.", "D) Sie zahlen nur Kirchensteuer."],
+        "correct_letter": "B",
+        "explanation": "Minijobber zahlen pauschale Beiträge des Arbeitgebers zur Rentenversicherung (13 %) und Krankenversicherung (ab 2025: 6 %)."
+    },
+    {
+        "id": 605,
+        "question": "Was ist das Faktorverfahren bei der Steuerklassenkombination IV/IV?",
+        "options": ["A) Ein Verfahren zur Berechnung der Kirchensteuer", "B) Ein Verfahren zur genaueren Verteilung der Lohnsteuer bei Ehegatten mit ungleichen Einkommen", "C) Ein Verfahren zur Berechnung des Solidaritätszuschlags", "D) Ein Verfahren zur Berechnung der Sozialversicherungsbeiträge"],
+        "correct_letter": "B",
+        "explanation": "Das Faktorverfahren sorgt für eine präzisere Lohnsteuerbelastung unter Berücksichtigung des Ehegattensplittings."
+    },
+    {
+        "id": 606,
+        "question": "Welcher Freibetrag gilt für Alleinerziehende in der Steuerklasse II?",
+        "options": ["A) 0 €", "B) 2.928 € jährlich (244 € monatlich)", "C) 5.000 € jährlich", "D) 10.000 € jährlich"],
+        "correct_letter": "B",
+        "explanation": "Der Entlastungsbetrag für Alleinerziehende beträgt 2.928 € jährlich."
+    },
+    {
+        "id": 607,
+        "question": "Wie hoch ist der allgemeine Grundfreibetrag im Einkommensteuergesetz für 2026?",
+        "options": ["A) 10.347 €", "B) 11.604 €", "C) 12.000 €", "D) 9.408 €"],
+        "correct_letter": "B",
+        "explanation": "Der Grundfreibetrag wurde für 2026 auf 11.604 € angehoben."
+    },
+    {
+        "id": 608,
+        "question": "Was ist ein sonstiger Bezug im Lohnsteuerrecht?",
+        "options": ["A) Das laufende Monatsgehalt", "B) Einmalige Zuwendungen wie Weihnachtsgeld, Urlaubsgeld oder Boni", "C) Die monatliche Zulage", "D) Der Fahrtkostenzuschuss"],
+        "correct_letter": "B",
+        "explanation": "Sonstige Bezüge sind einmalige Zahlungen, die nicht für einen einzelnen Lohnzahlungszeitraum gewährt werden."
+    },
+    {
+        "id": 609,
+        "question": "Wie wird der Kirchensteuersatz in Bayern und Baden-Württemberg berechnet?",
+        "options": ["A) 9 % der Lohnsteuer", "B) 8 % der Lohnsteuer", "C) 10 % der Lohnsteuer", "D) 7 % der Lohnsteuer"],
+        "correct_letter": "B",
+        "explanation": "In Bayern und Baden-Württemberg beträgt der Kirchensteuersatz 8 % der Lohnsteuer."
+    },
+    {
+        "id": 610,
+        "question": "Was ist die Funktion des digitalen Lohnnachweises für die Berufsgenossenschaft?",
+        "options": ["A) Um die Unfallversicherung zu kündigen", "B) Um die Löhne für die Berechnung der Unfallversicherungsbeiträge zu melden", "C) Um die Rentenversicherung zu berechnen", "D) Um die Krankenversicherung zu prüfen"],
+        "correct_letter": "B",
+        "explanation": "Der digitale Lohnnachweis dient der Meldung der Löhne zur Berechnung der Unfallversicherungsbeiträge."
+    },
+    {
+        "id": 611,
+        "question": "Welche Meldegrund-Kennzahl wird für die Jahresmeldung bei durchgehend beschäftigten Mitarbeitern verwendet?",
+        "options": ["A) 10", "B) 30", "C) 50", "D) 57"],
+        "correct_letter": "C",
+        "explanation": "Die Kennzahl 50 kennzeichnet die reguläre Jahresmeldung für durchgehend beschäftigte Mitarbeiter."
+    },
+    {
+        "id": 612,
+        "question": "Was ist der Zweck der Umlage U1?",
+        "options": ["A) Erstattung von Kosten bei Mutterschaft", "B) Erstattung von Kosten bei Entgeltfortzahlung im Krankheitsfall für kleine Betriebe", "C) Erstattung von Urlaubskosten", "D) Erstattung von Weihnachtsgeld"],
+        "correct_letter": "B",
+        "explanation": "Die Umlage U1 erstattet kleinen Betrieben einen Teil der Entgeltfortzahlungskosten bei Krankheit."
+    },
+    {
+        "id": 613,
+        "question": "Was ist der Zweck der Umlage U2?",
+        "options": ["A) Erstattung von Kosten bei Krankheit", "B) Erstattung von Kosten bei Mutterschutz zu 100 %", "C) Erstattung von Urlaubskosten", "D) Erstattung von Weihnachtsgeld"],
+        "correct_letter": "B",
+        "explanation": "Die Umlage U2 erstattet dem Arbeitgeber alle Aufwendungen für Mutterschutz zu 100 %."
+    },
+    {
+        "id": 614,
+        "question": "Wie hoch ist der Beitragssatz zur Arbeitslosenversicherung (Gesamtsatz) im Jahr 2026?",
+        "options": ["A) 1,3 %", "B) 2,6 %", "C) 3,0 %", "D) 2,0 %"],
+        "correct_letter": "B",
+        "explanation": "Der Gesamtsatz zur Arbeitslosenversicherung beträgt 2,6 %, je zur Hälfte von Arbeitgeber und Arbeitnehmer getragen."
+    },
+    {
+        "id": 615,
+        "question": "Welcher Beitragssatz gilt für die gesetzliche Pflegeversicherung (ohne Kinderlosenzuschlag) im Jahr 2026?",
+        "options": ["A) 2,3 %", "B) 3,4 %", "C) 4,0 %", "D) 2,5 %"],
+        "correct_letter": "B",
+        "explanation": "Der allgemeine Beitragssatz zur Pflegeversicherung beträgt 3,4 %."
+    },
+    {
+        "id": 616,
+        "question": "Wie hoch ist der Zusatzbeitrag zur Krankenversicherung im Jahr 2026?",
+        "options": ["A) 1,0 %", "B) 1,7 %", "C) 2,0 %", "D) 1,5 %"],
+        "correct_letter": "B",
+        "explanation": "Der durchschnittliche Zusatzbeitrag zur Krankenversicherung liegt bei 1,7 %."
+    },
+    {
+        "id": 617,
+        "question": "Was ist die Beitragsbemessungsgrenze für die Rentenversicherung im Jahr 2026?",
+        "options": ["A) 5.512,50 € monatlich", "B) 8.450,00 € monatlich", "C) 7.000,00 € monatlich", "D) 6.000,00 € monatlich"],
+        "correct_letter": "B",
+        "explanation": "Die BBG für die Rentenversicherung beträgt 2026 monatlich 8.450,00 €."
+    },
+    {
+        "id": 618,
+        "question": "Was ist die Beitragsbemessungsgrenze für die Krankenversicherung im Jahr 2026?",
+        "options": ["A) 5.512,50 € monatlich", "B) 8.450,00 € monatlich", "C) 7.000,00 € monatlich", "D) 6.000,00 € monatlich"],
+        "correct_letter": "A",
+        "explanation": "Die BBG für die Krankenversicherung beträgt 2026 monatlich 5.512,50 €."
+    },
+    {
+        "id": 619,
+        "question": "Was bedeutet der Begriff 'paritätische Finanzierung' bei Sozialversicherungsbeiträgen?",
+        "options": ["A) Der Staat zahlt alles.", "B) Arbeitgeber und Arbeitnehmer tragen je zur Hälfte.", "C) Der Arbeitnehmer zahlt alles.", "D) Der Arbeitgeber zahlt alles."],
+        "correct_letter": "B",
+        "explanation": "Paritätische Finanzierung bedeutet, dass Arbeitgeber und Arbeitnehmer je zur Hälfte die Beiträge tragen."
+    },
+    {
+        "id": 620,
+        "question": "Welche Steuerklasse gilt für unverheiratete Arbeitnehmer ohne Kinder?",
+        "options": ["A) Steuerklasse I", "B) Steuerklasse II", "C) Steuerklasse III", "D) Steuerklasse V"],
+        "correct_letter": "A",
+        "explanation": "Unverheiratete Arbeitnehmer ohne Kinder werden in Steuerklasse I eingestuft."
+    },
+    {
+        "id": 621,
+        "question": "Welche Steuerklasse gilt für verheiratete Arbeitnehmer, deren Partner in Steuerklasse V eingestuft ist?",
+        "options": ["A) Steuerklasse I", "B) Steuerklasse II", "C) Steuerklasse III", "D) Steuerklasse IV"],
+        "correct_letter": "C",
+        "explanation": "Wenn ein Ehegatte Steuerklasse V hat, wird der andere in Steuerklasse III eingestuft."
+    },
+    {
+        "id": 622,
+        "question": "Was ist der Solidaritätszuschlag im Jahr 2026?",
+        "options": ["A) 5,5 % der Lohnsteuer für alle", "B) 0 % für die meisten Steuerpflichtigen, nur bei sehr hohen Einkommen relevant", "C) 10 % der Lohnsteuer", "D) Abgeschafft für alle"],
+        "correct_letter": "B",
+        "explanation": "Der Solidaritätszuschlag wurde weitgehend abgeschafft, nur bei sehr hohen Einkommen fällt er noch an."
+    },
+    {
+        "id": 623,
+        "question": "Was ist der Zweck des Entlastungsbetrags für Alleinerziehende?",
+        "options": ["A) Um die Kirchensteuer zu senken", "B) Um die steuerliche Belastung für Alleinerziehende zu verringern", "C) Um den Solidaritätszuschlag zu erhöhen", "D) Um die Sozialversicherungsbeiträge zu senken"],
+        "correct_letter": "B",
+        "explanation": "Der Entlastungsbetrag für Alleinerziehende verringert die steuerliche Belastung für diese Personengruppe."
+    },
+    {
+        "id": 624,
+        "question": "Wie wird der Kinderlosenzuschlag in der Pflegeversicherung berechnet?",
+        "options": ["A) 0,3 % des Bruttogehalts", "B) 0,6 % des Pflegeversicherungsbeitrags", "C) 1,0 % des Bruttogehalts", "D) 0,5 % des Bruttogehalts"],
+        "correct_letter": "B",
+        "explanation": "Der Kinderlosenzuschlag beträgt 0,6 % des Pflegeversicherungsbeitrags."
+    },
+    {
+        "id": 625,
+        "question": "Ab welchem Alter müssen Arbeitnehmer den Kinderlosenzuschlag zahlen?",
+        "options": ["A) Ab 18 Jahren", "B) Ab 23 Jahren", "C) Ab 25 Jahren", "D) Ab 30 Jahren"],
+        "correct_letter": "B",
+        "explanation": "Der Kinderlosenzuschlag gilt ab Vollendung des 23. Lebensjahres."
+    },
+    {
+        "id": 626,
+        "question": "Wer ist vom Kinderlosenzuschlag befreit?",
+        "options": ["A) Alle Arbeitnehmer", "B) Personen mit mindestens einem Kind unter 25 Jahren", "C) Nur Rentner", "D) Niemand"],
+        "correct_letter": "B",
+        "explanation": "Personen mit mindestens einem Kind unter 25 Jahren sind vom Kinderlosenzuschlag befreit."
+    },
+    {
+        "id": 627,
+        "question": "Was ist die 1%-Regelung bei Dienstwagen?",
+        "options": ["A) 1 % des Kaufpreises als monatlicher Vorteil", "B) 1 % des Bruttolistenpreises pro Monat als geldwerter Vorteil", "C) 1 % des Nettogehalts", "D) 1 % der Kilometerpauschale"],
+        "correct_letter": "B",
+        "explanation": "Die 1%-Regelung berechnet den geldwerten Vorteil mit 1 % des Bruttolistenpreises pro Monat."
+    },
+    {
+        "id": 628,
+        "question": "Was ist die 0,03%-Regel bei Dienstwagen?",
+        "options": ["A) 0,03 % des Bruttolistenpreises pro Kilometer für Fahrten zwischen Wohnung und Arbeitsstätte", "B) 0,03 % des Nettogehalts", "C) 0,03 % des Kaufpreises", "D) 0,03 % der Kilometerpauschale"],
+        "correct_letter": "A",
+        "explanation": "Die 0,03%-Regel wird zusätzlich zur 1%-Regel für Fahrten zwischen Wohnung und Arbeitsstätte angewendet."
+    },
+    {
+        "id": 629,
+        "question": "Was ist ein häusliches Arbeitszimmer steuerlich?",
+        "options": ["A) Ein Zimmer im Büro", "B) Ein Zimmer, das ausschließlich oder fast ausschließlich beruflich genutzt wird", "C) Ein Schlafzimmer", "D) Ein Wohnzimmer"],
+        "correct_letter": "B",
+        "explanation": "Ein häusliches Arbeitszimmer muss ausschließlich oder fast ausschließlich beruflich genutzt werden."
+    },
+    {
+        "id": 630,
+        "question": "Wie hoch ist die Kilometerpauschale für Wege zwischen Wohnung und Arbeitsstätte?",
+        "options": ["A) 0,20 € pro Kilometer", "B) 0,30 € pro Kilometer", "C) 0,35 € pro Kilometer", "D) 0,40 € pro Kilometer"],
+        "correct_letter": "B",
+        "explanation": "Die Kilometerpauschale beträgt 0,30 € pro Kilometer für Wege zwischen Wohnung und Arbeitsstätte."
+    },
+    {
+        "id": 631,
+        "question": "Was ist der Zweck der Lohnsteuerbescheinigung?",
+        "options": ["A) Um dem Arbeitgeber zu zeigen, wie viel Lohnsteuer gezahlt wurde", "B) Um dem Finanzamt die Lohnsteuerabzüge zu melden", "C) Um dem Arbeitnehmer die Lohnsteuerabzüge zu bestätigen", "D) Um die Krankenversicherung zu prüfen"],
+        "correct_letter": "C",
+        "explanation": "Die Lohnsteuerbescheinigung bestätigt dem Arbeitnehmer die Lohnsteuerabzüge für das Finanzamt."
+    },
+    {
+        "id": 632,
+        "question": "Bis wann muss die Lohnsteuerbescheinigung dem Arbeitnehmer zugegangen sein?",
+        "options": ["A) Bis zum 31. Januar", "B) Bis zum 28. Februar", "C) Bis zum 31. März", "D) Bis zum 15. April"],
+        "correct_letter": "C",
+        "explanation": "Die Lohnsteuerbescheinigung muss dem Arbeitnehmer spätestens bis zum 31. März zugegangen sein."
+    },
+    {
+        "id": 633,
+        "question": "Was ist der Zweck der DEÜV-Meldungen?",
+        "options": ["A) Um die Lohnsteuer zu berechnen", "B) Um sozialversicherungsrechtliche Daten an die Krankenkassen zu melden", "C) Um die Kirchensteuer zu berechnen", "D) Um den Solidaritätszuschlag zu berechnen"],
+        "correct_letter": "B",
+        "explanation": "DEÜV-Meldungen dienen der Meldung sozialversicherungsrechtlicher Daten an die Krankenkassen."
+    },
+    {
+        "id": 634,
+        "question": "Welcher Meldegrund wird bei Austritt eines Mitarbeiters verwendet?",
+        "options": ["A) 10", "B) 30", "C) 50", "D) 57"],
+        "correct_letter": "A",
+        "explanation": "Meldegrund 10 kennzeichnet den Austritt eines Mitarbeiters aus dem Beschäftigungsverhältnis."
+    },
+    {
+        "id": 635,
+        "question": "Was ist ein Minijob?",
+        "options": ["A) Ein Job mit 40 Stunden pro Woche", "B) Ein geringfügiges Beschäftigungsverhältnis mit einem Verdienst bis 538 € im Monat (2026)", "C) Ein Job ohne Sozialversicherung", "D) Ein Job mit hohem Gehalt"],
+        "correct_letter": "B",
+        "explanation": "Ein Minijob ist ein geringfügiges Beschäftigungsverhältnis mit einem Verdienst bis 538 € im Monat (2026)."
+    },
+    {
+        "id": 636,
+        "question": "Was ist ein Midijob?",
+        "options": ["A) Ein Job bis 538 €", "B) Ein Job zwischen 538,01 € und 2.000 € im Monat (Gleitzone)", "C) Ein Job über 5.000 €", "D) Ein Job ohne Sozialversicherung"],
+        "correct_letter": "B",
+        "explanation": "Ein Midijob ist ein Beschäftigungsverhältnis in der Gleitzone zwischen 538,01 € und 2.000 €."
+    },
+    {
+        "id": 637,
+        "question": "Wie werden die Sozialversicherungsbeiträge in der Gleitzone berechnet?",
+        "options": ["A) Volle Beiträge", "B) Reduzierte Beiträge mit einem Faktor", "C) Keine Beiträge", "D) Nur Arbeitgeberbeiträge"],
+        "correct_letter": "B",
+        "explanation": "In der Gleitzone werden die Beiträge mit einem Faktor reduziert berechnet."
+    },
+    {
+        "id": 638,
+        "question": "Was ist der Zweck der Gleitzone?",
+        "options": ["A) Um Beiträge zu erhöhen", "B) Um den Übergang von Minijob zu sozialversicherungspflichtiger Beschäftigung gleitend zu gestalten", "C) Um die Kirchensteuer zu senken", "D) Um den Solidaritätszuschlag zu erhöhen"],
+        "correct_letter": "B",
+        "explanation": "Die Gleitzone soll den Übergang von Minijob zu sozialversicherungspflichtiger Beschäftigung gleitend gestalten."
+    },
+    {
+        "id": 639,
+        "question": "Wie hoch ist die Entgeltfortzahlung im Krankheitsfall?",
+        "options": ["A) 50 % des Gehalts", "B) 100 % des Gehalts für bis zu 6 Wochen", "C) 75 % des Gehalts", "D) 80 % des Gehalts"],
+        "correct_letter": "B",
+        "explanation": "Die Entgeltfortzahlung beträgt 100 % des Gehalts für bis zu 6 Wochen."
+    },
+    {
+        "id": 640,
+        "question": "Was ist der Zweck des Mutterschaftsgeldes?",
+        "options": ["A) Um den Arbeitgeber zu entlasten", "B) Um den Verdienstausfall während der Mutterschutzfrist auszugleichen", "C) Um die Kirchensteuer zu senken", "D) Um den Solidaritätszuschlag zu erhöhen"],
+        "correct_letter": "B",
+        "explanation": "Das Mutterschaftsgeld gleicht den Verdienstausfall während der Mutterschutzfrist aus."
+    },
+    {
+        "id": 641,
+        "question": "Wie lange dauert der Mutterschutz vor der Entbindung?",
+        "options": ["A) 4 Wochen", "B) 6 Wochen", "C) 8 Wochen", "D) 12 Wochen"],
+        "correct_letter": "B",
+        "explanation": "Der Mutterschutz beginnt 6 Wochen vor der Entbindung."
+    },
+    {
+        "id": 642,
+        "question": "Wie lange dauert der Mutterschutz nach der Entbindung?",
+        "options": ["A) 4 Wochen", "B) 8 Wochen", "C) 12 Wochen", "D) 16 Wochen"],
+        "correct_letter": "B",
+        "explanation": "Der Mutterschutz dauert 8 Wochen nach der Entbindung."
+    },
+    {
+        "id": 643,
+        "question": "Was ist der Zweck des Elterngeldes?",
+        "options": ["A) Um den Arbeitgeber zu entlasten", "B) Um Eltern bei der Betreuung ihres Kindes zu unterstützen", "C) Um die Kirchensteuer zu senken", "D) Um den Solidaritätszuschlag zu erhöhen"],
+        "correct_letter": "B",
+        "explanation": "Das Elterngeld unterstützt Eltern bei der Betreuung ihres Kindes."
+    },
+    {
+        "id": 644,
+        "question": "Wie lange kann Elterngeld bezogen werden?",
+        "options": ["A) 6 Monate", "B) Bis zu 14 Monate", "C) 18 Monate", "D) 24 Monate"],
+        "correct_letter": "B",
+        "explanation": "Elterngeld kann bis zu 14 Monate bezogen werden."
+    },
+    {
+        "id": 645,
+        "question": "Was ist der Zweck des Kindergeldes?",
+        "options": ["A) Um den Arbeitgeber zu entlasten", "B) Um Familien mit Kindern finanziell zu unterstützen", "C) Um die Kirchensteuer zu senken", "D) Um den Solidaritätszuschlag zu erhöhen"],
+        "correct_letter": "B",
+        "explanation": "Das Kindergeld unterstützt Familien mit Kindern finanziell."
+    },
+    {
+        "id": 646,
+        "question": "Wie hoch ist das Kindergeld im Jahr 2026 pro Kind?",
+        "options": ["A) 200 €", "B) 250 €", "C) 255 €", "D) 300 €"],
+        "correct_letter": "C",
+        "explanation": "Das Kindergeld beträgt 2026 255 € pro Kind."
+    },
+    {
+        "id": 647,
+        "question": "Bis zu welchem Alter wird Kindergeld gezahlt?",
+        "options": ["A) Bis 16 Jahre", "B) Bis 18 Jahre", "C) Bis 25 Jahre", "D) Bis 30 Jahre"],
+        "correct_letter": "C",
+        "explanation": "Kindergeld wird bis zum 25. Lebensjahr gezahlt."
+    },
+    {
+        "id": 648,
+        "question": "Was ist der Kinderfreibetrag in der Steuererklärung?",
+        "options": ["A) 0 €", "B) 6.384 € pro Kind (2026)", "C) 10.000 € pro Kind", "D) 5.000 € pro Kind"],
+        "correct_letter": "B",
+        "explanation": "Der Kinderfreibetrag beträgt 6.384 € pro Kind (2026)."
+    },
+    {
+        "id": 649,
+        "question": "Was ist der Zweck des Kinderfreibetrags?",
+        "options": ["A) Um die Kirchensteuer zu senken", "B) Um die steuerliche Belastung für Familien mit Kindern zu verringern", "C) Um den Solidaritätszuschlag zu erhöhen", "D) Um die Sozialversicherungsbeiträge zu senken"],
+        "correct_letter": "B",
+        "explanation": "Der Kinderfreibetrag verringert die steuerliche Belastung für Familien mit Kindern."
+    },
+    {
+        "id": 650,
+        "question": "Was ist der Unterschied zwischen Kindergeld und Kinderfreibetrag?",
+        "options": ["A) Kein Unterschied", "B) Kindergeld wird monatlich gezahlt, Kinderfreibetrag wirkt in der Steuererklärung", "C) Kindergeld ist höher", "D) Kinderfreibetrag ist höher"],
+        "correct_letter": "B",
+        "explanation": "Kindergeld wird monatlich gezahlt, der Kinderfreibetrag wirkt in der Steuererklärung."
+    },
+    {
+        "id": 651,
+        "question": "Was ist der Zweck der Lohnsteuerkarte?",
+        "options": ["A) Sie wurde durch ELStAM abgelöst", "B) Sie wird noch verwendet", "C) Sie ist für die Kirchensteuer", "D) Sie ist für den Solidaritätszuschlag"],
+        "correct_letter": "A",
+        "explanation": "Die Lohnsteuerkarte wurde durch die elektronischen Lohnsteuerabzugsmerkmale (ELStAM) abgelöst."
+    },
+    {
+        "id": 652,
+        "question": "Wie werden ELStAM abgerufen?",
+        "options": ["A) Per Post", "B) Elektronisch über das ELStAM-Verfahren", "C) Per Fax", "D) Persönlich beim Finanzamt"],
+        "correct_letter": "B",
+        "explanation": "ELStAM werden elektronisch über das ELStAM-Verfahren abgerufen."
+    },
+    {
+        "id": 653,
+        "question": "Was passiert, wenn ELStAM nicht abgerufen werden können?",
+        "options": ["A) Der Arbeitnehmer wird nicht bezahlt", "B) Die Steuerklasse VI wird angewendet", "C) Die Steuerklasse I wird angewendet", "D) Der Arbeitgeber zahlt alles"],
+        "correct_letter": "B",
+        "explanation": "Wenn ELStAM nicht abgerufen werden können, wird die Steuerklasse VI angewendet."
+    },
+    {
+        "id": 654,
+        "question": "Was ist der Zweck der Jahresarbeitszeitvergütung?",
+        "options": ["A) Um die Kirchensteuer zu senken", "B) Um Schwankungen im Arbeitszeitkonto auszugleichen", "C) Um den Solidaritätszuschlag zu erhöhen", "D) Um die Sozialversicherungsbeiträge zu senken"],
+        "correct_letter": "B",
+        "explanation": "Die Jahresarbeitszeitvergütung gleicht Schwankungen im Arbeitszeitkonto aus."
+    },
+    {
+        "id": 655,
+        "question": "Was ist ein Arbeitszeitkonto?",
+        "options": ["A) Ein Konto für die Kirchensteuer", "B) Ein Konto zur Erfassung von Arbeitsstunden und Zeitguthaben", "C) Ein Konto für den Solidaritätszuschlag", "D) Ein Konto für die Sozialversicherungsbeiträge"],
+        "correct_letter": "B",
+        "explanation": "Ein Arbeitszeitkonto erfasst Arbeitsstunden und Zeitguthaben."
+    },
+    {
+        "id": 656,
+        "question": "Was ist der Zweck von Überstunden?",
+        "options": ["A) Um die Kirchensteuer zu senken", "B) Um zusätzliche Arbeitsleistung zu vergüten", "C) Um den Solidaritätszuschlag zu erhöhen", "D) Um die Sozialversicherungsbeiträge zu senken"],
+        "correct_letter": "B",
+        "explanation": "Überstunden vergüten zusätzliche Arbeitsleistung."
+    },
+    {
+        "id": 657,
+        "question": "Wie werden Überstunden vergütet?",
+        "options": ["A) Immer mit Zuschlag", "B) Je nach Tarifvertrag oder Arbeitsvertrag", "C) Nie mit Zuschlag", "D) Immer doppelt"],
+        "correct_letter": "B",
+        "explanation": "Die Vergütung von Überstunden hängt vom Tarifvertrag oder Arbeitsvertrag ab."
+    },
+    {
+        "id": 658,
+        "question": "Was ist der Zweck von Nachtzuschlägen?",
+        "options": ["A) Um die Kirchensteuer zu senken", "B) Um Nachtarbeit zu vergüten", "C) Um den Solidaritätszuschlag zu erhöhen", "D) Um die Sozialversicherungsbeiträge zu senken"],
+        "correct_letter": "B",
+        "explanation": "Nachtzuschläge vergüten Nachtarbeit."
+    },
+    {
+        "id": 659,
+        "question": "Was ist der Zweck von Sonn- und Feiertagszuschlägen?",
+        "options": ["A) Um die Kirchensteuer zu senken", "B) Um Arbeit an Sonn- und Feiertagen zu vergüten", "C) Um den Solidaritätszuschlag zu erhöhen", "D) Um die Sozialversicherungsbeiträge zu senken"],
+        "correct_letter": "B",
+        "explanation": "Sonn- und Feiertagszuschläge vergüten Arbeit an Sonn- und Feiertagen."
+    },
+    {
+        "id": 660,
+        "question": "Was ist der Zweck von Schichtzuschlägen?",
+        "options": ["A) Um die Kirchensteuer zu senken", "B) Um Schichtarbeit zu vergüten", "C) Um den Solidaritätszuschlag zu erhöhen", "D) Um die Sozialversicherungsbeiträge zu senken"],
+        "correct_letter": "B",
+        "explanation": "Schichtzuschläge vergüten Schichtarbeit."
+    },
+    {
+        "id": 661,
+        "question": "Was ist der Zweck von Erschwerniszuschlägen?",
+        "options": ["A) Um die Kirchensteuer zu senken", "B) Um besonders belastende Tätigkeiten zu vergüten", "C) Um den Solidaritätszuschlag zu erhöhen", "D) Um die Sozialversicherungsbeiträge zu senken"],
+        "correct_letter": "B",
+        "explanation": "Erschwerniszuschläge vergüten besonders belastende Tätigkeiten."
+    },
+    {
+        "id": 662,
+        "question": "Was ist der Zweck von Leistungszuschlägen?",
+        "options": ["A) Um die Kirchensteuer zu senken", "B) Um besondere Leistungen zu vergüten", "C) Um den Solidaritätszuschlag zu erhöhen", "D) Um die Sozialversicherungsbeiträge zu senken"],
+        "correct_letter": "B",
+        "explanation": "Leistungszuschläge vergüten besondere Leistungen."
+    },
+    {
+        "id": 663,
+        "question": "Was ist der Zweck von Tantiemen?",
+        "options": ["A) Um die Kirchensteuer zu senken", "B) Um am Unternehmenserfolg zu beteiligen", "C) Um den Solidaritätszuschlag zu erhöhen", "D) Um die Sozialversicherungsbeiträge zu senken"],
+        "correct_letter": "B",
+        "explanation": "Tantiemen beteiligen am Unternehmenserfolg."
+    },
+    {
+        "id": 664,
+        "question": "Was ist der Zweck von Provisionen?",
+        "options": ["A) Um die Kirchensteuer zu senken", "B) Um erfolgsabhängige Vergütung zu leisten", "C) Um den Solidaritätszuschlag zu erhöhen", "D) Um die Sozialversicherungsbeiträge zu senken"],
+        "correct_letter": "B",
+        "explanation": "Provisionen sind erfolgsabhängige Vergütungen."
+    },
+    {
+        "id": 665,
+        "question": "Was ist der Zweck von Boni?",
+        "options": ["A) Um die Kirchensteuer zu senken", "B) Um besondere Leistungen zu belohnen", "C) Um den Solidaritätszuschlag zu erhöhen", "D) Um die Sozialversicherungsbeiträge zu senken"],
+        "correct_letter": "B",
+        "explanation": "Boni belohnen besondere Leistungen."
+    },
+    {
+        "id": 666,
+        "question": "Was ist der Zweck von Gratifikationen?",
+        "options": ["A) Um die Kirchensteuer zu senken", "B) Um langjährige Betriebszugehörigkeit zu belohnen", "C) Um den Solidaritätszuschlag zu erhöhen", "D) Um die Sozialversicherungsbeiträge zu senken"],
+        "correct_letter": "B",
+        "explanation": "Gratifikationen belohnen langjährige Betriebszugehörigkeit."
+    },
+    {
+        "id": 667,
+        "question": "Was ist der Zweck von Weihnachtsgeld?",
+        "options": ["A) Um die Kirchensteuer zu senken", "B) Um eine zusätzliche Zuwendung zum Weihnachtsfest zu leisten", "C) Um den Solidaritätszuschlag zu erhöhen", "D) Um die Sozialversicherungsbeiträge zu senken"],
+        "correct_letter": "B",
+        "explanation": "Weihnachtsgeld ist eine zusätzliche Zuwendung zum Weihnachtsfest."
+    },
+    {
+        "id": 668,
+        "question": "Was ist der Zweck von Urlaubsgeld?",
+        "options": ["A) Um die Kirchensteuer zu senken", "B) Um eine zusätzliche Zuwendung zum Urlaub zu leisten", "C) Um den Solidaritätszuschlag zu erhöhen", "D) Um die Sozialversicherungsbeiträge zu senken"],
+        "correct_letter": "B",
+        "explanation": "Urlaubsgeld ist eine zusätzliche Zuwendung zum Urlaub."
+    },
+    {
+        "id": 669,
+        "question": "Was ist der Zweck von Jubiläumszahlungen?",
+        "options": ["A) Um die Kirchensteuer zu senken", "B) Um Betriebsjubiläen zu belohnen", "C) Um den Solidaritätszuschlag zu erhöhen", "D) Um die Sozialversicherungsbeiträge zu senken"],
+        "correct_letter": "B",
+        "explanation": "Jubiläumszahlungen belohnen Betriebsjubiläen."
+    },
+    {
+        "id": 670,
+        "question": "Was ist der Zweck von Abfindungen?",
+        "options": ["A) Um die Kirchensteuer zu senken", "B) Um den Verlust des Arbeitsplatzes zu kompensieren", "C) Um den Solidaritätszuschlag zu erhöhen", "D) Um die Sozialversicherungsbeiträge zu senken"],
+        "correct_letter": "B",
+        "explanation": "Abfindungen kompensieren den Verlust des Arbeitsplatzes."
+    },
+    {
+        "id": 671,
+        "question": "Wie werden Abfindungen steuerlich behandelt?",
+        "options": ["A) Immer steuerfrei", "B) Nach der Fünftelregelung möglich", "C) Immer voll steuerpflichtig", "D) Nur Kirchensteuer"],
+        "correct_letter": "B",
+        "explanation": "Abfindungen können nach der Fünftelregelung steuerlich begünstigt werden."
+    },
+    {
+        "id": 672,
+        "question": "Was ist die Fünftelregelung?",
+        "options": ["A) Ein Fünftel ist steuerfrei", "B) Die Abfindung wird durch 5 geteilt und dann mit dem persönlichen Steuersatz besteuert", "C) Fünftel der Abfindung ist steuerpflichtig", "D) Keine Bedeutung"],
+        "correct_letter": "B",
+        "explanation": "Bei der Fünftelregelung wird die Abfindung durch 5 geteilt und dann mit dem persönlichen Steuersatz besteuert."
+    },
+    {
+        "id": 673,
+        "question": "Was ist der Zweck der Lohnsteuerermäßigung?",
+        "options": ["A) Um die Kirchensteuer zu senken", "B) Um außergewöhnliche Belastungen steuerlich zu berücksichtigen", "C) Um den Solidaritätszuschlag zu erhöhen", "D) Um die Sozialversicherungsbeiträge zu senken"],
+        "correct_letter": "B",
+        "explanation": "Die Lohnsteuerermäßigung berücksichtigt außergewöhnliche Belastungen steuerlich."
+    },
+    {
+        "id": 674,
+        "question": "Was ist eine außergewöhnliche Belastung?",
+        "options": ["A) Normale Lebenshaltungskosten", "B) Aufwendungen, die zwangsläufig entstehen und die Lebensführung des Steuerpflichtigen wesentlich beeinträchtigen", "C) Urlaubskosten", "D) Freizeitkosten"],
+        "correct_letter": "B",
+        "explanation": "Außergewöhnliche Belastungen sind Aufwendungen, die zwangsläufig entstehen und die Lebensführung wesentlich beeinträchtigen."
+    },
+    {
+        "id": 675,
+        "question": "Was ist der Zweck der Werbungskosten?",
+        "options": ["A) Um die Kirchensteuer zu senken", "B) Um beruflich veranlasste Aufwendungen steuerlich zu berücksichtigen", "C) Um den Solidaritätszuschlag zu erhöhen", "D) Um die Sozialversicherungsbeiträge zu senken"],
+        "correct_letter": "B",
+        "explanation": "Werbungskosten berücksichtigen beruflich veranlasste Aufwendungen steuerlich."
+    },
+    {
+        "id": 676,
+        "question": "Was ist der Pauschbetrag für Werbungskosten?",
+        "options": ["A) 1.000 €", "B) 1.230 € (2026)", "C) 1.500 €", "D) 2.000 €"],
+        "correct_letter": "B",
+        "explanation": "Der Pauschbetrag für Werbungskosten beträgt 1.230 € (2026)."
+    },
+    {
+        "id": 677,
+        "question": "Was ist der Zweck der Pendlerpauschale?",
+        "options": ["A) Um die Kirchensteuer zu senken", "B) Um Wege zwischen Wohnung und Arbeitsstätte steuerlich zu berücksichtigen", "C) Um den Solidaritätszuschlag zu erhöhen", "D) Um die Sozialversicherungsbeiträge zu senken"],
+        "correct_letter": "B",
+        "explanation": "Die Pendlerpauschale berücksichtigt Wege zwischen Wohnung und Arbeitsstätte steuerlich."
+    },
+    {
+        "id": 678,
+        "question": "Wie hoch ist die Pendlerpauschale pro Kilometer?",
+        "options": ["A) 0,20 €", "B) 0,30 €", "C) 0,35 €", "D) 0,40 €"],
+        "correct_letter": "B",
+        "explanation": "Die Pendlerpauschale beträgt 0,30 € pro Kilometer."
+    },
+    {
+        "id": 679,
+        "question": "Ab welchem Kilometer gibt es einen Zuschlag zur Pendlerpauschale?",
+        "options": ["A) Ab 10 km", "B) Ab 20 km", "C) Ab 21 km", "D) Ab 30 km"],
+        "correct_letter": "C",
+        "explanation": "Ab dem 21. Kilometer gibt es einen Zuschlag zur Pendlerpauschale."
+    },
+    {
+        "id": 680,
+        "question": "Wie hoch ist der Zuschlag zur Pendlerpauschale ab dem 21. Kilometer?",
+        "options": ["A) 0,05 €", "B) 0,10 €", "C) 0,15 €", "D) 0,20 €"],
+        "correct_letter": "A",
+        "explanation": "Der Zuschlag zur Pendlerpauschale beträgt ab dem 21. Kilometer 0,05 € pro Kilometer."
+    },
+    {
+        "id": 681,
+        "question": "Was ist der Zweck des Haushaltsfreibetrags?",
+        "options": ["A) Um die Kirchensteuer zu senken", "B) Um die steuerliche Belastung für Steuerpflichtige mit Haushalt zu verringern", "C) Um den Solidaritätszuschlag zu erhöhen", "D) Um die Sozialversicherungsbeiträge zu senken"],
+        "correct_letter": "B",
+        "explanation": "Der Haushaltsfreibetrag verringert die steuerliche Belastung für Steuerpflichtige mit Haushalt."
+    },
+    {
+        "id": 682,
+        "question": "Wie hoch ist der Haushaltsfreibetrag?",
+        "options": ["A) 1.000 €", "B) 1.908 € (2026)", "C) 2.000 €", "D) 2.500 €"],
+        "correct_letter": "B",
+        "explanation": "Der Haushaltsfreibetrag beträgt 1.908 € (2026)."
+    },
+    {
+        "id": 683,
+        "question": "Was ist der Zweck des Behinderten-Pauschbetrags?",
+        "options": ["A) Um die Kirchensteuer zu senken", "B) Um die steuerliche Belastung für behinderte Menschen zu verringern", "C) Um den Solidaritätszuschlag zu erhöhen", "D) Um die Sozialversicherungsbeiträge zu senken"],
+        "correct_letter": "B",
+        "explanation": "Der Behinderten-Pauschbetrag verringert die steuerliche Belastung für behinderte Menschen."
+    },
+    {
+        "id": 684,
+        "question": "Wie hoch ist der Behinderten-Pauschbetrag bei einem Grad der Behinderung von 50?",
+        "options": ["A) 1.000 €", "B) 2.840 € (2026)", "C) 3.000 €", "D) 3.500 €"],
+        "correct_letter": "B",
+        "explanation": "Der Behinderten-Pauschbetrag bei GdB 50 beträgt 2.840 € (2026)."
+    },
+    {
+        "id": 685,
+        "question": "Was ist der Zweck des Hinterbliebenen-Pauschbetrags?",
+        "options": ["A) Um die Kirchensteuer zu senken", "B) Um die steuerliche Belastung für Hinterbliebene zu verringern", "C) Um den Solidaritätszuschlag zu erhöhen", "D) Um die Sozialversicherungsbeiträge zu senken"],
+        "correct_letter": "B",
+        "explanation": "Der Hinterbliebenen-Pauschbetrag verringert die steuerliche Belastung für Hinterbliebene."
+    },
+    {
+        "id": 686,
+        "question": "Wie hoch ist der Hinterbliebenen-Pauschbetrag?",
+        "options": ["A) 1.000 €", "B) 3.860 € (2026)", "C) 4.000 €", "D) 4.500 €"],
+        "correct_letter": "B",
+        "explanation": "Der Hinterbliebenen-Pauschbetrag beträgt 3.860 € (2026)."
+    },
+    {
+        "id": 687,
+        "question": "Was ist der Zweck des Pflege-Pauschbetrags?",
+        "options": ["A) Um die Kirchensteuer zu senken", "B) Um die steuerliche Belastung für Pflegepersonen zu verringern", "C) Um den Solidaritätszuschlag zu erhöhen", "D) Um die Sozialversicherungsbeiträge zu senken"],
+        "correct_letter": "B",
+        "explanation": "Der Pflege-Pauschbetrag verringert die steuerliche Belastung für Pflegepersonen."
+    },
+    {
+        "id": 688,
+        "question": "Wie hoch ist der Pflege-Pauschbetrag?",
+        "options": ["A) 600 €", "B) 924 € (2026)", "C) 1.000 €", "D) 1.200 €"],
+        "correct_letter": "B",
+        "explanation": "Der Pflege-Pauschbetrag beträgt 924 € (2026)."
+    },
+    {
+        "id": 689,
+        "question": "Was ist der Zweck des Sonderausgabenabzugs?",
+        "options": ["A) Um die Kirchensteuer zu senken", "B) Um bestimmte Aufwendungen steuerlich zu berücksichtigen", "C) Um den Solidaritätszuschlag zu erhöhen", "D) Um die Sozialversicherungsbeiträge zu senken"],
+        "correct_letter": "B",
+        "explanation": "Der Sonderausgabenabzug berücksichtigt bestimmte Aufwendungen steuerlich."
+    },
+    {
+        "id": 690,
+        "question": "Was sind Sonderausgaben?",
+        "options": ["A) Beruflich veranlasste Aufwendungen", "B) Aufwendungen wie Kirchensteuer, Spenden, Altersvorsorge", "C) Privat veranlasste Aufwendungen", "D) Urlaubskosten"],
+        "correct_letter": "B",
+        "explanation": "Sonderausgaben sind Aufwendungen wie Kirchensteuer, Spenden, Altersvorsorge."
+    },
+    {
+        "id": 691,
+        "question": "Was ist der Zweck des Vorsorgeaufwendungenabzugs?",
+        "options": ["A) Um die Kirchensteuer zu senken", "B) Um Altersvorsorgeaufwendungen steuerlich zu berücksichtigen", "C) Um den Solidaritätszuschlag zu erhöhen", "D) Um die Sozialversicherungsbeiträge zu senken"],
+        "correct_letter": "B",
+        "explanation": "Der Vorsorgeaufwendungenabzug berücksichtigt Altersvorsorgeaufwendungen steuerlich."
+    },
+    {
+        "id": 692,
+        "question": "Was sind Vorsorgeaufwendungen?",
+        "options": ["A) Beruflich veranlasste Aufwendungen", "B) Aufwendungen für Altersvorsorge, Krankenversicherung, Pflegeversicherung", "C) Privat veranlasste Aufwendungen", "D) Urlaubskosten"],
+        "correct_letter": "B",
+        "explanation": "Vorsorgeaufwendungen sind Aufwendungen für Altersvorsorge, Krankenversicherung, Pflegeversicherung."
+    },
+    {
+        "id": 693,
+        "question": "Was ist der Zweck des Kinderbetreuungskostenabzugs?",
+        "options": ["A) Um die Kirchensteuer zu senken", "B) Um Kinderbetreuungskosten steuerlich zu berücksichtigen", "C) Um den Solidaritätszuschlag zu erhöhen", "D) Um die Sozialversicherungsbeiträge zu senken"],
+        "correct_letter": "B",
+        "explanation": "Der Kinderbetreuungskostenabzug berücksichtigt Kinderbetreuungskosten steuerlich."
+    },
+    {
+        "id": 694,
+        "question": "Wie hoch ist der Abzug für Kinderbetreuungskosten pro Kind?",
+        "options": ["A) 1.000 €", "B) 6.000 € (2026)", "C) 8.000 €", "D) 10.000 €"],
+        "correct_letter": "B",
+        "explanation": "Der Abzug für Kinderbetreuungskosten beträgt 6.000 € pro Kind (2026)."
+    },
+    {
+        "id": 695,
+        "question": "Was ist der Zweck des haushaltsnahen Dienstleistungenabzugs?",
+        "options": ["A) Um die Kirchensteuer zu senken", "B) Um haushaltsnahe Dienstleistungen steuerlich zu berücksichtigen", "C) Um den Solidaritätszuschlag zu erhöhen", "D) Um die Sozialversicherungsbeiträge zu senken"],
+        "correct_letter": "B",
+        "explanation": "Der haushaltsnahe Dienstleistungenabzug berücksichtigt haushaltsnahe Dienstleistungen steuerlich."
+    },
+    {
+        "id": 696,
+        "question": "Wie hoch ist der Abzug für haushaltsnahe Dienstleistungen?",
+        "options": ["A) 1.000 €", "B) 6.000 € (2026)", "C) 8.000 €", "D) 10.000 €"],
+        "correct_letter": "B",
+        "explanation": "Der Abzug für haushaltsnahe Dienstleistungen beträgt 6.000 € (2026)."
+    },
+    {
+        "id": 697,
+        "question": "Was ist der Zweck des Handwerkerleistungsaufwandsabzugs?",
+        "options": ["A) Um die Kirchensteuer zu senken", "B) Um Handwerkerleistungen steuerlich zu berücksichtigen", "C) Um den Solidaritätszuschlag zu erhöhen", "D) Um die Sozialversicherungsbeiträge zu senken"],
+        "correct_letter": "B",
+        "explanation": "Der Handwerkerleistungsaufwandsabzug berücksichtigt Handwerkerleistungen steuerlich."
+    },
+    {
+        "id": 698,
+        "question": "Wie hoch ist der Abzug für Handwerkerleistungen?",
+        "options": ["A) 1.000 €", "B) 6.000 € (2026)", "C) 8.000 €", "D) 10.000 €"],
+        "correct_letter": "B",
+        "explanation": "Der Abzug für Handwerkerleistungen beträgt 6.000 € (2026)."
+    },
+    {
+        "id": 699,
+        "question": "Was ist der Zweck des Spendenabzugs?",
+        "options": ["A) Um die Kirchensteuer zu senken", "B) Um Spenden steuerlich zu berücksichtigen", "C) Um den Solidaritätszuschlag zu erhöhen", "D) Um die Sozialversicherungsbeiträge zu senken"],
+        "correct_letter": "B",
+        "explanation": "Der Spendenabzug berücksichtigt Spenden steuerlich."
+    },
+    {
+        "id": 700,
+        "question": "Wie hoch ist der Abzug für Spenden?",
+        "options": ["A) Bis zu 10 % der Einkünfte", "B) Bis zu 20 % der Einkünfte", "C) Bis zu 30 % der Einkünfte", "D) Unbegrenzt"],
+        "correct_letter": "B",
+        "explanation": "Der Abzug für Spenden beträgt bis zu 20 % der Einkünfte."
     }
 ];
