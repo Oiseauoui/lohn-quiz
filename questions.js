@@ -691,9 +691,9 @@ const questions = [
     {
         "id": 98,
         "question": "Wie hoch ist der PV-Beitragssatz ohne Kinderlosenzuschlag?",
-        "options": ["A) 1,7 %", "B) 2,3 %", "C) 3,4 %", "D) 4,0 %"],
-        "correct_letter": "B",
-        "explanation": "Der allgemeine Beitragssatz zur Pflegeversicherung beträgt 3,4 % (je 1,7 % AG/AN). Ohne Kinderlosenzuschlag zahlt der AN also 1,7 % + Zusatzbeitrag."
+        "options": ["A) 1,7 %", "B) 2,3 %", "C) 2,4 %", "D) 4,0 %"],
+        "correct_letter": "C",
+        "explanation": "Der allgemeine Beitragssatz zur Pflegeversicherung beträgt 2,4 % (je 1,2 % AG/AN)."
     },
     {
         "id": 99,
@@ -847,9 +847,9 @@ const questions = [
     {
         "id": 120,
         "question": "Was ist der Grundfreibetrag 2026?",
-        "options": ["A) 9.408 Euro", "B) 11.604 Euro", "C) 12.000 Euro", "D) 10.347 Euro"],
+        "options": ["A) 9.408 Euro", "B) 12.348 Euro", "C) 12.000 Euro", "D) 10.347 Euro"],
         "correct_letter": "B",
-        "explanation": "Der Grundfreibetrag beträgt 2026 11.604 Euro jährlich."
+        "explanation": "Der Grundfreibetrag beträgt 2026 12.348 Euro jährlich."
     },
     // === STEUERKLASSEN ===
     {
@@ -1315,9 +1315,9 @@ const questions = [
     {
         "id": 224,
         "question": "Wie hoch ist die Verdienstgrenze für kurzfristige Beschäftigung?",
-        "options": ["A) 603 Euro", "B) 538 Euro", "C) Keine feste Grenze", "D) 1.000 Euro"],
+        "options": ["A) 538 Euro", "B) 603 Euro", "C) Keine feste Grenze", "D) 1.000 Euro"],
         "correct_letter": "B",
-        "explanation": "Bei kurzfristiger Beschäftigung gilt eine Verdienstgrenze von 538 Euro im Jahr 2026."
+        "explanation": "Bei kurzfristiger Beschäftigung gilt eine Verdienstgrenze von 603 Euro im Jahr 2026."
     },
     {
         "id": 225,
@@ -1331,7 +1331,7 @@ const questions = [
         "question": "Was ist die Gleitzone?",
         "options": ["A) Urlaub", "B) Übergangsbereich zwischen Minijob und sozialversicherungspflichtiger Beschäftigung", "C) Krankheit", "D) Kündigung"],
         "correct_letter": "B",
-        "explanation": "Die Gleitzone (Übergangsbereich) ist der Entgeltbereich zwischen 603 und 1.600 Euro mit reduzierten SV-Beiträgen."
+        "explanation": "Die Gleitzone (Übergangsbereich) ist der Entgeltbereich zwischen 603,01 und 2.000 Euro mit reduzierten SV-Beiträgen."
     },
     {
         "id": 227,
@@ -1738,9 +1738,9 @@ const questions = [
     {
         "id": 284,
         "question": "Was ist ein Midijobber?",
-        "options": ["A) Ein Minijobber", "B) Ein Arbeitnehmer im Übergangsbereich (603-1.600 Euro)", "C) Ein Vollzeitbeschäftigter", "D) Ein Praktikant"],
+        "options": ["A) Ein Minijobber", "B) Ein Arbeitnehmer im Übergangsbereich (603,01-2.000 Euro)", "C) Ein Vollzeitbeschäftigter", "D) Ein Praktikant"],
         "correct_letter": "B",
-        "explanation": "Ein Midijobber ist ein Arbeitnehmer im Übergangsbereich zwischen 603 und 1.600 Euro."
+        "explanation": "Ein Midijobber ist ein Arbeitnehmer im Übergangsbereich zwischen 603,01 und 2.000 Euro."
     },
     {
         "id": 285,
@@ -4003,9 +4003,9 @@ const questions = [
     {
         "id": 607,
         "question": "Wie hoch ist der allgemeine Grundfreibetrag im Einkommensteuergesetz für 2026?",
-        "options": ["A) 10.347 €", "B) 11.604 €", "C) 12.000 €", "D) 9.408 €"],
+        "options": ["A) 10.347 €", "B) 12.348 €", "C) 12.000 €", "D) 9.408 €"],
         "correct_letter": "B",
-        "explanation": "Der Grundfreibetrag wurde für 2026 auf 11.604 € angehoben."
+        "explanation": "Der Grundfreibetrag wurde für 2026 auf 12.348 € angehoben."
     },
     {
         "id": 608,
@@ -4059,9 +4059,9 @@ const questions = [
     {
         "id": 615,
         "question": "Welcher Beitragssatz gilt für die gesetzliche Pflegeversicherung (ohne Kinderlosenzuschlag) im Jahr 2026?",
-        "options": ["A) 2,3 %", "B) 3,4 %", "C) 4,0 %", "D) 2,5 %"],
+        "options": ["A) 2,3 %", "B) 2,4 %", "C) 4,0 %", "D) 2,5 %"],
         "correct_letter": "B",
-        "explanation": "Der allgemeine Beitragssatz zur Pflegeversicherung beträgt 3,4 %."
+        "explanation": "Der allgemeine Beitragssatz zur Pflegeversicherung beträgt 2,4 %."
     },
     {
         "id": 616,
@@ -4080,9 +4080,9 @@ const questions = [
     {
         "id": 618,
         "question": "Was ist die Beitragsbemessungsgrenze für die Krankenversicherung im Jahr 2026?",
-        "options": ["A) 5.512,50 € monatlich", "B) 8.450,00 € monatlich", "C) 7.000,00 € monatlich", "D) 6.000,00 € monatlich"],
+        "options": ["A) 5.812,50 € monatlich", "B) 8.450,00 € monatlich", "C) 7.000,00 € monatlich", "D) 6.000,00 € monatlich"],
         "correct_letter": "A",
-        "explanation": "Die BBG für die Krankenversicherung beträgt 2026 monatlich 5.512,50 €."
+        "explanation": "Die BBG für die Krankenversicherung beträgt 2026 monatlich 5.812,50 €."
     },
     {
         "id": 619,
@@ -4199,16 +4199,16 @@ const questions = [
     {
         "id": 635,
         "question": "Was ist ein Minijob?",
-        "options": ["A) Ein Job mit 40 Stunden pro Woche", "B) Ein geringfügiges Beschäftigungsverhältnis mit einem Verdienst bis 538 € im Monat (2026)", "C) Ein Job ohne Sozialversicherung", "D) Ein Job mit hohem Gehalt"],
+        "options": ["A) Ein Job mit 40 Stunden pro Woche", "B) Ein geringfügiges Beschäftigungsverhältnis mit einem Verdienst bis 603 € im Monat (2026)", "C) Ein Job ohne Sozialversicherung", "D) Ein Job mit hohem Gehalt"],
         "correct_letter": "B",
-        "explanation": "Ein Minijob ist ein geringfügiges Beschäftigungsverhältnis mit einem Verdienst bis 538 € im Monat (2026)."
+        "explanation": "Ein Minijob ist ein geringfügiges Beschäftigungsverhältnis mit einem Verdienst bis 603 € im Monat (2026)."
     },
     {
         "id": 636,
         "question": "Was ist ein Midijob?",
-        "options": ["A) Ein Job bis 538 €", "B) Ein Job zwischen 538,01 € und 2.000 € im Monat (Gleitzone)", "C) Ein Job über 5.000 €", "D) Ein Job ohne Sozialversicherung"],
+        "options": ["A) Ein Job bis 603 €", "B) Ein Job zwischen 603,01 € und 2.000 € im Monat (Gleitzone)", "C) Ein Job über 5.000 €", "D) Ein Job ohne Sozialversicherung"],
         "correct_letter": "B",
-        "explanation": "Ein Midijob ist ein Beschäftigungsverhältnis in der Gleitzone zwischen 538,01 € und 2.000 €."
+        "explanation": "Ein Midijob ist ein Beschäftigungsverhältnis in der Gleitzone zwischen 603,01 € und 2.000 €."
     },
     {
         "id": 637,
